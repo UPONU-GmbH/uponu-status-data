@@ -1,6 +1,6 @@
 {
   "statusAlert": [
-   { 
+  { 
     "message": "Alle Systeme sind funktionsfähig",
     "alertColor": "success",
     "tag": ["all"]
@@ -10,7 +10,7 @@
       {
           "title": "Mailstore Wartung - 14.04.2025 18-24 Uhr",
           "text": "Am 14.04 wird eine Wartung der Mailstore Systeme durchgeführt. Der Zugriff auf die Dienste während des Upgrades ist nur eingeschränkt möglich.",
-          "color": "success",
+          "alertColor": "info",
           "tag": ["uponu"]
       }
   ],
