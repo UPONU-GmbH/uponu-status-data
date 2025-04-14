@@ -1,94 +1,101 @@
 {
-    "statusAlert": [
-     { 
-      "message": "Alle Systeme sind funktionsfähig",
-      "alertColor": "success",
-      "tag": ["all"]
-    }
-    ],
-    "returningMaintanance": [
-      {
-        "title": "System-Updates",
-        "text": "Um die Qualität und Leistungsfähigkeit unseres Systems kontinuierlich zu optimieren, führen wir regelmäßig Wartungsarbeiten durch.\nDas Wartungsfenster findet **jeden zweiten Mittwoch von 19:00 - 21:00 Uhr** statt. Während dieser Zeit kann es zu vorübergehenden Einschränkungen oder Unterbrechungen der Erreichbarkeit unseres Systems kommen.",
-        "tag": ["stimme"]
-      },
-      {
-        "title": "Microsoft Patchday",
-        "text": "Jeden zweiten Dienstag im Monat ist Microsoft Patchday. Es werden zentrale Windows Dienste des Rechenzentrums aktualisiert. Es kann zu verzögerter Mailzustellung und Verbindungsabbrüchen im VMware Horizon View kommen.",
-        "tag": ["dinfra","uponu"]
-      },
-      {
-        "title": "Nextcloud Patchday",
-        "text": "Jeden zweiten Dienstag im Monat werden Managed Nextcloud Systeme aktualisiert. Durch die Aktualisierung des Betriebssystems und der Nextcloud Software ist ggf. ein Neustart erforderlich und die Dienste sind kurzzeitig nicht erreichbar.",
-        "tag": ["dinfra","uponu"]
-      },
-      {
-        "title": "Mailstore",
-        "text": "Jeden ersten Samstag im Monat ab 1 Uhr werden automatisierte Wartungen an den Mailstore Systemen durchgeführt. Während der Wartung kann es zur eingeschränkten Verfügbarkeit der Dienste kommen.",
-        "tag": ["dinfra","uponu"]
-      },
-      {
-        "title": "Gitlab Patchday",
-        "text": "Jeden zweiten Dienstag im Monat werden Managed Gitlab Systeme aktualisiert. Durch die Aktualisierung des Betriebssystems und der Gitlab Software ist ggf. ein Neustart erforderlich und die Dienste sind kurzzeitig nicht erreichbar.",
-        "tag": ["dinfra","uponu"]
-      },
-      {
-        "title": "Plesk- / Webserver Patchday",
-        "text": "Jeden zweiten Dienstag im Monat werden Plesk- / Webserver aktualisiert. Durch die Aktualisierung des Betriebssystems und der Webserver Software ist ggf. ein Neustart erforderlich und die Webseiten sind kurzzeitig nicht erreichbar.",
-        "tag": ["dinfra","uponu"]
-      }
-
-  ],
-    "closedMaintanance": [
-      {
-        "title": "Major Release Update 14 R2 - 05.03.25",
-        "text": "Wir möchten Sie darüber informieren, dass am oben genannten Termin ein Firmware-Update durchgeführt wird. Das Update findet im Zeitraum von 19:00 bis 21:00 Uhr statt.\n\nDa es sich um ein Major Release handelt, wird zudem ein neuer myApps Client bereitgestellt. Die entsprechenden Softwarepakete stellen wir zeitnah in unserem Downloadbereich zur Verfügung.\n\nDetaillierte Informationen zu den Änderungen im Update, sowie zu den erforderlichen Maßnahmen finden Sie in folgendem Artikel:\n[V14 Update/Upgrade](https://wiki.stimme.cloud/doku.php?id=myapps:v14_update_upgrade)\n\nBitte beachten Sie, dass Nutzer Ihrer Kunden, die die Funktion „Anmeldeapparat“ verwenden, sich nach dem Update am Telefon erneut anmelden müssen.",
-        "tag": ["stimme"]
-      },
-      {
-        "title": "Update der Hypervisor - 09.04.2025 ab 13:30 Uhr",
-        "text": "Am Mittwoch den 09.04.2025 ab 13:30 Uhr sind in unseren Rechenzentren Updates auf den Hypervisor Systemen auf welchen die virtuellen Systeme laufen und deren Verwaltungssystemen geplant.\nHierbei kann es zu Verbindungsabbrüchen und einer nichterreichbarkeit der Verwaltungsoberfläche kommen. Laufende virtuelle Maschinen sind nicht betroffen und laufen normal weiter.",
-        "tag": ["uponu"]
-      },
-      {
-        "title": "Tausch SSL Zertifikat für VDI Verbindungsserver (VMware/Omnissa Horizon) - 10.03.2025 ab 22 Uhr",
-        "text": "Am 10.03.2025 ab 22 Uhr werden die SSL Zertifikate für die VDI Verbindungsserver ausgetauscht. Hierbei kann es zu Verbindungsabbrüchen im VMware/Omnissa Horizon Client kommen.\n\nBetroffen sind die folgenden Systeme:\n\n    • viewsec.paar-it.de\n    • viewsec2fa.paar-it.de\n    • view.paar-it.de\n    • view2fa.paar-it.de\n    • vdi01.host-it.cloud\n    • vdi2fa01.host-it.cloud",
-        "tag": ["uponu"]
-      }
-    ],
-    "resolvedIncidents": [
-      {
-        "title": "Einschränkungen Hostingdienste - Update 04.03.2024 - 12:00 Uhr",
-        "text": "Aktuell sind aufgrund der eingesetzten DDoS Mitigation Dienste unter der IP 46.189.64.20 und 46.189.64.63 gestört. Dies betrifft vereinzelte Webmailer Instanzen und Webseiten.",
-        "tag": ["uponu"]
-      },
-      {
-        "title": "Störung Internetanbindung - Update 08.02.2024 - 13:10 Uhr",
-        "text": "Aktuell sind aufgrund der eingesetzten DDoS Mitigation Dienste unter der IP 46.189.64.20 und 46.189.64.63 gestört. Dies betrifft unter anderem Webmailer Instanzen und Webseiten.",
-        "tag": ["uponu"]
-      },
-      {
-        "title": "Störung Internetanbindung - Update 06.02 21:20 Uhr",
-        "text": " Sehr geehrte Damen und Herren,\n\nam 06.02.2025 traten in folgenden Zeiträumen massive Störungen in der Interneterreichbarkeit einzelner Dienste auf (Subnetz: 46.189.64.0/24).\n\nZeiträume:\n\n    • 10:08 Uhr bis 10:44 Uhr\n    • 11:18 Uhr bis 13:25 Uhr\n    • 13:56 Uhr bis 14:41 Uhr\n    • 16:26 Uhr bis 17:42 Uhr\n\nIm Zeitraum von 11:20 Uhr bis 12:00 Uhr dieser Störung konnten wir für einige der Kerndienste einen Workaround realisieren, sodass viele Ressourcen seit 12:00 Uhr wieder mit Einschränkungen genutzt werden konnten.\n\nWir standen seit 10:15 Uhr mit dem Vorlieferanten der hochverfügbaren Leitungsdienste in engem Kontakt und haben alle Eskalationsstufen durchgesetzt. Gemeinsam verdichtete sich zwischen 16:30 Uhr und 17:00 Uhr der Verdacht, dass die massiven Paketverluste und Beeinträchtigungen im Routing auf einen DDOS-Angriff zurückzuführen sind, der unregelmäßig auf die Systeme eingewirkt hat.\n\nEin solcher Cyberangriff ist darauf ausgelegt IT-Systeme und deren Verfügbarkeit zu stören und die Erreichbarkeit zu verhindern. Es findet kein Zugriff auf Daten oder deren Diebstahl statt. In unserem Fall konnten wir bis zu 170.000 angreifende IT-Systeme identifizieren, die gleichzeitig auf unsere Infrastruktur eingewirkt haben. Derartige Volumen lassen sich nur direkt bei den Leitungsprovidern filtern.\n\nNachdem sich der Verdacht erhärtet hat, haben wir mit den IT-Security-Spezialisten des betroffenen Leitungsprovider betroffene Adressbereiche des Internetverkehrs sperren lassen. Um 17:42 Uhr hatten sich alle IT-Systeme im Status normalisiert.\n\nZusammen mit externen Sicherheitsexperten und unserem Team wurden umgehend Maßnahmen zur Verhinderung weiterer Vorfälle dieser Art getroffen. Es wurden bei dem Zulieferer Maßnahmen ergriffen, die derartige Anomalien erkennen und auch auf Zuliefererebene bereits aussteuern und so den Zugang auf unsere Leitungen verhindern.\n\nNeben diesen technischen Maßnahmen wird aktuell auch juristisch alles Notwendige getan, um diesen Angriff formal aufzunehmen.",
-        "tag": ["uponu"]
-      },
-      {
-        "title": "Störung Internetanbindung - Update 06.02 15:25 Uhr",
-        "text": "Sehr geehrte Damen und Herren,\n\n06.02.2025 zwischen 10:08 Uhr und 10:44 Uhr kam es zu einer Störung der Interneterreichbarkeit einzelner Dienste. ( Subnetz: 46.189.64.0/24 ).\n\nUm 11:18 Uhr trat die Störung erneut beim Vorlieferanten auf. Diese dauerte bis 13:25 Uhr.\n\nSeit 13:56 Uhr trat die gleiche Störung mit massivem Paketverlust auf allen Leitungen erneut auf und konnte um 14:41 Uhr aus aktueller Sicht entstört werden.\n\nIm Zeitraum dieser Störung konnten wir für einige der Kerndienste einen Workaround realisieren, sodass die meisten Ressourcen seit 12:00 Uhr wieder genutzt werden konnten.\n\nWir stehen seit 10:15 Uhr mit dem Lieferanten in engem Kontakt und haben alle Eskalationsstufen durchgesetzt.\n\nStand 14:41 Uhr sind alle Dienste aus unserem Haus, die über diese Leitungen angebunden sind, wieder verfügbar. Eine abschließende Meldung des Vorlieferanten zur Entstörung steht noch aus.\n\nSobald uns diese und der Report des Lieferanten vorliegt werden wir unsere Kunden gezielt informieren.",
-        "tag": ["uponu"]
-      },
-      {
-        "title": "Störung Internetanbindung - Update 06.02 11:00 Uhr",
-        "text": "Sehr geehrte Damen und Herren,\nam 06.02.2025 zwischen 10:08 Uhr und 10:44 Uhr kam es im Netzwerk der Versatel zu Routingproblemen. Diese betrafen auch alle redundanten Leitungen, die wir von diesem Dienstleister im Einsatz haben.\nDie Störung konnte durch den Anbieter behoben werden, sodass alle Dienste seit 10:44 Uhr wieder zur Verfügung stehen.\nWir werden mit dem Umzug in unser neues Rechenzentrum alle Anbindungen auf neue IP Adressen umstellen, die leitungsungebunden sind. So können wir in Störungsfällen wie diesem freier das Routing der Datenpakete zwischen unseren Lieferanten umstellen.\nWir bitten diesen Ausfall zu entschuldigen.",
-        "tag": ["uponu"]
-      },
-      {
-        "title": "Störung der Energieversorgung - Update 04.02.2025 12:00 Uhr",
-        "text": "Sehr geehrte Damen und Herren,\nam 04.02.2025, gegen 11:14 Uhr, kam es in weiten Teilen der Siegener Innenstadt zu einem zentralen Stromausfall durch den Energieversorger.\nVon diesem Ausfall waren auch zwei unserer drei Rechenzentrumsstandorte in Siegen betroffen. Die Notstromversorgung, bestehend aus Batterie und Netzersatzanlagen, haben Teile der Infrastruktur, insbesondere die datenhaltenden Speichersysteme, weiter in Betrieb halten können.\nDurch die hohe Last mussten leider einzelne Serversysteme zum Schutz der Speichersysteme deaktiviert werden.\nUm 11:37 Uhr war der Netzstrom der Versorger wieder verfügbar. Die abgeschalteten Serversysteme haben umgehend begonnen, die betroffenen Kundensysteme neu zu starten. Seit ca. 12:00 Uhr stehen unsere Dienste wieder zur Verfügung.\nWir befinden uns seit November 2024 in einem Umzugsprozess in unsere neues (drittes) Rechenzentrum in Siegen. Betroffen von dieser Störung waren nur Kunden, die noch nicht in das neue Rechenzentrum umgezogen wurden. Die Arbeiten für den vollständigen Umzug aller Kunden sollen bis Ende März 2025 abgeschlossen sein.\nIn unserem neuen Rechenzentrum können wir derartige Schwankungen von Versorgern über Wochen hinweg vollständig kompensieren und den Betrieb flächendeckend aufrechterhalten.",
-        "tag": ["uponu"]
-      }
-
-    ]
+  "statusAlert": [
+   { 
+    "message": "Alle Systeme sind funktionsfähig",
+    "alertColor": "success",
+    "tag": ["all"]
   }
-  
-  
+  ],
+  "upcomingMaintenance": [
+      {
+          "title": "Mailstore Wartung - 14.04.2025 18-24 Uhr",
+          "text": "Am 14.04 wird eine Wartung der Mailstore Systeme durchgeführt. Der Zugriff auf die Dienste während des Upgrades ist nur eingeschränkt möglich.",
+          "color": "success",
+          "tag": ["uponu"]
+      }
+  ],
+  "returningMaintenance": [
+    {
+      "title": "System-Updates",
+      "text": "Um die Qualität und Leistungsfähigkeit unseres Systems kontinuierlich zu optimieren, führen wir regelmäßig Wartungsarbeiten durch.\nDas Wartungsfenster findet **jeden zweiten Mittwoch von 19:00 - 21:00 Uhr** statt. Während dieser Zeit kann es zu vorübergehenden Einschränkungen oder Unterbrechungen der Erreichbarkeit unseres Systems kommen.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Microsoft Patchday",
+      "text": "Jeden zweiten Dienstag im Monat ist Microsoft Patchday. Es werden zentrale Windows Dienste des Rechenzentrums aktualisiert. Es kann zu verzögerter Mailzustellung und Verbindungsabbrüchen im VMware Horizon View kommen.",
+      "tag": ["dinfra","uponu"]
+    },
+    {
+      "title": "Nextcloud Patchday",
+      "text": "Jeden zweiten Dienstag im Monat werden Managed Nextcloud Systeme aktualisiert. Durch die Aktualisierung des Betriebssystems und der Nextcloud Software ist ggf. ein Neustart erforderlich und die Dienste sind kurzzeitig nicht erreichbar.",
+      "tag": ["dinfra","uponu"]
+    },
+    {
+      "title": "Mailstore",
+      "text": "Jeden ersten Samstag im Monat ab 1 Uhr werden automatisierte Wartungen an den Mailstore Systemen durchgeführt. Während der Wartung kann es zur eingeschränkten Verfügbarkeit der Dienste kommen.",
+      "tag": ["dinfra","uponu"]
+    },
+    {
+      "title": "Gitlab Patchday",
+      "text": "Jeden zweiten Dienstag im Monat werden Managed Gitlab Systeme aktualisiert. Durch die Aktualisierung des Betriebssystems und der Gitlab Software ist ggf. ein Neustart erforderlich und die Dienste sind kurzzeitig nicht erreichbar.",
+      "tag": ["dinfra","uponu"]
+    },
+    {
+      "title": "Plesk- / Webserver Patchday",
+      "text": "Jeden zweiten Dienstag im Monat werden Plesk- / Webserver aktualisiert. Durch die Aktualisierung des Betriebssystems und der Webserver Software ist ggf. ein Neustart erforderlich und die Webseiten sind kurzzeitig nicht erreichbar.",
+      "tag": ["dinfra","uponu"]
+    }
+
+],
+  "closedMaintenance": [
+    {
+      "title": "Major Release Update 14 R2 - 05.03.25",
+      "text": "Wir möchten Sie darüber informieren, dass am oben genannten Termin ein Firmware-Update durchgeführt wird. Das Update findet im Zeitraum von 19:00 bis 21:00 Uhr statt.\n\nDa es sich um ein Major Release handelt, wird zudem ein neuer myApps Client bereitgestellt. Die entsprechenden Softwarepakete stellen wir zeitnah in unserem Downloadbereich zur Verfügung.\n\nDetaillierte Informationen zu den Änderungen im Update, sowie zu den erforderlichen Maßnahmen finden Sie in folgendem Artikel:\n[V14 Update/Upgrade](https://wiki.stimme.cloud/doku.php?id=myapps:v14_update_upgrade)\n\nBitte beachten Sie, dass Nutzer Ihrer Kunden, die die Funktion „Anmeldeapparat“ verwenden, sich nach dem Update am Telefon erneut anmelden müssen.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Update der Hypervisor - 09.04.2025 ab 13:30 Uhr",
+      "text": "Am Mittwoch den 09.04.2025 ab 13:30 Uhr sind in unseren Rechenzentren Updates auf den Hypervisor Systemen auf welchen die virtuellen Systeme laufen und deren Verwaltungssystemen geplant.\nHierbei kann es zu Verbindungsabbrüchen und einer nichterreichbarkeit der Verwaltungsoberfläche kommen. Laufende virtuelle Maschinen sind nicht betroffen und laufen normal weiter.",
+      "tag": ["uponu"]
+    },
+    {
+      "title": "Tausch SSL Zertifikat für VDI Verbindungsserver (VMware/Omnissa Horizon) - 10.03.2025 ab 22 Uhr",
+      "text": "Am 10.03.2025 ab 22 Uhr werden die SSL Zertifikate für die VDI Verbindungsserver ausgetauscht. Hierbei kann es zu Verbindungsabbrüchen im VMware/Omnissa Horizon Client kommen.\n\nBetroffen sind die folgenden Systeme:\n\n-*viewsec.paar-it.de*- -*viewsec2fa.paar-it.de*- -*view.paar-it.de*- -*view2fa.paar-it.de*- -*vdi01.host-it.cloud*- -*vdi2fa01.host-it.cloud*-",
+      "tag": ["uponu"]
+    }
+  ],
+  "resolvedIncidents": [
+    {
+      "title": "Einschränkungen Hostingdienste - Update 04.03.2024 - 12:00 Uhr",
+      "text": "Aktuell sind aufgrund der eingesetzten DDoS Mitigation Dienste unter der IP 46.189.64.20 und 46.189.64.63 gestört. Dies betrifft vereinzelte Webmailer Instanzen und Webseiten.",
+      "tag": ["uponu"]
+    },
+    {
+      "title": "Störung Internetanbindung - Update 08.02.2024 - 13:10 Uhr",
+      "text": "Aktuell sind aufgrund der eingesetzten DDoS Mitigation Dienste unter der IP 46.189.64.20 und 46.189.64.63 gestört. Dies betrifft unter anderem Webmailer Instanzen und Webseiten.",
+      "tag": ["uponu"]
+    },
+    {
+      "title": "Störung Internetanbindung - Update 06.02 21:20 Uhr",
+      "text": " Sehr geehrte Damen und Herren,\n\nam 06.02.2025 traten in folgenden Zeiträumen massive Störungen in der Interneterreichbarkeit einzelner Dienste auf (Subnetz: 46.189.64.0/24).\n\nZeiträume:\n\n-*10:08 Uhr bis 10:44 Uhr*- -*11:18 Uhr bis 13:25 Uhr*- -*13:56 Uhr bis 14:41 Uhr*- -*16:26 Uhr bis 17:42 Uhr*-\nIm Zeitraum von 11:20 Uhr bis 12:00 Uhr dieser Störung konnten wir für einige der Kerndienste einen Workaround realisieren, sodass viele Ressourcen seit 12:00 Uhr wieder mit Einschränkungen genutzt werden konnten.\n\nWir standen seit 10:15 Uhr mit dem Vorlieferanten der hochverfügbaren Leitungsdienste in engem Kontakt und haben alle Eskalationsstufen durchgesetzt. Gemeinsam verdichtete sich zwischen 16:30 Uhr und 17:00 Uhr der Verdacht, dass die massiven Paketverluste und Beeinträchtigungen im Routing auf einen DDOS-Angriff zurückzuführen sind, der unregelmäßig auf die Systeme eingewirkt hat.\n\nEin solcher Cyberangriff ist darauf ausgelegt IT-Systeme und deren Verfügbarkeit zu stören und die Erreichbarkeit zu verhindern. Es findet kein Zugriff auf Daten oder deren Diebstahl statt. In unserem Fall konnten wir bis zu 170.000 angreifende IT-Systeme identifizieren, die gleichzeitig auf unsere Infrastruktur eingewirkt haben. Derartige Volumen lassen sich nur direkt bei den Leitungsprovidern filtern.\n\nNachdem sich der Verdacht erhärtet hat, haben wir mit den IT-Security-Spezialisten des betroffenen Leitungsprovider betroffene Adressbereiche des Internetverkehrs sperren lassen. Um 17:42 Uhr hatten sich alle IT-Systeme im Status normalisiert.\n\nZusammen mit externen Sicherheitsexperten und unserem Team wurden umgehend Maßnahmen zur Verhinderung weiterer Vorfälle dieser Art getroffen. Es wurden bei dem Zulieferer Maßnahmen ergriffen, die derartige Anomalien erkennen und auch auf Zuliefererebene bereits aussteuern und so den Zugang auf unsere Leitungen verhindern.\n\nNeben diesen technischen Maßnahmen wird aktuell auch juristisch alles Notwendige getan, um diesen Angriff formal aufzunehmen.",
+      "tag": ["uponu"]
+    },
+    {
+      "title": "Störung Internetanbindung - Update 06.02 15:25 Uhr",
+      "text": "Sehr geehrte Damen und Herren,\n\n06.02.2025 zwischen 10:08 Uhr und 10:44 Uhr kam es zu einer Störung der Interneterreichbarkeit einzelner Dienste. ( Subnetz: 46.189.64.0/24 ).\n\nUm 11:18 Uhr trat die Störung erneut beim Vorlieferanten auf. Diese dauerte bis 13:25 Uhr.\n\nSeit 13:56 Uhr trat die gleiche Störung mit massivem Paketverlust auf allen Leitungen erneut auf und konnte um 14:41 Uhr aus aktueller Sicht entstört werden.\n\nIm Zeitraum dieser Störung konnten wir für einige der Kerndienste einen Workaround realisieren, sodass die meisten Ressourcen seit 12:00 Uhr wieder genutzt werden konnten.\n\nWir stehen seit 10:15 Uhr mit dem Lieferanten in engem Kontakt und haben alle Eskalationsstufen durchgesetzt.\n\nStand 14:41 Uhr sind alle Dienste aus unserem Haus, die über diese Leitungen angebunden sind, wieder verfügbar. Eine abschließende Meldung des Vorlieferanten zur Entstörung steht noch aus.\n\nSobald uns diese und der Report des Lieferanten vorliegt werden wir unsere Kunden gezielt informieren.",
+      "tag": ["uponu"]
+    },
+    {
+      "title": "Störung Internetanbindung - Update 06.02 11:00 Uhr",
+      "text": "Sehr geehrte Damen und Herren,\nam 06.02.2025 zwischen 10:08 Uhr und 10:44 Uhr kam es im Netzwerk der Versatel zu Routingproblemen. Diese betrafen auch alle redundanten Leitungen, die wir von diesem Dienstleister im Einsatz haben.\nDie Störung konnte durch den Anbieter behoben werden, sodass alle Dienste seit 10:44 Uhr wieder zur Verfügung stehen.\nWir werden mit dem Umzug in unser neues Rechenzentrum alle Anbindungen auf neue IP Adressen umstellen, die leitungsungebunden sind. So können wir in Störungsfällen wie diesem freier das Routing der Datenpakete zwischen unseren Lieferanten umstellen.\nWir bitten diesen Ausfall zu entschuldigen.",
+      "tag": ["uponu"]
+    },
+    {
+      "title": "Störung der Energieversorgung - Update 04.02.2025 12:00 Uhr",
+      "text": "Sehr geehrte Damen und Herren,\nam 04.02.2025, gegen 11:14 Uhr, kam es in weiten Teilen der Siegener Innenstadt zu einem zentralen Stromausfall durch den Energieversorger.\nVon diesem Ausfall waren auch zwei unserer drei Rechenzentrumsstandorte in Siegen betroffen. Die Notstromversorgung, bestehend aus Batterie und Netzersatzanlagen, haben Teile der Infrastruktur, insbesondere die datenhaltenden Speichersysteme, weiter in Betrieb halten können.\nDurch die hohe Last mussten leider einzelne Serversysteme zum Schutz der Speichersysteme deaktiviert werden.\nUm 11:37 Uhr war der Netzstrom der Versorger wieder verfügbar. Die abgeschalteten Serversysteme haben umgehend begonnen, die betroffenen Kundensysteme neu zu starten. Seit ca. 12:00 Uhr stehen unsere Dienste wieder zur Verfügung.\nWir befinden uns seit November 2024 in einem Umzugsprozess in unsere neues (drittes) Rechenzentrum in Siegen. Betroffen von dieser Störung waren nur Kunden, die noch nicht in das neue Rechenzentrum umgezogen wurden. Die Arbeiten für den vollständigen Umzug aller Kunden sollen bis Ende März 2025 abgeschlossen sein.\nIn unserem neuen Rechenzentrum können wir derartige Schwankungen von Versorgern über Wochen hinweg vollständig kompensieren und den Betrieb flächendeckend aufrechterhalten.",
+      "tag": ["uponu"]
+    }
+
+  ]
+}
+
