@@ -13,9 +13,9 @@
           "alertColor": "info",
           "tag": ["uponu"]
       },
-          {
+      {
           "title": "Major Release Update 15 - 20.08.2025 19-21 Uhr",
-          "text": "Wir möchten Sie darüber informieren, dass am 20.08.2025 ein Major Release Update auf die Version 15 durchgeführt wird. Das Update erfolgt im Rahmen unseres regulären Wartungsfensters zwischen 19:00 und 21:00 Uhr.\n\nIm Zuge dieses Updates wird ein neuer myApps Client bereitgestellt, der ab sofort in unserem Downloadbereich (https://download.stimme.cloud/) zur Verfügung steht.\n\nDetaillierte Informationen zu den Änderungen sowie den ggf. erforderlichen Maßnahmen haben wir für Sie im folgenden Artikel zusammengestellt:\nhttps://wiki.stimme.cloud/doku.php?id=myapps:v15_update_upgrade\n\nWichtiger Hinweis:\nNutzer Ihrer Kunden, die die Funktion „Anmeldeapparat“ verwenden, müssen sich nach dem Update am jeweiligen Telefon erneut anmelden.\n\nBitte informieren Sie auch Ihre Kunden rechtzeitig über dieses Update, um mögliche Irritationen zum genannten Zeitpunkt oder am darauffolgenden Morgen zu vermeiden.",
+          "text": "Wir möchten Sie darüber informieren, dass am **20.08.2025** ein **Major Release Update** auf die Version 15 durchgeführt wird. Das Update erfolgt im Rahmen unseres regulären Wartungsfensters zwischen **19:00 und 21:00 Uhr**.\n\nIm Zuge dieses Updates wird ein **neuer myApps Client** bereitgestellt, der ab sofort in unserem **Downloadbereich** [Download](https://download.stimme.cloud/) zur Verfügung steht.\n\nDetaillierte Informationen zu den Änderungen sowie den ggf. erforderlichen Maßnahmen haben wir für Sie im folgenden Artikel zusammengestellt:\n[V15 Update/Upgrade](https://wiki.stimme.cloud/doku.php?id=myapps:v15_update_upgrade)\n\n**Wichtiger Hinweis:**\nNutzer Ihrer Kunden, die die Funktion **„Anmeldeapparat“** verwenden, müssen sich nach dem Update am jeweiligen Telefon erneut anmelden.\n\nBitte informieren Sie auch Ihre Kunden rechtzeitig über dieses Update, um mögliche Irritationen zum genannten Zeitpunkt oder am darauffolgenden Morgen zu vermeiden.",
           "alertColor": "info",
           "tag": ["stimme"]
       }
