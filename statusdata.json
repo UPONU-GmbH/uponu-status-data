@@ -18,6 +18,12 @@
           "text": "Wir möchten Sie darüber informieren, dass am **20.08.2025** ein **Major Release Update** auf die Version 15 durchgeführt wird. Das Update erfolgt im Rahmen unseres regulären Wartungsfensters zwischen **19:00 und 21:00 Uhr**.\n\nIm Zuge dieses Updates wird ein **neuer myApps Client** bereitgestellt, der ab sofort in unserem **Downloadbereich** zur Verfügung steht:\n[Download](https://download.stimme.cloud/)\n\nDetaillierte Informationen zu den Änderungen sowie den ggf. erforderlichen Maßnahmen haben wir für Sie im folgenden Artikel zusammengestellt:\n[V15 Update/Upgrade](https://wiki.stimme.cloud/doku.php?id=myapps:v15_update_upgrade)\n\n**Wichtiger Hinweis:**\nNutzer Ihrer Kunden, die die Funktion **„Anmeldeapparat“** verwenden, müssen sich nach dem Update am jeweiligen Telefon erneut anmelden.\n\nBitte informieren Sie auch Ihre Kunden rechtzeitig über dieses Update, um mögliche Irritationen zum genannten Zeitpunkt oder am darauffolgenden Morgen zu vermeiden.",
           "alertColor": "info",
           "tag": ["stimme"]
+      },
+      {
+          "title": "Wartung Firewall Systeme 13.08.2025 - ab 22 Uhr",
+          "text": "Am 13.08.2025 werden ab 22 Uhr Wartungen an Firewall Systemen durchgeführt wodurch es zu kurzen Verbindungsabbrüchen kommen kann.",
+          "alertColor": "info",
+          "tag": ["all"]
       }
   ],
   "returningMaintenance": [
