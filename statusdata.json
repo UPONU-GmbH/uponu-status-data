@@ -1,8 +1,7 @@
 {
   "statusAlert": [
   { 
-    "message": "Sehr geehrte Damen und Herren
-ab 19 Uhr führen wir eine Wartung an all unseren Portalen durch. Diese sind während der Wartung nicht erreichbar. Wir aktualisieren die Status-Seite, wenn die Wartung abgeschlossen ist.",
+    "message": "Sehr geehrte Damen und Herren ab 19 Uhr führen wir eine Wartung an all unseren Portalen durch. Diese sind während der Wartung nicht erreichbar. Wir aktualisieren die Status-Seite, wenn die Wartung abgeschlossen ist.",
     "alertColor": "info",
     "tag": ["all"]
   }
