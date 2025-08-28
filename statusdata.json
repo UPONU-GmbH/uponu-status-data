@@ -6,24 +6,13 @@
     "tag": ["dinfra","uponu"]
   },
   {
-    "message": "Die Systeme funktionieren eingeschränkt",
-    "alertColor": "info",
+    "message": "Alle Systeme sind funktionsfähig",
+    "alertColor": "success",
     "tag": ["stimme"]
     }
   ],
   "incidents": [
-    {
-      "title": "Störung: Einschränkung bei Web-Portal und Kontaktsuche - Update 28.08.25 11:25",
-      "text": "Die Ursache wurde identifiziert und behoben. Wir arbeiten derzeit an der Behebung der daraus resultierenden Auswirkungen.",
-      "alertColor": "alert",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Störung: Einschränkung bei Web-Portal und Kontaktsuche - Update 28.08.25 09:30",
-      "text": "Aktuell ist die Abfrage des Web-Portals nicht möglich. Infolgedessen steht auch die Kontaktsuche über das Telefon sowie über myApps derzeit nicht zur Verfügung. Unser Team arbeitet bereits an der Behebung der Störung.",
-      "alertColor": "alert",
-      "tag": ["stimme"]
-    }
+
   ],
   "upcomingMaintenance": [
       {
@@ -94,6 +83,18 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Störung: Einschränkung bei Web-Portal und Kontaktsuche - Update 28.08.25 11:25",
+      "text": "Die Ursache wurde identifiziert und behoben. Wir arbeiten derzeit an der Behebung der daraus resultierenden Auswirkungen.",
+      "alertColor": "alert",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Störung: Einschränkung bei Web-Portal und Kontaktsuche - Update 28.08.25 09:30",
+      "text": "Aktuell ist die Abfrage des Web-Portals nicht möglich. Infolgedessen steht auch die Kontaktsuche über das Telefon sowie über myApps derzeit nicht zur Verfügung. Unser Team arbeitet bereits an der Behebung der Störung.",
+      "alertColor": "alert",
+      "tag": ["stimme"]
+    },
     {
       "title": "Einschränkungen Hostingdienste - Update 04.03.2024 - 12:00 Uhr",
       "text": "Aktuell sind aufgrund der eingesetzten DDoS Mitigation Dienste unter der IP 46.189.64.20 und 46.189.64.63 gestört. Dies betrifft vereinzelte Webmailer Instanzen und Webseiten.",
