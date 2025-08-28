@@ -1,8 +1,8 @@
 {
   "statusAlert": [
   { 
-    "message": "Alle Systeme sind funktionsfähig",
-    "alertColor": "success",
+    "message": "Wir möchten Sie informieren, dass es derzeit vereinzelt zu Netzwerkstörungen kommt. Unser Team arbeitet mit Hochdruck an einer schnellen Lösung, um die volle Verfügbarkeit so bald wie möglich wiederherzustellen. Sobald uns weitere Informationen vorliegen, werden wir diese hier umgehend veröffentlichen. Vielen Dank für Ihr Verständnis",
+    "alertColor": "alert",
     "tag": ["all"]
   }
   ],
