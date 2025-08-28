@@ -12,11 +12,17 @@
     }
   ],
   "incidents": [
-  {
-    "title": "Störung: Einschränkung bei Web-Portal und Kontaktsuche",
-    "text": "Aktuell ist die Abfrage des Web-Portals nicht möglich. Infolgedessen steht auch die Kontaktsuche über das Telefon sowie über myApps derzeit nicht zur Verfügung. Unser Team arbeitet bereits an der Behebung der Störung.",
-    "alertColor": "alert",
-    "tag": ["stimme"]
+    {
+      "title": "Störung: Einschränkung bei Web-Portal und Kontaktsuche - Update 28.08.25 11:25",
+      "text": "Die Ursache wurde identifiziert und behoben. Wir arbeiten derzeit an der Behebung der daraus resultierenden Auswirkungen.",
+      "alertColor": "alert",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Störung: Einschränkung bei Web-Portal und Kontaktsuche - Update 28.08.25 09:30",
+      "text": "Aktuell ist die Abfrage des Web-Portals nicht möglich. Infolgedessen steht auch die Kontaktsuche über das Telefon sowie über myApps derzeit nicht zur Verfügung. Unser Team arbeitet bereits an der Behebung der Störung.",
+      "alertColor": "alert",
+      "tag": ["stimme"]
     }
   ],
   "upcomingMaintenance": [
