@@ -8,10 +8,10 @@
   ],
   "incidents": [
       {
-          "title": "Example",
-          "text": "Example.",
+          "title": "Einschränkung bei Web-Portal und Kontaktsuche",
+          "text": "Aktuell ist die Abfrage des Web-Portals nicht möglich. Infolgedessen steht auch die Kontaktsuche über das Telefon sowie über den myApps Client derzeit nicht zur Verfügung. Unser Team arbeitet bereits an der Behebung der Störung.",
           "alertColor": "info",
-          "tag": ["example"]
+          "tag": ["stimme"]
       }
   ],
   "upcomingMaintenance": [
