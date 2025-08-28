@@ -3,16 +3,21 @@
   { 
     "message": "Wir möchten Sie informieren, dass es derzeit vereinzelt zu Netzwerkstörungen kommt. Unser Team arbeitet mit Hochdruck an einer schnellen Lösung, um die volle Verfügbarkeit so bald wie möglich wiederherzustellen. Sobald uns weitere Informationen vorliegen, werden wir diese hier umgehend veröffentlichen. Vielen Dank für Ihr Verständnis",
     "alertColor": "alert",
-    "tag": ["all"]
-  }
+    "tag": ["dinfra","uponu"]
+  },
+  {
+    "message": "Die Systeme funktionieren eingeschränkt",
+    "alertColor": "info",
+    "tag": ["stimme"]
+    }
   ],
   "incidents": [
-      {
-          "title": "Einschränkung bei Web-Portal und Kontaktsuche",
-          "text": "Aktuell ist die Abfrage des Web-Portals nicht möglich. Infolgedessen steht auch die Kontaktsuche über das Telefon sowie über den myApps Client derzeit nicht zur Verfügung. Unser Team arbeitet bereits an der Behebung der Störung.",
-          "alertColor": "info",
-          "tag": ["stimme"]
-      }
+  {
+    "title": "Störung: Web-Portal und Kontaktsuche",
+    "text": "Derzeit ist die Abfrage des Web-Portals nicht möglich. Daher steht auch die Kontaktsuche über Telefon und myApps nicht zur Verfügung. Unser Team arbeitet bereits an der Behebung.",
+    "alertColor": "info",
+    "tag": ["stimme"]
+    }
   ],
   "upcomingMaintenance": [
       {
