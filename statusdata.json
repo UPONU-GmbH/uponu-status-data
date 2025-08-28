@@ -13,9 +13,9 @@
   ],
   "incidents": [
   {
-    "title": "Störung: Web-Portal und Kontaktsuche",
-    "text": "Derzeit ist die Abfrage des Web-Portals nicht möglich. Daher steht auch die Kontaktsuche über Telefon und myApps nicht zur Verfügung. Unser Team arbeitet bereits an der Behebung.",
-    "alertColor": "info",
+    "title": "Störung: Einschränkung bei Web-Portal und Kontaktsuche",
+    "text": "Aktuell ist die Abfrage des Web-Portals nicht möglich. Infolgedessen steht auch die Kontaktsuche über das Telefon sowie über myApps derzeit nicht zur Verfügung. Unser Team arbeitet bereits an der Behebung der Störung.",
+    "alertColor": "alert",
     "tag": ["stimme"]
     }
   ],
