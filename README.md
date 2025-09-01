@@ -10,23 +10,19 @@ To format text in the JSON, you can use the following syntax:
   - Item 1  
   - Item 2  
   - Item 3
+- Use **\n** for linebreak
 
 ## Status alert
 If there is more than one status alert for a company, the last one is taken automatically.
 
 ## Posible options for the alert-color
-primary 	Blue
-
-secondary	Grey 
-
-success 	Green
-
-danger  	Red
-
-warning	    Yellow
-
-info	    Light blue
-
-light	    Light grey/ white
-
-dark	    Black/Dark grey
+|string|color|
+|------|-----|
+|primary|Blue|
+|secondary|Grey|
+|success|Green|
+|danger|Red|
+|warning|Yellow|
+|info|Light blue|
+|light|Light grey/ white|
+|dark|Black/Dark grey|
