@@ -111,12 +111,12 @@
     {
       "title": "DNS Probleme Domain paar-it.de - Update 16.06.2025 15:30 Uhr",
       "text": "Der Vorfall wurde durch den zuständigen Serviceprovider erfolgreich behoben. Der Service steht nun wieder uneingeschränkt und stabil zur Verfügung. Wir danken für Ihr Verständnis.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu"]
     },
     {
       "title": "DNS Probleme Domain paar-it.de - Update 16.06.2025 12:55 Uhr",
       "text": "Die DNS Provider welche die Domain paar-it.de hosten haben derzeit Probleme. Die Dienste welche unter der Domain paar-it.de laufen sind derzeit nur eingeschränkt nutzbar.\nWir arbeiten an dem Problem und aktualisieren die Status Seite sobald es neue Informationen gibt.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu"]
     },
     {
       "title": "Einschränkungen Hostingdienste - Update 04.03.2024 - 12:00 Uhr",
