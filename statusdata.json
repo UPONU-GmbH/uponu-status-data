@@ -7,7 +7,11 @@
     }
   ],
   "incidents": [
-
+    {
+      "title": "Systemanpassung am 01.09. und 02.09.",
+      "text": "Im Zuge einer wichtigen Anpassung kann es an dem drauffolgendem Tag dazu kommen, dass eine erneute Anmeldung im myApps Client notwendig ist. Vielen Dank für Ihr Verständnis – und entschuldigen Sie bitte die möglichen Unannehmlichkeiten.",
+      "tag": ["stimme"]
+    }
   ],
   "upcomingMaintenance": [
     
