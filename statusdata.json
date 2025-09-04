@@ -10,11 +10,7 @@
 
   ],
   "upcomingMaintenance": [
-    {
-      "title": "Wartung Core Netzwerk - 04.09.2025 ab 22 Uhr",
-      "text": "Am 04.09.2025 werden ab 22 Uhr dringende Wartungen am Core Netzwerk des Rechenzentrums durchgeführt wodurch es zu Verbindungsabbrüchen und nichterreichbarkeit bestimmter Dienste kommen kann.\nBetroffen sind die folgenden Dienste:\n-*Omnissa Horizon VDI Arbeitsplätze*- -*Webserver*- -*Nextcloud Systeme*-",
-      "tag": ["uponu","dinfra"]
-    }
+    
   ],
   "returningMaintenance": [
     {
@@ -50,6 +46,11 @@
 
 ],
   "closedMaintenance": [
+    {
+      "title": "Update 04.09.2025 23:04 Uhr - Wartung Core Netzwerk - 04.09.2025 ab 22 Uhr",
+      "text": "Am 04.09.2025 werden ab 22 Uhr dringende Wartungen am Core Netzwerk des Rechenzentrums durchgeführt wodurch es zu Verbindungsabbrüchen und nichterreichbarkeit bestimmter Dienste kommen kann.\nBetroffen sind die folgenden Dienste:\n-*Omnissa Horizon VDI Arbeitsplätze*- -*Webserver*- -*Nextcloud Systeme*-",
+      "tag": ["uponu","dinfra"]
+    },
     {
       "title": "Update 02.09.2025 21:13 - Wartung Firewall Systeme 02.09.2025 - ab 20 Uhr",
       "text": "Am 02.09.2025 werden ab 20 Uhr Wartungen an Firewall Systemen durchgeführt wodurch es zu kurzen Verbindungsabbrüchen kommen kann.",
