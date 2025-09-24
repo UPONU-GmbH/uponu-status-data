@@ -10,6 +10,11 @@
 
   ],
   "upcomingMaintenance": [
+    {
+      "title": "Geplante Wartungsarbeiten – 03.10.2025",
+      "text": "Am **03.10.2025** (Feiertag) führen wir Wartungsarbeiten an unserer Serverinfrastruktur durch. Die Arbeiten finden im Zeitraum von 10:00 bis 18:00 Uhr statt.\nIn diesem Zeitraum kann es vereinzelt zu kurzen Unterbrechungen in der telefonischen Erreichbarkeit kommen. Wir bemühen uns selbstverständlich, diese so gering wie möglich zu halten.\nDen aktuellen Stand können Sie jederzeit auf unserer Status-Seite unter [status.stimme.cloud](https://status.stimme.cloud/) verfolgen. Nach Abschluss der Arbeiten aktualisieren wir die Seite umgehend.",
+      "tag": ["stimme"]
+    }
     
   ],
   "returningMaintenance": [
