@@ -6,8 +6,8 @@
     "tag": ["uponu", "dinfra"]
     },
     {
-    "message": "Systeme sind teilweise beeinträchtigt",
-    "alertColor": "warning",
+    "message": "Alle Systeme sind funktionsfähig",
+    "alertColor": "success",
     "tag": ["stimme"]
     }
   ],
