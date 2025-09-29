@@ -1,22 +1,13 @@
 {
   "statusAlert": [
     {
-    "message": "Wir untersuchen gerade einen Ausfall eines Hosts, Systeme sind teilweise beeinträchtigt",
-    "alertColor": "warning",
-    "tag": ["uponu", "dinfra"]
-    },
-    {
     "message": "Alle Systeme sind funktionsfähig",
     "alertColor": "success",
-    "tag": ["stimme"]
+    "tag": ["all"]
     }
   ],
   "incidents": [
-    {
-    "title": "29.09.2025 – 09:38 Uhr",
-    "text": "Aufgrund einer aktuellen Störung kommt es zu einzelnen Systemausfällen. Unser Team arbeitet an der Behebung.",
-    "tag": ["uponu", "dinfra"]
-    }
+    
   ],
   "upcomingMaintenance": [
     {
@@ -114,9 +105,14 @@
   "resolvedIncidents": [    
     {
     "title": "29.09.2025 – 09:38 Uhr",
+    "text": "Aufgrund einer aktuellen Störung kommt es zu einzelnen Systemausfällen. Unser Team arbeitet an der Behebung.",
+    "tag": ["uponu", "dinfra"]
+    },
+    {
+    "title": "29.09.2025 – 09:38 Uhr",
     "text": "Aufgrund einer aktuellen Systemstörung kann es zu Ausfällen in der Telefonie kommen. Unser Team arbeitet an der Behebung.",
     "tag": ["stimme"]
-    }
+    },
     {
       "title": "Systemanpassung am 01.09. und 02.09.",
       "text": "Im Zuge einer wichtigen Anpassung kann es an dem drauffolgendem Tag dazu kommen, dass eine erneute Anmeldung im myApps Client notwendig ist. Vielen Dank für Ihr Verständnis – und entschuldigen Sie bitte die möglichen Unannehmlichkeiten.",
