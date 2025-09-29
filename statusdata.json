@@ -14,6 +14,11 @@
   "incidents": [
     {
     "title": "29.09.2025 – 09:38 Uhr",
+    "text": "Aufgrund einer aktuellen Störung kommt es zu einzelnen Systemausfällen. Unser Team arbeitet an der Behebung.",
+    "tag": ["uponu", "dinfra"]
+    },    
+    {
+    "title": "29.09.2025 – 09:38 Uhr",
     "text": "Aufgrund einer aktuellen Systemstörung kann es zu Ausfällen in der Telefonie kommen. Unser Team arbeitet an der Behebung.",
     "tag": ["stimme"]
     }
