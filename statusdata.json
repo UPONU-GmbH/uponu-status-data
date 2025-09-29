@@ -1,8 +1,8 @@
 {
   "statusAlert": [
     {
-    "message": "Alle Systeme sind funktionsfähig",
-    "alertColor": "success",
+    "message": "Wir untersuchen gerade einen Ausfall eines Hosts, Systeme sind teilweise beeinträchtigt",
+    "alertColor": "warning",
     "tag": ["uponu", "dinfra"]
     },
     {
