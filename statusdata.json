@@ -3,11 +3,20 @@
     {
     "message": "Alle Systeme sind funktionsfähig",
     "alertColor": "success",
-    "tag": ["all"]
+    "tag": ["uponu", "dinfra"]
+    },
+    {
+    "message": "Systeme sind teilweise beeinträchtigt",
+    "alertColor": "warning",
+    "tag": ["stimme"]
     }
   ],
   "incidents": [
-
+    {
+    "title": "29.09.2025 – 09:38 Uhr",
+    "text": "Aufgrund einer aktuellen Systemstörung kann es zu Ausfällen in der Telefonie kommen. Unser Team arbeitet an der Behebung.",
+    "tag": ["stimme"]
+    }
   ],
   "upcomingMaintenance": [
     {
