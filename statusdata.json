@@ -11,11 +11,6 @@
   ],
   "upcomingMaintenance": [
     {
-      "title": "Geplante Wartungsarbeiten OpenStack – 30.09.2025 ab 18 Uhr",
-      "text": "Am **30.09.2025 ab 18 Uhr** werden Systeme unserer OpenStack Hosting Umgebung aktualisiert. Während der aktualisierung ist es nur eingeschränkt oder nicht möglich neue Instanzen, Netzwerke usw. anzulegen. Sobald die Wartung abgeschlossen ist wird die Status Seite aktualisiert.",
-      "tag": ["uponu","dinfra"]
-    },
-    {
       "title": "Geplante Wartungsarbeiten – 03.10.2025",
       "text": "Am **03.10.2025** (Feiertag) führen wir Wartungsarbeiten an unserer Serverinfrastruktur durch.\nDie Arbeiten finden im Zeitraum von 10:00 bis 18:00 Uhr statt.\n\nIn diesem Zeitraum kann es vereinzelt zu kurzen Unterbrechungen in der telefonischen Erreichbarkeit kommen. Wir bemühen uns selbstverständlich, diese so gering wie möglich zu halten.\n\nNach Abschluss der Arbeiten aktualisieren wir die Seite umgehend.",
       "tag": ["stimme"]
@@ -56,6 +51,11 @@
 
 ],
   "closedMaintenance": [
+    {
+      "title": "Update 01.10.2025 11:59 Uhr - Geplante Wartungsarbeiten OpenStack – 30.09.2025 ab 18 Uhr",
+      "text": "Am **30.09.2025 ab 18 Uhr** werden Systeme unserer OpenStack Hosting Umgebung aktualisiert. Während der aktualisierung ist es nur eingeschränkt oder nicht möglich neue Instanzen, Netzwerke usw. anzulegen. Sobald die Wartung abgeschlossen ist wird die Status Seite aktualisiert.",
+      "tag": ["uponu","dinfra"]
+    },
     {
       "title": "Update 04.09.2025 23:04 Uhr - Wartung Core Netzwerk - 04.09.2025 ab 22 Uhr",
       "text": "Am 04.09.2025 werden ab 22 Uhr dringende Wartungen am Core Netzwerk des Rechenzentrums durchgeführt wodurch es zu Verbindungsabbrüchen und nichterreichbarkeit bestimmter Dienste kommen kann.\nBetroffen sind die folgenden Dienste:\n-*Omnissa Horizon VDI Arbeitsplätze*- -*Webserver*- -*Nextcloud Systeme*-",
