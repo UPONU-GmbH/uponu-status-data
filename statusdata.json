@@ -10,11 +10,6 @@
     
   ],
   "upcomingMaintenance": [
-    {
-      "title": "Geplante Wartungsarbeiten – 03.10.2025 - Update 15:10 Uhr",
-      "text": "Die Wartungsarbeiten wurden erfolgreich abgeschlossen.",
-      "tag": ["stimme"]
-    }
     
   ],
   "returningMaintenance": [
@@ -107,7 +102,22 @@
       "tag": ["stimme"]
     }
   ],
-  "resolvedIncidents": [    
+  "resolvedIncidents": [ 
+    {
+      "title": "Einschränkungen eingehende Telefonie – 04.10.2025 - Update 13:45 Uhr",
+      "text": "Die Störung wurde behoben.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Einschränkungen eingehende Telefonie – 04.10.2025 - 10:30 Uhr",
+      "text": "Aufgrund einer aktuellen Störung kann es zu Einschränkungen in der eingehenden Telefonie kommen. Unser Team arbeitet bereits an der Behebung.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Geplante Wartungsarbeiten – 03.10.2025 - Update 15:10 Uhr",
+      "text": "Die Wartungsarbeiten wurden erfolgreich abgeschlossen.",
+      "tag": ["stimme"]
+    },
     {
     "title": "29.09.2025 – 09:38 Uhr",
     "text": "Aufgrund einer aktuellen Störung kommt es zu einzelnen Systemausfällen. Unser Team arbeitet an der Behebung.",
