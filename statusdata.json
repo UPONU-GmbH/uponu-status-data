@@ -7,11 +7,7 @@
     }
   ],
   "incidents": [
-    {
-      "title": "Einschränkungen Faxversand - 06.10.2025 - 08:15 Uhr",
-      "text": "Aufgrund einer aktuellen Störung kann es zu Einschränkungen beim Faxversand kommen. Unser Team arbeitet bereits an der Behebung.",
-      "tag": ["stimme"]
-    }
+
   ],
   "upcomingMaintenance": [
     
@@ -121,7 +117,22 @@
       "tag": ["stimme"]
     }
   ],
-  "resolvedIncidents": [ 
+  "resolvedIncidents": [
+    {
+      "title": "Einschränkungen Faxversand - 06.10.2025 - Update 13:00 Uhr",
+      "text": "Die Störung wurde behoben.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Einschränkungen Faxversand - 06.10.2025 - Update 11:15 Uhr",
+      "text": "Der eingehende Faxversand ist wieder funktional.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Einschränkungen Faxversand - 06.10.2025 - 08:15 Uhr",
+      "text": "Aufgrund einer aktuellen Störung kann es zu Einschränkungen beim Faxversand kommen. Unser Team arbeitet bereits an der Behebung.",
+      "tag": ["stimme"]
+    },
     {
       "title": "Einschränkungen eingehende Telefonie – 04.10.2025 - Update 13:45 Uhr",
       "text": "Die Störung wurde behoben.",
