@@ -47,6 +47,11 @@
 ],
   "closedMaintenance": [
     {
+      "title": "Geplante Wartungsarbeiten – 03.10.2025 - Update 15:10 Uhr",
+      "text": "Die Wartungsarbeiten wurden erfolgreich abgeschlossen.",
+      "tag": ["stimme"]
+    },
+    {
       "title": "Geplante Wartungsarbeiten – 03.10.2025",
       "text": "Am **03.10.2025** (Feiertag) führen wir Wartungsarbeiten an unserer Serverinfrastruktur durch.\nDie Arbeiten finden im Zeitraum von 10:00 bis 18:00 Uhr statt.\n\nIn diesem Zeitraum kann es vereinzelt zu kurzen Unterbrechungen in der telefonischen Erreichbarkeit kommen. Wir bemühen uns selbstverständlich, diese so gering wie möglich zu halten.\n\nNach Abschluss der Arbeiten aktualisieren wir die Seite umgehend.",
       "tag": ["stimme"]
@@ -111,11 +116,6 @@
     {
       "title": "Einschränkungen eingehende Telefonie – 04.10.2025 - 10:30 Uhr",
       "text": "Aufgrund einer aktuellen Störung kann es zu Einschränkungen in der eingehenden Telefonie kommen. Unser Team arbeitet bereits an der Behebung.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Geplante Wartungsarbeiten – 03.10.2025 - Update 15:10 Uhr",
-      "text": "Die Wartungsarbeiten wurden erfolgreich abgeschlossen.",
       "tag": ["stimme"]
     },
     {
