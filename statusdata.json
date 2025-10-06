@@ -47,12 +47,22 @@
 ],
   "closedMaintenance": [
     {
+      "title": "Änderung öffentliche IP Adresse – 03.10.2025 - Update 15:10 Uhr",
+      "text": "Die Änderungen wurden erfolgreich abgeschlossen.",
+      "tag": ["stimme"]
+    },
+    {
       "title": "Geplante Wartungsarbeiten – 03.10.2025 - Update 15:10 Uhr",
       "text": "Die Wartungsarbeiten wurden erfolgreich abgeschlossen.",
       "tag": ["stimme"]
     },
     {
-      "title": "Geplante Wartungsarbeiten – 03.10.2025",
+      "title": "Änderung öffentliche IP Adresse - 29.09.2025",
+      "text": "Am 03.10.2025 ändert sich unsere bisherige öffentliche IP **45.132.29.130** und wird durch folgende IP **45.132.31.126** ersetzt. Bitte verwenden Sie bis zu diesem Zeitpunkt weiterhin die alte IP-Adresse. Sobald die Umstellung vollständig abgeschlossen ist und die alte IP entfernt werden kann, informieren wir Sie umgehend.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Geplante Wartungsarbeiten – 24.09.2025",
       "text": "Am **03.10.2025** (Feiertag) führen wir Wartungsarbeiten an unserer Serverinfrastruktur durch.\nDie Arbeiten finden im Zeitraum von 10:00 bis 18:00 Uhr statt.\n\nIn diesem Zeitraum kann es vereinzelt zu kurzen Unterbrechungen in der telefonischen Erreichbarkeit kommen. Wir bemühen uns selbstverständlich, diese so gering wie möglich zu halten.\n\nNach Abschluss der Arbeiten aktualisieren wir die Seite umgehend.",
       "tag": ["stimme"]
     },    
