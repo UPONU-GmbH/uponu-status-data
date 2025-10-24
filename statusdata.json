@@ -10,7 +10,11 @@
 
   ],
   "upcomingMaintenance": [
-    
+    {
+      "title": "Wartungsarbeiten Backup Storage - 24.10.2025",
+      "text": "Auf den Backup Storage Systemen werden routinemäßig Updates installiert. Während der Updates kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Backups kommen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
+      "tag": ["uponu","dinfra"]
+    }    
   ],
   "returningMaintenance": [
     {
