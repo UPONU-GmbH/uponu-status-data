@@ -14,11 +14,7 @@
     }
   ],
   "upcomingMaintenance": [
-    {
-      "title": "Wartungsarbeiten Backup Storage - 24.10.2025",
-      "text": "Auf den Backup Storage Systemen werden routinemäßig Updates installiert. Während der Updates kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Backups kommen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
-      "tag": ["uponu","dinfra"]
-    }    
+    
   ],
   "returningMaintenance": [
     {
@@ -54,6 +50,11 @@
 
 ],
   "closedMaintenance": [
+    {
+      "title": "Update 16:00 Uhr - Wartungsarbeiten Backup Storage - 24.10.2025",
+      "text": "Auf den Backup Storage Systemen werden routinemäßig Updates installiert. Während der Updates kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Backups kommen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
+      "tag": ["uponu","dinfra"]
+    },
     {
       "title": "Änderung öffentliche IP Adresse – 03.10.2025 - Update 15:10 Uhr",
       "text": "Die Änderungen wurden erfolgreich abgeschlossen.",
