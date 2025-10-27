@@ -8,6 +8,11 @@
   ],
   "incidents": [
     {
+      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 24.10.2025",
+      "text": "Wir haben die Rückmeldung von peoplefone erhalten, dass bereit ein Fix für das Problem erstellt wurde. Der Fix befindet sich bereits in der Testphase.",
+      "tag": ["stimme"]
+    },
+    {
       "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 20.10.2025",
       "text": "Wir beobachten derzeit sporadische Gesprächsabbrüche (Timeouts) bei Verbindungen über peoplefone SIP Trunks. Der Fehler wurde bereits an peoplefone gemeldet. Wir halten Sie auf dem Laufenden, sobald neue Informationen vorliegen.",
       "tag": ["stimme"]
