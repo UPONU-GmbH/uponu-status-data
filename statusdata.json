@@ -8,6 +8,11 @@
   ],
   "incidents": [
     {
+      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 31.10.2025",
+      "text": "Der Fehler konnte weiter eingegrenzt werden. Erste Kunden wurden auf den neuen Patch umgestellt. Das Verhalten wird weiterhin untersucht und geprüft.",
+      "tag": ["stimme"]
+    },
+    {
       "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 28.10.2025",
       "text": "In der Testphase ist das Fehlverhalten weiterhin aufgetreten, daher liegt der Fall wieder bei der Entwicklung von peoplefone.",
       "tag": ["stimme"]
