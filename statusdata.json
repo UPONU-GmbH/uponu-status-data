@@ -8,6 +8,11 @@
   ],
   "incidents": [
     {
+      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 05.11.2025",
+      "text": "Seit dem Einspielen des Patches am Montag um 09:30 Uhr tritt das beschriebene Fehlverhalten nicht mehr auf.",
+      "tag": ["stimme"]
+    },
+    {
       "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 03.11.2025",
       "text": "Der Patch wurde für alle Kunden eingespielt. Das Verhalten wird weiterhin untersucht und geprüft.",
       "tag": ["stimme"]
