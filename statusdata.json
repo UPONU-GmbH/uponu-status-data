@@ -7,36 +7,7 @@
     }
   ],
   "incidents": [
-    {
-      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 05.11.2025",
-      "text": "Seit dem Einspielen des Patches am Montag um 09:30 Uhr tritt das beschriebene Fehlverhalten nicht mehr auf.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 03.11.2025",
-      "text": "Der Patch wurde für alle Kunden eingespielt. Das Verhalten wird weiterhin untersucht und geprüft.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 31.10.2025",
-      "text": "Der Fehler konnte weiter eingegrenzt werden. Erste Kunden wurden auf den neuen Patch umgestellt. Das Verhalten wird weiterhin untersucht und geprüft.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 28.10.2025",
-      "text": "In der Testphase ist das Fehlverhalten weiterhin aufgetreten, daher liegt der Fall wieder bei der Entwicklung von peoplefone.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 24.10.2025",
-      "text": "Wir haben die Rückmeldung von peoplefone erhalten, dass bereit ein Fix für das Problem erstellt wurde. Der Fix befindet sich bereits in der Testphase.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 20.10.2025",
-      "text": "Wir beobachten derzeit sporadische Gesprächsabbrüche (Timeouts) bei Verbindungen über peoplefone SIP Trunks. Der Fehler wurde bereits an peoplefone gemeldet. Wir halten Sie auf dem Laufenden, sobald neue Informationen vorliegen.",
-      "tag": ["stimme"]
-    }
+
   ],
   "upcomingMaintenance": [
     
@@ -152,6 +123,36 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 05.11.2025",
+      "text": "Seit dem Einspielen des Patches am Montag um 09:30 Uhr tritt das beschriebene Fehlverhalten nicht mehr auf.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 03.11.2025",
+      "text": "Der Patch wurde für alle Kunden eingespielt. Das Verhalten wird weiterhin untersucht und geprüft.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 31.10.2025",
+      "text": "Der Fehler konnte weiter eingegrenzt werden. Erste Kunden wurden auf den neuen Patch umgestellt. Das Verhalten wird weiterhin untersucht und geprüft.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 28.10.2025",
+      "text": "In der Testphase ist das Fehlverhalten weiterhin aufgetreten, daher liegt der Fall wieder bei der Entwicklung von peoplefone.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 24.10.2025",
+      "text": "Wir haben die Rückmeldung von peoplefone erhalten, dass bereit ein Fix für das Problem erstellt wurde. Der Fix befindet sich bereits in der Testphase.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 20.10.2025",
+      "text": "Wir beobachten derzeit sporadische Gesprächsabbrüche (Timeouts) bei Verbindungen über peoplefone SIP Trunks. Der Fehler wurde bereits an peoplefone gemeldet. Wir halten Sie auf dem Laufenden, sobald neue Informationen vorliegen.",
+      "tag": ["stimme"]
+    },
     {
       "title": "Einschränkungen Faxversand - 06.10.2025 - Update 13:00 Uhr",
       "text": "Die Störung wurde behoben.",
