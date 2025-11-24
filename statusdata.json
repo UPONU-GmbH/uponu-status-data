@@ -10,7 +10,12 @@
 
   ],
   "upcomingMaintenance": [
-    
+  {
+    "title": "Geplante Wartungsarbeiten - 25.11.2025",
+    "text": "Am 25.11.2025 führen wir Wartungsarbeiten an unserer Serverinfrastruktur durch.\nDie Arbeiten finden im Zeitraum von 19:00 bis 22:00 Uhr statt.\n\nIn diesem Zeitraum kann es zu Einschränkungen bei der Erstellung von neuen Instanzen und Volumes kommen. Wir bemühen uns selbstverständlich, diese so gering wie möglich zu halten.\n\nNach Abschluss der Arbeiten aktualisieren wir die Seite umgehend.",
+    "tag": ["uponu","dinfra"]
+				        },
+
   ],
   "returningMaintenance": [
     {
