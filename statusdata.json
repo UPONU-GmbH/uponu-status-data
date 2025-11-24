@@ -14,6 +14,11 @@
       "title": "Geplante Wartungsarbeiten - 25.11.2025",
       "text": "Am 25.11.2025 führen wir Wartungsarbeiten an unserer Serverinfrastruktur durch.\nDie Arbeiten finden im Zeitraum von 19:00 bis 22:00 Uhr statt.\n\nIn diesem Zeitraum kann es zu Einschränkungen bei der Erstellung von neuen Instanzen und Volumes kommen. Wir bemühen uns selbstverständlich, diese so gering wie möglich zu halten.\n\nNach Abschluss der Arbeiten aktualisieren wir die Seite umgehend.",
       "tag": ["uponu","dinfra"]
+   },
+   {
+      "title": "Geplante Wartungsarbeiten 2FA Anmeldung - 26.11.2025 ab 20:00 Uhr",
+      "text": "Am 26.11.2025 führen wir Wartungsarbeiten an unseren 2-Faktor Systemen durch. Während der Wartungsarbeiten kann es sein das die Anmeldung mit dem 2-Faktor nicht möglich ist. Betroffen sind **view2fa.paar-it.de** und **vdi2fa01.host-it.cloud**\n Nach Abschluss der Arbeiten aktualisieren wir die Seite umgehend.",
+      "tag": ["uponu","dinfra"]
    }
    ],
   "returningMaintenance": [
