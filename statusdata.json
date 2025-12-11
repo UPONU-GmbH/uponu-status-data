@@ -10,11 +10,7 @@
 
   ],
   "upcomingMaintenance": [
-    {
-      "title": "Geplante Wartungsarbeiten OpenStack - 11.12.2025 ab 17:00 Uhr",
-      "text": "Am 11.12.2025 führen wir Wartungsarbeiten an unseren OpenStack Systemen durch. Während der Wartungsarbeiten kann es zu Einschränkungen beim erstellen von Volumes, Instanzen und Netzwerken kommen.",
-      "tag": ["uponu","dinfra"]
-    }
+    
    ],
   "returningMaintenance": [
     {
@@ -50,6 +46,11 @@
 
 ],
   "closedMaintenance": [
+    {
+      "title": "Geplante Wartungsarbeiten OpenStack - 11.12.2025 ab 17:00 Uhr",
+      "text": "Am 11.12.2025 führen wir Wartungsarbeiten an unseren OpenStack Systemen durch. Während der Wartungsarbeiten kann es zu Einschränkungen beim erstellen von Volumes, Instanzen und Netzwerken kommen.",
+      "tag": ["uponu","dinfra"]
+    },
     {
       "title": "Geplante Wartungsarbeiten 2FA Anmeldung - 26.11.2025 ab 20:00 Uhr",
       "text": "Am 26.11.2025 führen wir Wartungsarbeiten an unseren 2-Faktor Systemen durch. Während der Wartungsarbeiten kann es sein das die Anmeldung mit dem 2-Faktor nicht möglich ist. Betroffen sind **view2fa.paar-it.de** und **vdi2fa01.host-it.cloud**\n Nach Abschluss der Arbeiten aktualisieren wir die Seite umgehend.",
