@@ -10,7 +10,11 @@
 
   ],
   "upcomingMaintenance": [
-   
+    {
+      "title": "Geplante Wartungsarbeiten OpenStack - 11.12.2025 ab 17:00 Uhr",
+      "text": "Am 11.12.2025 führen wir Wartungsarbeiten an unseren OpenStack Systemen durch. Während der Wartungsarbeiten kann es zu Einschränkungen beim erstellen von Volumes, Instanzen und Netzwerken kommen.",
+      "tag": ["uponu","dinfra"]
+    }
    ],
   "returningMaintenance": [
     {
