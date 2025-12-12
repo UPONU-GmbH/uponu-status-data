@@ -10,6 +10,11 @@
 
   ],
   "upcomingMaintenance": [
+    {
+      "title": "Geplante Wartungsarbeiten - 20.12.2025 ab 09:00",
+      "text": "Am 20.12.2025 werden ab 9 Uhr Wartungsarbeiten an einigen Servern durchgeführt. Im Rahmen dieser Wartung verändert sich der Name der Ressourcenprofile ("Flavor"), wodurch die Systeme einmal neugestartet werden müssen. An den Systemen selbst ändert sich nichts. Diese Maßnahme dient der Vereinheitlichung, besseren Übersicht und langfristigen Wartbarkeit unserer Plattform.",
+      "tag": ["dinfra","uponu"]
+    }
     
    ],
   "returningMaintenance": [
