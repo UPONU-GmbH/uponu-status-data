@@ -10,11 +10,6 @@
 
   ],
   "upcomingMaintenance": [
-    {
-      "title": "Geplante Wartungsarbeiten - 20.12.2025 ab 09:00",
-      "text": "Am 20.12.2025 werden zwischen 9 und 14 Uhr Wartungsarbeiten an einigen Servern durchgeführt. Die betroffenen Kunden wurden von uns per Mail kontaktiert. Im Rahmen dieser Wartung verändert sich der Name der Ressourcenprofile (Flavor), wodurch die Systeme einmal neugestartet werden müssen. Die Änderungen an den Systemen beschränkt sich auf einen Neustart des Systems, danach ist die Wartung für das jeweilige System beendet. Eventuelle Abhängigkeiten werden von uns beim Neustart beachtet. Diese Maßnahme dient der Vereinheitlichung, besseren Übersicht und langfristigen Wartbarkeit unserer Plattform. \n Durch die Wartung stehen alle Systeme kurzfristig während des Neustarts nicht zur Verfügung.",
-      "tag": ["uponu","dinfra"]
-    }
     
    ],
 
@@ -52,6 +47,11 @@
 
 ],
   "closedMaintenance": [
+    {
+      "title": "Geplante Wartungsarbeiten - 20.12.2025 ab 09:00",
+      "text": "Am 20.12.2025 werden zwischen 9 und 14 Uhr Wartungsarbeiten an einigen Servern durchgeführt. Die betroffenen Kunden wurden von uns per Mail kontaktiert. Im Rahmen dieser Wartung verändert sich der Name der Ressourcenprofile (Flavor), wodurch die Systeme einmal neugestartet werden müssen. Die Änderungen an den Systemen beschränkt sich auf einen Neustart des Systems, danach ist die Wartung für das jeweilige System beendet. Eventuelle Abhängigkeiten werden von uns beim Neustart beachtet. Diese Maßnahme dient der Vereinheitlichung, besseren Übersicht und langfristigen Wartbarkeit unserer Plattform. \n Durch die Wartung stehen alle Systeme kurzfristig während des Neustarts nicht zur Verfügung.",
+      "tag": ["uponu","dinfra"]
+    },
     {
       "title": "Geplante Wartungsarbeiten OpenStack - 11.12.2025 ab 17:00 Uhr",
       "text": "Am 11.12.2025 führen wir Wartungsarbeiten an unseren OpenStack Systemen durch. Während der Wartungsarbeiten kann es zu Einschränkungen beim erstellen von Volumes, Instanzen und Netzwerken kommen.",
