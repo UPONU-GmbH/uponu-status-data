@@ -14,14 +14,8 @@
       "title": "Firmware-Update der Endgeröte - 18.02.2026 19-21 Uhr",
       "text": "Hiermit möchten wir Sie darüber informieren, dass am oben genannten Termin ein Firmware-Update durchgeführt wird. Das Update findet im Zeitraum von 19:00 bis 21:00 Uhr statt.\nBitte beachten Sie, dass Nutzer Ihrer Kunden, die die Funktion **Anmeldeapparat** verwenden, sich nach dem Update am Telefon neu anmelden müssen.",
       "tag": ["stimme"]
-    },
-    {
-      "title": "Firmware-Update der Datacenter Firewalls - 22.01.2026 19:00 - 23 Uhr",
-      "text": "Am 21.01.2026 werden Firmware-Update in den Datacenter Firewall Systemen eingespielt. Trotz des redundanten Aufbaus kann es vereinzelt zu Verbindungsabbrüchen kommen.",
-      "tag": ["uponu","dinfra"]
     }
-    
-    
+        
    ],
 
   "returningMaintenance": [
@@ -58,6 +52,11 @@
 
 ],
   "closedMaintenance": [
+    {
+      "title": "Firmware-Update der Datacenter Firewalls - 22.01.2026 19:00 - 23 Uhr",
+      "text": "Am 22.01.2026 werden Firmware-Update in den Datacenter Firewall Systemen eingespielt. Trotz des redundanten Aufbaus kann es vereinzelt zu Verbindungsabbrüchen kommen.",
+      "tag": ["uponu","dinfra"]
+    },
     {
       "title": "Firmware-Update der Datacenter Firewalls - 21.01.2026 20:30 - 23 Uhr",
       "text": "Am 21.01.2026 werden Firmware-Update in den Datacenter Firewall Systemen eingespielt. Trotz des redundanten Aufbaus kann es vereinzelt zu Verbindungsabbrüchen kommen.",
