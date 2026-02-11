@@ -1,12 +1,17 @@
 {
   "statusAlert": [
     {
-    "message": "Alle Systeme sind funktionsfähig",
-    "alertColor": "success",
+    "message": "Systeme eingeschränkt erreichbar",
+    "alertColor": "warning",
     "tag": ["all"]
     }
   ],
   "incidents": [
+    {
+      "title": "Eingerschänke Anmeldung im Horizon View - 11.02.2026",
+      "text": "im Zuge kürzlich eingespielter Microsoft-Updates ist es leider zu einem unerwarteten Fehler gekommen, der derzeit Auswirkungen auf einzelne Funktionen hat.Bitte seien Sie versichert, dass wir mit hoher Priorität an der Analyse und Behebung des Problems arbeiten. Unser Ziel ist es, die Einschränkungen schnellstmöglich zu beheben und den gewohnten Betrieb wiederherzustellen.",
+      "tag": ["dinfra", "uponu"]
+    }
 
   ],
   "upcomingMaintenance": [
