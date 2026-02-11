@@ -1,17 +1,13 @@
 {
   "statusAlert": [
     {
-    "message": "Systeme eingeschränkt erreichbar",
-    "alertColor": "warning",
+    "message": "Alle Systeme sind funktionsfähig",
+    "alertColor": "success",
     "tag": ["all"]
     }
   ],
   "incidents": [
-    {
-      "title": "Eingerschänke Anmeldung im Horizon View - 11.02.2026",
-      "text": "im Zuge kürzlich eingespielter Microsoft-Updates ist es leider zu einem unerwarteten Fehler gekommen, der derzeit Auswirkungen auf einzelne Funktionen hat.Bitte seien Sie versichert, dass wir mit hoher Priorität an der Analyse und Behebung des Problems arbeiten. Unser Ziel ist es, die Einschränkungen schnellstmöglich zu beheben und den gewohnten Betrieb wiederherzustellen.",
-      "tag": ["dinfra", "uponu"]
-    }
+    
 
   ],
   "upcomingMaintenance": [
@@ -146,6 +142,11 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Eingeschränkte Anmeldung im Horizon View - 11.02.2026",
+      "text": "im Zuge kürzlich eingespielter Microsoft-Updates ist es leider zu einem unerwarteten Fehler gekommen, der derzeit Auswirkungen auf einzelne Funktionen hat.Bitte seien Sie versichert, dass wir mit hoher Priorität an der Analyse und Behebung des Problems arbeiten. Unser Ziel ist es, die Einschränkungen schnellstmöglich zu beheben und den gewohnten Betrieb wiederherzustellen.",
+      "tag": ["dinfra", "uponu"]
+    },
     {
       "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 05.11.2025",
       "text": "Seit dem Einspielen des Patches am Montag um 09:30 Uhr tritt das beschriebene Fehlverhalten nicht mehr auf.",
