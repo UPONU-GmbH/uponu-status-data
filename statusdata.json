@@ -4,10 +4,24 @@
     "message": "Alle Systeme sind funktionsfähig",
     "alertColor": "success",
     "tag": ["all"]
+    },
+    {
+    "message": "Dienste teilweise beeinträchtigt",
+    "alertColor": "warning",
+    "tag": ["uponu","dinfra"]
     }
   ],
   "incidents": [
-    
+    {
+      "title": "Windows Systeme",
+      "text": "Im Zuge des regulären Microsoft Patchdays kam es nach den planmäßigen automatischen Neustarts vereinzelt zu Systembeeinträchtigungen. Hintergrund sind von Microsoft ausgerollte, als hochkritisch eingestufte Sicherheitsupdates.\nDie identifizierten Auswirkungen wurden umgehend analysiert und behoben.\nAktuell laufen alle Systeme wieder stabil und im Regelbetrieb.",
+      "tag": ["uponu","dinfra"]
+    },
+    {
+      "title": "Exchange Mailhosting",
+      "text": "Durch die Februar Updates von Microsoft für Exchange Systeme gibt es aktuell Probleme beim Login in das Webmail Portal (OWA) über https://exchange.mx-rec.de.\nDas Verhalten wird untersucht und geprüft. Die Statusseite wird aktualisiert sobald das Problem behoben ist.",
+      "tag": ["uponu","dinfra"]
+    }
 
   ],
   "upcomingMaintenance": [
@@ -142,11 +156,6 @@
     }
   ],
   "resolvedIncidents": [
-    {
-      "title": "Eingeschränkte Anmeldung im Horizon View - 11.02.2026",
-      "text": "im Zuge kürzlich eingespielter Microsoft-Updates ist es leider zu einem unerwarteten Fehler gekommen, der derzeit Auswirkungen auf einzelne Funktionen hat.Bitte seien Sie versichert, dass wir mit hoher Priorität an der Analyse und Behebung des Problems arbeiten. Unser Ziel ist es, die Einschränkungen schnellstmöglich zu beheben und den gewohnten Betrieb wiederherzustellen.",
-      "tag": ["dinfra", "uponu"]
-    },
     {
       "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 05.11.2025",
       "text": "Seit dem Einspielen des Patches am Montag um 09:30 Uhr tritt das beschriebene Fehlverhalten nicht mehr auf.",
