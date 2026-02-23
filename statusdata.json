@@ -1,21 +1,19 @@
 {
   "statusAlert": [
     {
-    "message": "Alle Systeme sind funktionsfähig",
-    "alertColor": "success",
-    "tag": ["all"]
+      "message": "Alle Systeme sind funktionsfähig",
+      "alertColor": "success",
+      "tag": ["all"]
     }
   ],
-  "incidents": [
-    
-  ],
+  "incidents": [],
   "upcomingMaintenance": [
     {
       "title": "Omnissa Horizon VDI Systeme - 08.03 9-18 Uhr",
       "text": "Auf den zentralen Systemen für die VDI Verbindung zu den Terminalserver Arbeitsplätzen werden wichtige Wartungen durchgeführt. Während der gesamten Wartung kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Terminalserver kommen da die zentralen Verbindungssysteme mehrfach neugestartet werden müssen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     }
-   ],
+  ],
 
   "returningMaintenance": [
     {
@@ -26,30 +24,29 @@
     {
       "title": "Microsoft Patchday",
       "text": "Jeden zweiten Dienstag im Monat ist Microsoft Patchday. Es werden zentrale Windows Dienste des Rechenzentrums aktualisiert. Es kann zu verzögerter Mailzustellung und Verbindungsabbrüchen im VMware Horizon View kommen.",
-      "tag": ["dinfra","uponu"]
+      "tag": ["dinfra", "uponu"]
     },
     {
       "title": "Nextcloud Patchday",
       "text": "Jeden zweiten Dienstag im Monat werden Managed Nextcloud Systeme aktualisiert. Durch die Aktualisierung des Betriebssystems und der Nextcloud Software ist ggf. ein Neustart erforderlich und die Dienste sind kurzzeitig nicht erreichbar.",
-      "tag": ["dinfra","uponu"]
+      "tag": ["dinfra", "uponu"]
     },
     {
       "title": "Mailstore",
       "text": "Jeden ersten Samstag im Monat ab 1 Uhr werden automatisierte Wartungen an den Mailstore Systemen durchgeführt. Während der Wartung kann es zur eingeschränkten Verfügbarkeit der Dienste kommen.",
-      "tag": ["dinfra","uponu"]
+      "tag": ["dinfra", "uponu"]
     },
     {
       "title": "Gitlab Patchday",
       "text": "Jeden zweiten Dienstag im Monat werden Managed Gitlab Systeme aktualisiert. Durch die Aktualisierung des Betriebssystems und der Gitlab Software ist ggf. ein Neustart erforderlich und die Dienste sind kurzzeitig nicht erreichbar.",
-      "tag": ["dinfra","uponu"]
+      "tag": ["dinfra", "uponu"]
     },
     {
       "title": "Plesk- / Webserver Patchday",
       "text": "Jeden zweiten Dienstag im Monat werden Plesk- / Webserver aktualisiert. Durch die Aktualisierung des Betriebssystems und der Webserver Software ist ggf. ein Neustart erforderlich und die Webseiten sind kurzzeitig nicht erreichbar.",
-      "tag": ["dinfra","uponu"]
+      "tag": ["dinfra", "uponu"]
     }
-
-],
+  ],
   "closedMaintenance": [
     {
       "title": "Firmware-Update der Endgeräte - 18.02.2026 19-21 Uhr",
@@ -59,42 +56,42 @@
     {
       "title": "Wartung Firewallsysteme - 07.02.2026 9-11 Uhr",
       "text": "Am 07.02.2026 werden Wartungen an den Firewallsystemen durchgeführt. Die Datacenter und Kunden Firewalls sind betroffen. Trotz des redundanten Aufbaus kann es vereinzelt zu Verbindungsabbrüchen kommen.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     },
     {
       "title": "Firmware-Update der Datacenter Firewalls - 22.01.2026 19:00 - 23 Uhr",
       "text": "Am 22.01.2026 werden Firmware-Update in den Datacenter Firewall Systemen eingespielt. Trotz des redundanten Aufbaus kann es vereinzelt zu Verbindungsabbrüchen kommen.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     },
     {
       "title": "Firmware-Update der Datacenter Firewalls - 21.01.2026 20:30 - 23 Uhr",
       "text": "Am 21.01.2026 werden Firmware-Update in den Datacenter Firewall Systemen eingespielt. Trotz des redundanten Aufbaus kann es vereinzelt zu Verbindungsabbrüchen kommen.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     },
     {
       "title": "Geplante Wartungsarbeiten - 20.12.2025 ab 09:00",
       "text": "Am 20.12.2025 werden zwischen 9 und 14 Uhr Wartungsarbeiten an einigen Servern durchgeführt. Die betroffenen Kunden wurden von uns per Mail kontaktiert. Im Rahmen dieser Wartung verändert sich der Name der Ressourcenprofile (Flavor), wodurch die Systeme einmal neugestartet werden müssen. Die Änderungen an den Systemen beschränkt sich auf einen Neustart des Systems, danach ist die Wartung für das jeweilige System beendet. Eventuelle Abhängigkeiten werden von uns beim Neustart beachtet. Diese Maßnahme dient der Vereinheitlichung, besseren Übersicht und langfristigen Wartbarkeit unserer Plattform. \n Durch die Wartung stehen alle Systeme kurzfristig während des Neustarts nicht zur Verfügung.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     },
     {
       "title": "Geplante Wartungsarbeiten OpenStack - 11.12.2025 ab 17:00 Uhr",
       "text": "Am 11.12.2025 führen wir Wartungsarbeiten an unseren OpenStack Systemen durch. Während der Wartungsarbeiten kann es zu Einschränkungen beim erstellen von Volumes, Instanzen und Netzwerken kommen.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     },
     {
       "title": "Geplante Wartungsarbeiten 2FA Anmeldung - 26.11.2025 ab 20:00 Uhr",
       "text": "Am 26.11.2025 führen wir Wartungsarbeiten an unseren 2-Faktor Systemen durch. Während der Wartungsarbeiten kann es sein das die Anmeldung mit dem 2-Faktor nicht möglich ist. Betroffen sind **view2fa.paar-it.de** und **vdi2fa01.host-it.cloud**\n Nach Abschluss der Arbeiten aktualisieren wir die Seite umgehend.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     },
     {
       "title": "Geplante Wartungsarbeiten - 25.11.2025- Update 22.00 Uhr",
       "text": "Am 25.11.2025 führen wir Wartungsarbeiten an unserer Serverinfrastruktur durch.\nDie Arbeiten finden im Zeitraum von 19:00 bis 22:00 Uhr statt.\n\nIn diesem Zeitraum kann es zu Einschränkungen bei der Erstellung von neuen Instanzen und Volumes kommen. Wir bemühen uns selbstverständlich, diese so gering wie möglich zu halten.\n\nNach Abschluss der Arbeiten aktualisieren wir die Seite umgehend.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     },
     {
       "title": "Update 16:00 Uhr - Wartungsarbeiten Backup Storage - 24.10.2025",
       "text": "Auf den Backup Storage Systemen werden routinemäßig Updates installiert. Während der Updates kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Backups kommen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     },
     {
       "title": "Änderung öffentliche IP Adresse – 03.10.2025 - Update 15:10 Uhr",
@@ -115,26 +112,26 @@
       "title": "Geplante Wartungsarbeiten – 24.09.2025",
       "text": "Am **03.10.2025** (Feiertag) führen wir Wartungsarbeiten an unserer Serverinfrastruktur durch.\nDie Arbeiten finden im Zeitraum von 10:00 bis 18:00 Uhr statt.\n\nIn diesem Zeitraum kann es vereinzelt zu kurzen Unterbrechungen in der telefonischen Erreichbarkeit kommen. Wir bemühen uns selbstverständlich, diese so gering wie möglich zu halten.\n\nNach Abschluss der Arbeiten aktualisieren wir die Seite umgehend.",
       "tag": ["stimme"]
-    },    
+    },
     {
       "title": "Update 01.10.2025 11:59 Uhr - Geplante Wartungsarbeiten OpenStack – 30.09.2025 ab 18 Uhr",
       "text": "Am **30.09.2025 ab 18 Uhr** werden Systeme unserer OpenStack Hosting Umgebung aktualisiert. Während der aktualisierung ist es nur eingeschränkt oder nicht möglich neue Instanzen, Netzwerke usw. anzulegen. Sobald die Wartung abgeschlossen ist wird die Status Seite aktualisiert.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     },
     {
       "title": "Update 04.09.2025 23:04 Uhr - Wartung Core Netzwerk - 04.09.2025 ab 22 Uhr",
       "text": "Am 04.09.2025 werden ab 22 Uhr dringende Wartungen am Core Netzwerk des Rechenzentrums durchgeführt wodurch es zu Verbindungsabbrüchen und nichterreichbarkeit bestimmter Dienste kommen kann.\nBetroffen sind die folgenden Dienste:\n-*Omnissa Horizon VDI Arbeitsplätze*- -*Webserver*- -*Nextcloud Systeme*-",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     },
     {
       "title": "Update 02.09.2025 21:13 - Wartung Firewall Systeme 02.09.2025 - ab 20 Uhr",
       "text": "Am 02.09.2025 werden ab 20 Uhr Wartungen an Firewall Systemen durchgeführt wodurch es zu kurzen Verbindungsabbrüchen kommen kann.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     },
     {
-    "title": "Major Release Update 15 - 20.08.2025 19-21 Uhr",
-    "text": "Wir möchten Sie darüber informieren, dass am **20.08.2025** ein **Major Release Update** auf die Version 15 durchgeführt wird. Das Update erfolgt im Rahmen unseres regulären Wartungsfensters zwischen **19:00 und 21:00 Uhr**.\n\nIm Zuge dieses Updates wird ein **neuer myApps Client** bereitgestellt, der ab sofort in unserem **Downloadbereich** zur Verfügung steht:\n[Download](https://download.stimme.cloud/)\n\nDetaillierte Informationen zu den Änderungen sowie den ggf. erforderlichen Maßnahmen haben wir für Sie im folgenden Artikel zusammengestellt:\n[V15 Update/Upgrade](https://wiki.stimme.cloud/doku.php?id=myapps:v15_update_upgrade)\n\n**Wichtiger Hinweis:**\nNutzer Ihrer Kunden, die die Funktion **„Anmeldeapparat“** verwenden, müssen sich nach dem Update am jeweiligen Telefon erneut anmelden.\n\nBitte informieren Sie auch Ihre Kunden rechtzeitig über dieses Update, um mögliche Irritationen zum genannten Zeitpunkt oder am darauffolgenden Morgen zu vermeiden.",
-    "tag": ["stimme"]
+      "title": "Major Release Update 15 - 20.08.2025 19-21 Uhr",
+      "text": "Wir möchten Sie darüber informieren, dass am **20.08.2025** ein **Major Release Update** auf die Version 15 durchgeführt wird. Das Update erfolgt im Rahmen unseres regulären Wartungsfensters zwischen **19:00 und 21:00 Uhr**.\n\nIm Zuge dieses Updates wird ein **neuer myApps Client** bereitgestellt, der ab sofort in unserem **Downloadbereich** zur Verfügung steht:\n[Download](https://download.stimme.cloud/)\n\nDetaillierte Informationen zu den Änderungen sowie den ggf. erforderlichen Maßnahmen haben wir für Sie im folgenden Artikel zusammengestellt:\n[V15 Update/Upgrade](https://wiki.stimme.cloud/doku.php?id=myapps:v15_update_upgrade)\n\n**Wichtiger Hinweis:**\nNutzer Ihrer Kunden, die die Funktion **„Anmeldeapparat“** verwenden, müssen sich nach dem Update am jeweiligen Telefon erneut anmelden.\n\nBitte informieren Sie auch Ihre Kunden rechtzeitig über dieses Update, um mögliche Irritationen zum genannten Zeitpunkt oder am darauffolgenden Morgen zu vermeiden.",
+      "tag": ["stimme"]
     },
 
     {
@@ -145,14 +142,19 @@
   ],
   "resolvedIncidents": [
     {
+      "title": "Störung am 19.02.2026 zwischen 8:46 Uhr und 9:50 Uhr",
+      "text": "Am 19.02.2026 um 8:46 gab es eine Störung des SaaS Dienst. Ab 9:30 waren die Dienste wieder verfügbar und die bis dahin angestauten E-Mails wurden bis 9:50 bearbeitet und damit der Normalbetrieb wiederhergestellt.",
+      "tag": ["ups"]
+    },
+    {
       "title": "Windows Systeme",
       "text": "Im Zuge des regulären Microsoft Patchdays kam es nach den planmäßigen automatischen Neustarts vereinzelt zu Systembeeinträchtigungen. Hintergrund sind von Microsoft ausgerollte, als hochkritisch eingestufte Sicherheitsupdates.\nDie identifizierten Auswirkungen wurden umgehend analysiert und behoben.\nAktuell laufen alle Systeme wieder stabil und im Regelbetrieb.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     },
     {
       "title": "Update 12.02.2026 11:47 Uhr - Exchange Mailhosting",
       "text": "Durch die Februar Updates von Microsoft für Exchange Systeme gibt es aktuell Probleme beim Login in das Webmail Portal (OWA) über https://exchange.mx-rec.de.\nDas Verhalten wird untersucht und geprüft. Die Statusseite wird aktualisiert sobald das Problem behoben ist.",
-      "tag": ["uponu","dinfra"]
+      "tag": ["uponu", "dinfra"]
     },
     {
       "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 05.11.2025",
@@ -210,21 +212,21 @@
       "tag": ["stimme"]
     },
     {
-    "title": "29.09.2025 – 09:38 Uhr",
-    "text": "Aufgrund einer aktuellen Störung kommt es zu einzelnen Systemausfällen. Unser Team arbeitet an der Behebung.",
-    "tag": ["uponu", "dinfra"]
+      "title": "29.09.2025 – 09:38 Uhr",
+      "text": "Aufgrund einer aktuellen Störung kommt es zu einzelnen Systemausfällen. Unser Team arbeitet an der Behebung.",
+      "tag": ["uponu", "dinfra"]
     },
     {
-    "title": "29.09.2025 – 09:38 Uhr",
-    "text": "Aufgrund einer aktuellen Systemstörung kann es zu Ausfällen in der Telefonie kommen. Unser Team arbeitet an der Behebung.",
-    "tag": ["stimme"]
+      "title": "29.09.2025 – 09:38 Uhr",
+      "text": "Aufgrund einer aktuellen Systemstörung kann es zu Ausfällen in der Telefonie kommen. Unser Team arbeitet an der Behebung.",
+      "tag": ["stimme"]
     },
     {
       "title": "Systemanpassung am 01.09. und 02.09.",
       "text": "Im Zuge einer wichtigen Anpassung kann es an dem drauffolgendem Tag dazu kommen, dass eine erneute Anmeldung im myApps Client notwendig ist. Vielen Dank für Ihr Verständnis – und entschuldigen Sie bitte die möglichen Unannehmlichkeiten.",
       "tag": ["stimme"]
     },
-  
+
     {
       "title": "Störung: Einschränkung bei Web-Portal und Kontaktsuche - Update 28.08.25 11:25",
       "text": "Die Ursache wurde identifiziert und behoben. Wir arbeiten derzeit an der Behebung der daraus resultierenden Auswirkungen.",
@@ -235,7 +237,5 @@
       "text": "Aktuell ist die Abfrage des Web-Portals nicht möglich. Infolgedessen steht auch die Kontaktsuche über das Telefon sowie über myApps derzeit nicht zur Verfügung. Unser Team arbeitet bereits an der Behebung der Störung.",
       "tag": ["stimme"]
     }
-  
-
   ]
 }
