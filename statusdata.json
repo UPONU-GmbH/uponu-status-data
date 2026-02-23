@@ -7,14 +7,14 @@
     }
   ],
   "incidents": [
-    {
-      "title": "Windows Systeme",
-      "text": "Im Zuge des regulären Microsoft Patchdays kam es nach den planmäßigen automatischen Neustarts vereinzelt zu Systembeeinträchtigungen. Hintergrund sind von Microsoft ausgerollte, als hochkritisch eingestufte Sicherheitsupdates.\nDie identifizierten Auswirkungen wurden umgehend analysiert und behoben.\nAktuell laufen alle Systeme wieder stabil und im Regelbetrieb.",
-      "tag": ["uponu","dinfra"]
-    }
+    
   ],
   "upcomingMaintenance": [
-    
+    {
+      "title": "Omnissa Horizon VDI Systeme - 08.03 9-18 Uhr",
+      "text": "Auf den zentralen Systemen für die VDI Verbindung zu den Terminalserver Arbeitsplätzen werden wichtige Wartungen durchgeführt. Während der gesamten Wartung kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Terminalserver kommen da die zentralen Verbindungssysteme mehrfach neugestartet werden müssen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
+      "tag": ["uponu","dinfra"]
+    }
    ],
 
   "returningMaintenance": [
@@ -144,6 +144,11 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Windows Systeme",
+      "text": "Im Zuge des regulären Microsoft Patchdays kam es nach den planmäßigen automatischen Neustarts vereinzelt zu Systembeeinträchtigungen. Hintergrund sind von Microsoft ausgerollte, als hochkritisch eingestufte Sicherheitsupdates.\nDie identifizierten Auswirkungen wurden umgehend analysiert und behoben.\nAktuell laufen alle Systeme wieder stabil und im Regelbetrieb.",
+      "tag": ["uponu","dinfra"]
+    },
     {
       "title": "Update 12.02.2026 11:47 Uhr - Exchange Mailhosting",
       "text": "Durch die Februar Updates von Microsoft für Exchange Systeme gibt es aktuell Probleme beim Login in das Webmail Portal (OWA) über https://exchange.mx-rec.de.\nDas Verhalten wird untersucht und geprüft. Die Statusseite wird aktualisiert sobald das Problem behoben ist.",
