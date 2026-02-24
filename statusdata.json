@@ -6,7 +6,13 @@
       "tag": ["all"]
     }
   ],
-  "incidents": [],
+  "incidents": [
+    {
+      "title": "Störung Telefonie - 24.02.26 10:30 Uhr",
+      "text": "Aufgrund von Problemen im Rechenzentrum unseres Vorlieferanten kommt es derzeit zu einer Störung der Telefonie. Wir stehen im Austausch mit dem Rechenzentrum und warten aktuell auf eine Rückmeldung.",
+      "tag": ["stimme"]
+    }
+  ],
   "upcomingMaintenance": [
     {
       "title": "E-Mail Spamfilter - 24.02 17-18 Uhr",
