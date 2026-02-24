@@ -18,7 +18,7 @@
   "returningMaintenance": [
     {
       "title": "System-Updates",
-      "text": "Um die Qualität und Leistungsfähigkeit unseres Systems kontinuierlich zu optimieren, führen wir regelmäßig Wartungsarbeiten durch.\nDas Wartungsfenster findet **jeden zweiten Mittwoch von 22:00 - 24:00 Uhr** statt. Während dieser Zeit kann es in seltenen Fällen zu vorübergehenden Einschränkungen oder Unterbrechungen der Erreichbarkeit unseres Systems kommen.",
+      "text": "Um die Qualität und Leistungsfähigkeit unseres Systems kontinuierlich zu optimieren, führen wir regelmäßig Wartungsarbeiten durch.\nDas Wartungsfenster findet **jeden Donnerstag von 22:00 - 24:00 Uhr** statt. Während dieser Zeit kann es in seltenen Fällen zu vorübergehenden Einschränkungen oder Unterbrechungen der Erreichbarkeit unseres Systems kommen.",
       "tag": ["ups"]
     },
     {
