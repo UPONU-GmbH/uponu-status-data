@@ -1,8 +1,8 @@
 {
   "statusAlert": [
     {
-      "message": "Alle Systeme sind funktionsfähig",
-      "alertColor": "success",
+      "message": "Einige Systeme sind nur eingeschränkt verfügbar",
+      "alertColor": "warning",
       "tag": ["all"]
     }
   ],
