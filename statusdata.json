@@ -8,13 +8,8 @@
   ],
   "incidents": [
     {
-      "title": "Störung Telefonie - 24.02.26 Update 10:55 Uhr",
-      "text": "Wir haben die Rückmeldung erhalten, dass der Fehler gefunden wurde und die Telefonie wieder zur Verfügung steht. Sobald uns weitere Informationen vorliegen, erfolgt eine weitere Meldung.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Störung Telefonie - 24.02.26 10:30 Uhr",
-      "text": "Aufgrund von Problemen im Rechenzentrum unseres Vorlieferanten kommt es derzeit zu einer Störung der Telefonie. Wir stehen im Austausch mit dem Rechenzentrum und warten aktuell auf eine Rückmeldung.",
+      "title": "Störung Telefonie - 24.02.26 Update 17:45 Uhr - Abschlussmeldung",
+      "text": "Am 24.02.2026 meldete das Monitoring um 10:20 Uhr blockierende IO-Zugriffe eines Storage-Nodes. Der Ausfall des Storage-Nodes wurde um 10:25 Uhr festgestellt. Ab diesem Zeitpunkt war die Nutzung einzelner Systeme eingeschränkt. Es waren Systeme betroffen, welche ihre Speichermedien mit diesem Storage-Node geteilt haben. Die Ursache wurde gegen 10:30 Uhr identifiziert. Ab 10:55 Uhr konnten alle betroffenen Systeme neu gestartet werden.",
       "tag": ["stimme"]
     },
     {
@@ -172,6 +167,16 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Störung Telefonie - 24.02.26 Update 10:55 Uhr",
+      "text": "Wir haben die Rückmeldung erhalten, dass der Fehler gefunden wurde und die Telefonie wieder zur Verfügung steht. Sobald uns weitere Informationen vorliegen, erfolgt eine weitere Meldung.",
+      "tag": ["stimme"]
+    },
+    {
+      "title": "Störung Telefonie - 24.02.26 10:30 Uhr",
+      "text": "Aufgrund von Problemen im Rechenzentrum unseres Vorlieferanten kommt es derzeit zu einer Störung der Telefonie. Wir stehen im Austausch mit dem Rechenzentrum und warten aktuell auf eine Rückmeldung.",
+      "tag": ["stimme"]
+    },
     {
       "title": "Störung am 19.02.2026 zwischen 8:46 Uhr und 9:50 Uhr",
       "text": "Am 19.02.2026 um 8:46 gab es eine Störung des SaaS Dienst. Ab 9:30 waren die Dienste wieder verfügbar und die bis dahin angestauten E-Mails wurden bis 9:50 bearbeitet und damit der Normalbetrieb wiederhergestellt.",
