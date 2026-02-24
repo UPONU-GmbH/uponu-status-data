@@ -9,6 +9,11 @@
   "incidents": [],
   "upcomingMaintenance": [
     {
+      "title": "E-Mail Spamfilter - 24.02 17-18 Uhr",
+      "text": "Auf den E-Mail Systemen für die Spamfilterung werden wichtige Sicherheitsupdates installiert. Während des Updates kann es zu Verzögerungen der E-Mail zustellung und des empfangs kommen, es gehen keine E-Mails verloren. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
+      "tag": ["uponu","dinfra"]
+    },
+    {
       "title": "Omnissa Horizon VDI Systeme - 08.03 9-18 Uhr",
       "text": "Auf den zentralen Systemen für die VDI Verbindung zu den Terminalserver Arbeitsplätzen werden wichtige Wartungen durchgeführt. Während der gesamten Wartung kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Terminalserver kommen da die zentralen Verbindungssysteme mehrfach neugestartet werden müssen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
       "tag": ["uponu", "dinfra"]
