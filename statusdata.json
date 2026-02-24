@@ -16,12 +16,12 @@
       "title": "Störung Telefonie - 24.02.26 10:30 Uhr",
       "text": "Aufgrund von Problemen im Rechenzentrum unseres Vorlieferanten kommt es derzeit zu einer Störung der Telefonie. Wir stehen im Austausch mit dem Rechenzentrum und warten aktuell auf eine Rückmeldung.",
       "tag": ["stimme"]
-    }.
+    },
     {
       "title": "24.02.26 Update 10:55 Uhr",
       "text": "Die betroffenen Systeme wurden erfolgreich neu gestartet und fahren derzeit sukzessive wieder hoch. Die vollständige Verfügbarkeit aller Services wird in Kürze wiederhergestellt sein. Während der Hochlaufphase kann es vereinzelt noch zu kurzen Verzögerungen oder Einschränkungen kommen.",
       "tag": ["uponu"]
-    },
+    }
   ],
   "upcomingMaintenance": [
     {
