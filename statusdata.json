@@ -4,17 +4,12 @@
       "message": "Alle Systeme sind verfügbar",
       "alertColor": "success",
       "tag": ["all"]
-    },
-    {
-      "message": "Einige Systeme sind nur eingeschränkt verfügbar",
-      "alertColor": "warning",
-      "tag": ["uponu"]
     }
   ],
   "incidents": [
     {
-      "title": "Störung Mailversand - 27.02.26 8:48 Uhr",
-      "text": "Aktuell kann der Versand und Empfang von E-Mails gestört sein. Es gehen keine E-Mails verloren. Wir untersuchen das Problem mit höchster Priorität und aktualisieren die Statusseite, sobald weitere Informationen vorliegen.",
+      "title": "Behoben - Störung Mailversand - 27.02.26 Update 11:02 Uhr",
+      "text": "Der Versand und Empfang von E-Mails ist vollständig wiederhergestellt. Die Warteschlangen werden abgearbeitet und die Nachrichten zugestellt.",
       "tag": ["uponu"]
     },
     {
@@ -167,6 +162,11 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Störung Mailversand - 27.02.26 8:48 Uhr",
+      "text": "Aktuell kann der Versand und Empfang von E-Mails gestört sein. Es gehen keine E-Mails verloren. Wir untersuchen das Problem mit höchster Priorität und aktualisieren die Statusseite, sobald weitere Informationen vorliegen.",
+      "tag": ["uponu"]
+    },
     {
       "title": "24.02.26 Update 10:55 Uhr",
       "text": "Die betroffenen Systeme wurden erfolgreich neu gestartet und fahren derzeit sukzessive wieder hoch. Die vollständige Verfügbarkeit aller Services wird in Kürze wiederhergestellt sein. Während der Hochlaufphase kann es vereinzelt noch zu kurzen Verzögerungen oder Einschränkungen kommen.",
