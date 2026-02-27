@@ -188,8 +188,13 @@
       "tag": ["stimme"]
     },
     {
+      "title": "Störung am 24.02.2026 zwischen 10:20 Uhr und 11:10 Uhr",
+      "text": "Am 24.02.2026 um 10:20 Uhr gab es eine Störung des SaaS Dienst mail:u Secure. Ab 10:50 Uhr waren die Dienste wieder verfügbar und die bis dahin angestauten E-Mails wurden bis 11:10 Uhr bearbeitet und damit der Normalbetrieb wiederhergestellt.",
+      "tag": ["ups"]
+    },
+    {
       "title": "Störung am 19.02.2026 zwischen 8:46 Uhr und 9:50 Uhr",
-      "text": "Am 19.02.2026 um 8:46 gab es eine Störung des SaaS Dienst. Ab 9:30 waren die Dienste wieder verfügbar und die bis dahin angestauten E-Mails wurden bis 9:50 bearbeitet und damit der Normalbetrieb wiederhergestellt.",
+      "text": "Am 19.02.2026 um 8:46 Uhr gab es eine Störung des SaaS Dienst. Ab 9:30 Uhr waren die Dienste wieder verfügbar und die bis dahin angestauten E-Mails wurden bis 9:50 Uhr bearbeitet und damit der Normalbetrieb wiederhergestellt.",
       "tag": ["ups"]
     },
     {
