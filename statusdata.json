@@ -4,23 +4,23 @@
       "message": "Alle Systeme sind verfügbar",
       "alertColor": "success",
       "tag": ["all"]
+    },
+    {
+      "message": "Einige Systeme sind nur eingeschränkt verfügbar",
+      "alertColor": "warning",
+      "tag": ["uponu"]
     }
   ],
   "incidents": [
     {
+      "title": "Störung Mailversand - 27.02.26 8:48 Uhr",
+      "text": "Aktuell kann der Versand und Empfang von E-Mails gestört sein. Es gehen keine E-Mails verloren. Wir untersuchen das Problem mit höchster Priorität und aktualisieren die Statusseite, sobald weitere Informationen vorliegen.",
+      "tag": ["uponu"]
+    },
+    {
       "title": "Störung Telefonie - 24.02.26 Update 17:45 Uhr - Abschlussmeldung",
       "text": "Am 24.02.2026 meldete das Monitoring um 10:20 Uhr blockierende IO-Zugriffe eines Storage-Nodes. Der Ausfall des Storage-Nodes wurde um 10:25 Uhr festgestellt. Ab diesem Zeitpunkt war die Nutzung einzelner Systeme eingeschränkt. Es waren Systeme betroffen, welche ihre Speichermedien mit diesem Storage-Node geteilt haben. Die Ursache wurde gegen 10:30 Uhr identifiziert. Ab 10:55 Uhr konnten alle betroffenen Systeme neu gestartet werden.",
       "tag": ["stimme"]
-    },
-    {
-      "title": "24.02.26 Update 10:55 Uhr",
-      "text": "Die betroffenen Systeme wurden erfolgreich neu gestartet und fahren derzeit sukzessive wieder hoch. Die vollständige Verfügbarkeit aller Services wird in Kürze wiederhergestellt sein. Während der Hochlaufphase kann es vereinzelt noch zu kurzen Verzögerungen oder Einschränkungen kommen.",
-      "tag": ["uponu"]
-    },
-    {
-      "title": "24.02.26 Update 13:30 Uhr",
-      "text": "Alle Systeme sind verfügbar",
-      "tag": ["uponu"]
     }
   ],
   "upcomingMaintenance": [
@@ -167,6 +167,16 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "24.02.26 Update 10:55 Uhr",
+      "text": "Die betroffenen Systeme wurden erfolgreich neu gestartet und fahren derzeit sukzessive wieder hoch. Die vollständige Verfügbarkeit aller Services wird in Kürze wiederhergestellt sein. Während der Hochlaufphase kann es vereinzelt noch zu kurzen Verzögerungen oder Einschränkungen kommen.",
+      "tag": ["uponu"]
+    },
+    {
+      "title": "24.02.26 Update 13:30 Uhr",
+      "text": "Alle Systeme sind verfügbar",
+      "tag": ["uponu"]
+    },
     {
       "title": "Störung Telefonie - 24.02.26 Update 10:55 Uhr",
       "text": "Wir haben die Rückmeldung erhalten, dass der Fehler gefunden wurde und die Telefonie wieder zur Verfügung steht. Sobald uns weitere Informationen vorliegen, erfolgt eine weitere Meldung.",
