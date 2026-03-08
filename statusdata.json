@@ -15,7 +15,7 @@
   ],
   "upcomingMaintenance": [
     {
-      "title": "Omnissa Horizon VDI Systeme - 08.03 9-18 Uhr",
+      "title": "Omnissa Horizon VDI Systeme - 08.03 9-22 Uhr",
       "text": "Auf den zentralen Systemen für die VDI Verbindung zu den Terminalserver Arbeitsplätzen werden wichtige Wartungen durchgeführt. Während der gesamten Wartung kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Terminalserver kommen da die zentralen Verbindungssysteme mehrfach neugestartet werden müssen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
       "tag": ["uponu", "dinfra"]
     }
