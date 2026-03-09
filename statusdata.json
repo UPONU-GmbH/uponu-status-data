@@ -7,11 +7,7 @@
     }
   ],
   "incidents": [
-    {
-      "title": "Störung Telefonie - 24.02.26 Update 17:45 Uhr - Abschlussmeldung",
-      "text": "Am 24.02.2026 meldete das Monitoring um 10:20 Uhr blockierende IO-Zugriffe eines Storage-Nodes. Der Ausfall des Storage-Nodes wurde um 10:25 Uhr festgestellt. Ab diesem Zeitpunkt war die Nutzung einzelner Systeme eingeschränkt. Es waren Systeme betroffen, welche ihre Speichermedien mit diesem Storage-Node geteilt haben. Die Ursache wurde gegen 10:30 Uhr identifiziert. Ab 10:55 Uhr konnten alle betroffenen Systeme neu gestartet werden.",
-      "tag": ["stimme"]
-    }
+    
   ],
   "upcomingMaintenance": [
     {
@@ -157,6 +153,11 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Störung Telefonie - 24.02.26 Update 17:45 Uhr - Abschlussmeldung",
+      "text": "Am 24.02.2026 meldete das Monitoring um 10:20 Uhr blockierende IO-Zugriffe eines Storage-Nodes. Der Ausfall des Storage-Nodes wurde um 10:25 Uhr festgestellt. Ab diesem Zeitpunkt war die Nutzung einzelner Systeme eingeschränkt. Es waren Systeme betroffen, welche ihre Speichermedien mit diesem Storage-Node geteilt haben. Die Ursache wurde gegen 10:30 Uhr identifiziert. Ab 10:55 Uhr konnten alle betroffenen Systeme neu gestartet werden.",
+      "tag": ["stimme"]
+    },
     {
       "title": "Behoben - Störung Mailversand - 27.02.26 Update 11:02 Uhr",
       "text": "Der Versand und Empfang von E-Mails ist vollständig wiederhergestellt. Die Warteschlangen werden abgearbeitet und die Nachrichten zugestellt.",
