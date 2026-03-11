@@ -10,7 +10,11 @@
     
   ],
   "upcomingMaintenance": [
-    
+    {
+      "title": "Omnissa Horizon VDI Systeme - 11.03 17:00 Uhr",
+      "text": "Heute um 17:00 Uhr wird ein System für die virtuelle Arbeitsumgebung neu gestartet, um ein aktuelles Problem zu beheben.\nIm Anschluss kann es vereinzelt zu kurzen Sitzungsunterbrechungen kommen.\nVielen Dank für Ihr Verständnis.",
+      "tag": ["uponu", "dinfra"]
+    }
   ],
 
   "returningMaintenance": [
