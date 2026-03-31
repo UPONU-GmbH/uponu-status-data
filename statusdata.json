@@ -10,6 +10,11 @@
     
   ],
   "upcomingMaintenance": [
+    {
+      "title": "Zertifikatstausch 01.04.2026 19 - 21 Uhr",
+      "text": "Die Zertifkate für exchange.mx-rec.de werden am genannten Termin getauscht. Dadurch kann es kurzzeitig zu Fehlermeldungen bei Emailclients kommen.Eventuell ist nach dem Tausch ein Neustart Ihres Emailclients notwendig",
+      "tag": ["all"]
+    },
     
   ],
 
