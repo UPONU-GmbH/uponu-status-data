@@ -10,11 +10,6 @@
     
   ],
   "upcomingMaintenance": [
-    {
-      "title": "Zertifikatstausch 01.04.2026 19 - 21 Uhr",
-      "text": "Die Zertifkate für exchange.mx-rec.de werden am genannten Termin getauscht. Dadurch kann es kurzzeitig zu Fehlermeldungen bei Emailclients kommen.Eventuell ist nach dem Tausch ein Neustart Ihres Emailclients notwendig",
-      "tag": ["dinfra", "uponu"]
-    }
     
   ],
 
@@ -60,6 +55,11 @@
       "title": "Geplante Wartungsarbeiten - 19.03.2026 - 22:30 bis 22:50 Uhr",
       "text": "Die geplanten Wartungsarbeiten wurden ohne Betriebsbeeinträchtigungen durchgeführt.",
       "tag": ["ups"]
+    },
+    {
+      "title": "Zertifikatstausch 01.04.2026 19 - 21 Uhr",
+      "text": "Die Zertifkate für exchange.mx-rec.de werden am genannten Termin getauscht. Dadurch kann es kurzzeitig zu Fehlermeldungen bei Emailclients kommen.Eventuell ist nach dem Tausch ein Neustart Ihres Emailclients notwendig",
+      "tag": ["dinfra", "uponu"]
     },
     {
       "title": "Omnissa Horizon VDI Systeme - 11.03 17:00 Uhr",
