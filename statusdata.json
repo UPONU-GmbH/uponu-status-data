@@ -7,7 +7,11 @@
     }
   ],
   "incidents": [
-    
+    {
+      "title": "Zertifikatsfehler 04.07.2026",
+      "text": "Die D-Trust (Bundesdruckerei) hat im Zuge aktueller externer Vorgaben kurzfristig bereits ausgestellte Zertifikate zurückgezogen und durch neue ersetzt. Diese Maßnahme wurde zum 06.04.2026 wirksam und betrifft eine Vielzahl von Zertifikaten und liegt außerhalb unseres Einflussbereichs.\nDie daraus resultierenden Anpassungen werden derzeit in den entsprechenden Systemumgebungen umgesetzt. Den Austausch der betroffenen Zertifikate führen wir aktuell mit hoher Priorität und entsprechendem Nachdruck durch. Der Prozess ist bereits weit fortgeschritten und wird in Kürze abgeschlossen sein.\nVielen Dank für Ihr Verständnis.",
+      "tag": ["uponu"]
+    }
   ],
   "upcomingMaintenance": [
     
