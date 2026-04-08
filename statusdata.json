@@ -7,11 +7,7 @@
     }
   ],
   "incidents": [
-    {
-      "title": "Zertifikatsfehler 07.04.2026",
-      "text": "Die D-Trust (Bundesdruckerei) hat im Zuge aktueller externer Vorgaben kurzfristig bereits ausgestellte Zertifikate zurückgezogen und durch neue ersetzt. Diese Maßnahme wurde zum 06.04.2026 wirksam und betrifft eine Vielzahl von Zertifikaten und liegt außerhalb unseres Einflussbereichs.\nDie daraus resultierenden Anpassungen werden derzeit in den entsprechenden Systemumgebungen umgesetzt. Den Austausch der betroffenen Zertifikate führen wir aktuell mit hoher Priorität und entsprechendem Nachdruck durch. Der Prozess ist bereits weit fortgeschritten und wird in Kürze abgeschlossen sein.\nVielen Dank für Ihr Verständnis.",
-      "tag": ["uponu"]
-    }
+    
   ],
   "upcomingMaintenance": [
     
@@ -173,6 +169,11 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Zertifikatsfehler 07.04.2026",
+      "text": "Die D-Trust (Bundesdruckerei) hat im Zuge aktueller externer Vorgaben kurzfristig bereits ausgestellte Zertifikate zurückgezogen und durch neue ersetzt. Diese Maßnahme wurde zum 06.04.2026 wirksam und betrifft eine Vielzahl von Zertifikaten und liegt außerhalb unseres Einflussbereichs.\nDie daraus resultierenden Anpassungen werden derzeit in den entsprechenden Systemumgebungen umgesetzt. Den Austausch der betroffenen Zertifikate führen wir aktuell mit hoher Priorität und entsprechendem Nachdruck durch. Der Prozess ist bereits weit fortgeschritten und wird in Kürze abgeschlossen sein.\nVielen Dank für Ihr Verständnis.",
+      "tag": ["uponu"]
+    },
     {
       "title": "Störung Telefonie - 24.02.26 Update 17:45 Uhr - Abschlussmeldung",
       "text": "Am 24.02.2026 meldete das Monitoring um 10:20 Uhr blockierende IO-Zugriffe eines Storage-Nodes. Der Ausfall des Storage-Nodes wurde um 10:25 Uhr festgestellt. Ab diesem Zeitpunkt war die Nutzung einzelner Systeme eingeschränkt. Es waren Systeme betroffen, welche ihre Speichermedien mit diesem Storage-Node geteilt haben. Die Ursache wurde gegen 10:30 Uhr identifiziert. Ab 10:55 Uhr konnten alle betroffenen Systeme neu gestartet werden.",
