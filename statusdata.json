@@ -10,6 +10,11 @@
     
   ],
   "upcomingMaintenance": [
+     {
+      "title": "Neustarte Horzion API",
+      "text": "Heute wird um 18:00 Uhr eine Wartung an der Horizon API durchgeführt, wodurch diese vorübergehend nicht erreichbar sein wird.",
+      "tag": ["uponu", "dinfra"]
+    }
     
   ],
 
