@@ -10,11 +10,6 @@
     
   ],
   "upcomingMaintenance": [
-     {
-      "title": "Geplanter Neustart Horzion API",
-      "text": "Am 21.04.2026 wird zwischen 20:00 und 21:00 Uhr eine Wartung an der Horizon API durchgeführt, wodurch diese vorübergehend nicht erreichbar sein wird.",
-      "tag": ["uponu", "dinfra"]
-    },
     {
       "title": "Umstellung Mailgateway-Dienste",
       "text": "Am 21.04.2026 findet zwischen 17:00 und 23:00 Uhr die geplante Umstellung des Mailgateway-Dienstes statt. In diesem Zeitraum kann es vorkommen, dass E-Mail verzögert zugestellt werden. Wir informieren Sie hier, sobald die Arbeiten abgeschlossen sind.",
@@ -67,6 +62,11 @@
     }
   ],
   "closedMaintenance": [
+    {
+      "title": "Geplanter Neustart Horzion API",
+      "text": "Am 21.04.2026 wird zwischen 20:00 und 21:00 Uhr eine Wartung an der Horizon API durchgeführt, wodurch diese vorübergehend nicht erreichbar sein wird.",
+      "tag": ["uponu", "dinfra"]
+    },
     {
       "title": "Geplante Wartungsarbeiten - 19.03.2026 - 22:30 bis 22:50 Uhr",
       "text": "Die geplanten Wartungsarbeiten wurden ohne Betriebsbeeinträchtigungen durchgeführt.",
