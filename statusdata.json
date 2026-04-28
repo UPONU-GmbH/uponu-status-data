@@ -7,7 +7,11 @@
     }
   ],
   "incidents": [
-    
+    {
+       "title": "Störung VIEW/VDI 2FA Anmeldung - 28.04.26 8:06 Uhr bis 08:24 Uhr",
+       "text": "Im Rahmen der 2-Faktor-Authentifzierung ist es zu einem Fehler bei den Anmeldeservern gekommen. Nach kurzer Überprüfung, konnte dieser Fehler wieder behoben werden. Nach einem Neustart der Anwendung ist die Anmeldung wieder möglich",
+       "tag": ["uponu", "dinfra"]
+   }
   ],
   "upcomingMaintenance": [
 
