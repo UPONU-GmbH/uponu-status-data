@@ -7,18 +7,10 @@
     }
   ],
   "incidents": [
-    {
-      "title": "Störung Omnissa Horizon VDI 2FA Anmeldung - 28.04.2026 8:06 Uhr bis 08:24 Uhr",
-      "text": "Im Rahmen der 2-Faktor-Authentifzierung ist es zu einem Fehler bei den Anmeldeservern gekommen. Nach kurzer Überprüfung, konnte dieser Fehler wieder behoben werden. Nach einem Neustart der Anwendung ist die Anmeldung wieder möglich",
-      "tag": ["uponu", "dinfra"]
-    }
+
   ],
   "upcomingMaintenance": [
-    {
-      "title": "Omnissa Horizon VDI Systeme - 18.04.2026 17:00 Uhr",
-      "text": "Heute um 17:00 Uhr wird ein System für die virtuelle Arbeitsumgebung neu gestartet, um ein aktuelles Problem zu beheben.\nIm Anschluss kann es vereinzelt zu kurzen Sitzungsunterbrechungen kommen.\nVielen Dank für Ihr Verständnis.",
-      "tag": ["uponu", "dinfra"]
-    }
+
   ],
 
   "returningMaintenance": [
