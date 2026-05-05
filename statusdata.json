@@ -7,7 +7,11 @@
     }
   ],
   "incidents": [
-
+    {
+      "title": "Globale DNS Probleme für .de Domains - 05.05.2026 22:30 Uhr",
+      "text": "Aktuell gibt es anhaltende globale DNS-Probleme mit .de-Domains.\nDies betrifft auch unsere .de-Domains.\nDie Ursache liegt innerhalb der Root-DNS-Zone der .de-Domains außerhalb unseres Einflussbereichs und betrifft nach zufälligem Muster potenziell alle .de-Domains.\nWeichen Sie bitte auf unsere Services aus, die unabhängig von der .de-Domain sind:\n\nWir aktualisieren diesen Beitrag sobald uns weitere Informationen vorliegen.\n\n-*VDI: view.paar-it.de -> vdi01.host-it.cloud*-\n-*2FA VDI: view2fa.paar-it.de -> vdi2fa01.host-it.cloud*-\n[Anleitung zur Einrichtung des Horizon View Clients](https://download.uponu.com/download/OmnissaHorizonClient-Anleitungen/Omnissa%20Horizon%20-%20Bedienungsanleitung.pdf)",
+      "tag": ["uponu"]
+    }
   ],
   "upcomingMaintenance": [
       {
