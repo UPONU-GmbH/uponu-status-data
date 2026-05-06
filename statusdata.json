@@ -7,16 +7,17 @@
     }
   ],
   "incidents": [
-    {
-      "title": "Globale DNS Probleme für .de Domains - 05.05.2026 22:30 Uhr",
-      "text": "Aktuell gibt es anhaltende globale DNS-Probleme mit .de-Domains.\nDies betrifft auch unsere .de-Domains.\nDie Ursache liegt innerhalb der Root-DNS-Zone der .de-Domains außerhalb unseres Einflussbereichs und betrifft nach zufälligem Muster potenziell alle .de-Domains.\nWeichen Sie bitte auf unsere Services aus, die unabhängig von der .de-Domain sind:\n\nWir aktualisieren diesen Beitrag sobald uns weitere Informationen vorliegen.\n\n-*VDI: view.paar-it.de -> vdi01.host-it.cloud*-\n-*2FA VDI: view2fa.paar-it.de -> vdi2fa01.host-it.cloud*-\n[Anleitung zur Einrichtung des Horizon View Clients](https://download.uponu.com/download/OmnissaHorizonClient-Anleitungen/Omnissa%20Horizon%20-%20Bedienungsanleitung.pdf)",
-      "tag": ["uponu"]
-    }
+
   ],
   "upcomingMaintenance": [
       {
       "title": "Omnissa Horizon VDI Systeme - 17.05 9-17 Uhr",
       "text": "Auf den zentralen Systemen für die VDI Verbindung zu den Terminalserver Arbeitsplätzen werden wichtige Wartungen durchgeführt. Während der gesamten Wartung kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Terminalserver kommen da die zentralen Verbindungssysteme mehrfach neugestartet werden müssen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
+      "tag": ["uponu", "dinfra"]
+    },
+      {
+      "title": "Wartungsarbeiten an Storage-Systemen - 06.05.2026 21-23 Uhr",
+      "text": "Heute Abend werden um 21 Uhr Wartungsarbeiten an unseren Storage-Systemen durchgeführt.",
       "tag": ["uponu", "dinfra"]
     }
   ],
@@ -59,6 +60,11 @@
     }
   ],
   "closedMaintenance": [
+        {
+      "title": "Globale DNS Probleme für .de Domains - 05.05.2026 22:30 Uhr",
+      "text": "Aktuell gibt es anhaltende globale DNS-Probleme mit .de-Domains.\nDies betrifft auch unsere .de-Domains.\nDie Ursache liegt innerhalb der Root-DNS-Zone der .de-Domains außerhalb unseres Einflussbereichs und betrifft nach zufälligem Muster potenziell alle .de-Domains.\nWeichen Sie bitte auf unsere Services aus, die unabhängig von der .de-Domain sind:\n\nWir aktualisieren diesen Beitrag sobald uns weitere Informationen vorliegen.\n\n-*VDI: view.paar-it.de -> vdi01.host-it.cloud*-\n-*2FA VDI: view2fa.paar-it.de -> vdi2fa01.host-it.cloud*-\n[Anleitung zur Einrichtung des Horizon View Clients](https://download.uponu.com/download/OmnissaHorizonClient-Anleitungen/Omnissa%20Horizon%20-%20Bedienungsanleitung.pdf)",
+      "tag": ["uponu"]
+    },
     {
       "title": "Wartungsarbeiten Reverse  Proxy",
       "text": "Am 22.04.2026 finden zwischen 20:30 und 22:30 Uhr Wartungsarbeiten an unserem Reverse Proxy statt. In diesem Zeitraum kann es vorkommen, dass einige Domains vorübergehend nicht erreichbar sind. Wir informieren Sie über die Statusseite, sobald die Arbeiten abgeschlossen sind.",
