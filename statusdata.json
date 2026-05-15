@@ -13,7 +13,7 @@
       
     {
       "title": "Neustart Omnissa Horizon",
-      "text": "Aufgrund einer kurzfristig angesetzten Wartung werden die Omnissa Horizon View Server neu gestartet. Dadurch kann es zu einer kurzzeitigen Unterbrechung der Verbindungen kommen. Anschließend stehen die Dienste wieder wie gewohnt zur Verfügung. Vielen Dank für Ihr Verständnis.",
+      "text": "Aufgrund eines zeitkritischen Problems mit dem VDI Dienst, ist ein Neustart  im laufenden Betrieb notwendig welcher gerade durchgeführt wird. Dabei kann es zu einem kurzen Verbindungsabbruch der aktuellen Sitzungen innerhalb der kommenden 4 Stunden kommen. Die Sitzungen bleiben aufgrund der Redundanz des Dienstes erhalten und lassen sich per Wiederverbinden direkt wieder aufrufen. Dazu reicht ein Doppelclick auf das Desktop Symbol im Horizon Client, dieser muss nicht neugestartet werden.Wir danken für Ihr Verständnis.",
       "tag": ["uponu", "dinfra"]
       },
     {
