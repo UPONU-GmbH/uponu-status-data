@@ -10,7 +10,13 @@
 
   ],
   "upcomingMaintenance": [
-      {
+      
+    {
+      "title": "Neustart Omnissa Horizon",
+      "text": "Aufgrund einer kurzfristig angesetzten Wartung werden die Omnissa Horizon View Server neu gestartet. Dadurch kann es zu einer kurzzeitigen Unterbrechung der Verbindungen kommen. Anschließend stehen die Dienste wieder wie gewohnt zur Verfügung. Vielen Dank für Ihr Verständnis.",
+      "tag": ["uponu", "dinfra"]
+      },
+    {
       "title": "Omnissa Horizon VDI Systeme - 24.05 9-17 Uhr",
       "text": "Auf den zentralen Systemen für die VDI Verbindung zu den Terminalserver Arbeitsplätzen werden wichtige Wartungen durchgeführt. Während der gesamten Wartung kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Terminalserver kommen da die zentralen Verbindungssysteme mehrfach neugestartet werden müssen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
       "tag": ["uponu", "dinfra"]
