@@ -9,13 +9,7 @@
   "incidents": [
 
   ],
-  "upcomingMaintenance": [
-      
-    {
-      "title": "Neustart Omnissa Horizon",
-      "text": "Aufgrund eines zeitkritischen Problems mit dem VDI Dienst, ist ein Neustart  im laufenden Betrieb notwendig welcher gerade durchgeführt wird. Dabei kann es zu einem kurzen Verbindungsabbruch der aktuellen Sitzungen innerhalb der kommenden 4 Stunden kommen. Die Sitzungen bleiben aufgrund der Redundanz des Dienstes erhalten und lassen sich per Wiederverbinden direkt wieder aufrufen. Dazu reicht ein Doppelclick auf das Desktop Symbol im Horizon Client, dieser muss nicht neugestartet werden.Wir danken für Ihr Verständnis.",
-      "tag": ["uponu", "dinfra"]
-      },
+  "upcomingMaintenance": [    
     {
       "title": "Omnissa Horizon VDI Systeme - 24.05 9-17 Uhr",
       "text": "Auf den zentralen Systemen für die VDI Verbindung zu den Terminalserver Arbeitsplätzen werden wichtige Wartungen durchgeführt. Während der gesamten Wartung kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Terminalserver kommen da die zentralen Verbindungssysteme mehrfach neugestartet werden müssen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
