@@ -1,14 +1,14 @@
 {
   "statusAlert": [
     {
-      "message": "Dienste teilweise eingeschränkt",
-      "alertColor": "warning",
-      "tag": ["uponu"]
-    },
-    {
       "message": "Alle Systeme sind verfügbar",
       "alertColor": "success",
       "tag": ["all"]
+    },
+    {
+      "message": "Dienste teilweise eingeschränkt",
+      "alertColor": "warning",
+      "tag": ["uponu"]
     }
   ],
   "incidents": [
