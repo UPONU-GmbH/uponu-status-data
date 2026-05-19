@@ -4,15 +4,15 @@
       "message": "Alle Systeme sind verfügbar",
       "alertColor": "success",
       "tag": ["all"]
-    },
-    {
-      "message": "Dienste teilweise eingeschränkt",
-      "alertColor": "warning",
-      "tag": ["uponu"]
     }
   ],
   "incidents": [
-    {
+      {
+      "title": "Switch Failover Update 9:30 Uhr",
+      "text": "Das Problem konnte identifiziert und behoben werden.",
+      "tag": ["uponu"]
+      },
+      {
       "title": "Switch Failover Update 8:45 Uhr",
       "text": "Wir untersuchen gerade einen Failover einer BGP Switch Session. Durch den Failover sind teile des Basic Clusters nur eingeschränkt verfügbar gewesen und Systeme müssen ggf. neugestartet werden.",
       "tag": ["uponu"]
