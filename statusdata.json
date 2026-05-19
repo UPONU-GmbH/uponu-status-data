@@ -1,16 +1,25 @@
 {
   "statusAlert": [
     {
+      "message": "Dienste teilweise eingeschränkt",
+      "alertColor": "warning",
+      "tag": ["uponu"]
+    },
+    {
       "message": "Alle Systeme sind verfügbar",
       "alertColor": "success",
       "tag": ["all"]
     }
   ],
   "incidents": [
-
+    {
+      "title": "Switch Failover Update 8:45 Uhr",
+      "text": "Wir untersuchen gerade einen Failover einer BGP Switch Session. Durch den Failover sind teile des Basic Clusters nur eingeschränkt verfügbar gewesen und Systeme müssen ggf. neugestartet werden.",
+      "tag": ["uponu"]
+      }
   ],
   "upcomingMaintenance": [    
-    {
+      {
       "title": "Omnissa Horizon VDI Systeme - 24.05 9-17 Uhr",
       "text": "Auf den zentralen Systemen für die VDI Verbindung zu den Terminalserver Arbeitsplätzen werden wichtige Wartungen durchgeführt. Während der gesamten Wartung kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Terminalserver kommen da die zentralen Verbindungssysteme mehrfach neugestartet werden müssen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
       "tag": ["uponu", "dinfra"]
