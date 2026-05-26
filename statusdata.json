@@ -10,7 +10,11 @@
       
   ],
   "upcomingMaintenance": [    
-      
+    {
+      "title": "Wartung WAN Anbindung - 30.05 22-23 Uhr",
+      "text": "Am Samstag, den 30. Mai 2026, werden in der Zeit von 22:00 Uhr bis 23:00 Uhr Wartungsarbeiten an unserer WAN-Anbindung durchgeführt.\nWährend des Wartungsfensters kann es zu kurzzeitigen Verbindungsunterbrechungen kommen. Dadurch können beispielsweise Omnissa Horizon-Verbindungen getrennt werden oder der E-Mail-Server vorübergehend nicht erreichbar sein.\nNach Abschluss der Wartungsarbeiten werden wir die Statusseite aktualisieren.\n",
+      "tag": ["uponu", "dinfra"]
+    }  
   ],
 
   "returningMaintenance": [
