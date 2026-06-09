@@ -11,10 +11,6 @@
   ],
   "upcomingMaintenance": [
     {
-      "title": "Update der shared Firwall",
-      "text": "Im zuge des Micrsoft Patchdays werden wir heute um 20 Uhr die shared Firwall updaten. Da es sich um ein HA-System (High Availability) handelt, erwarten wir keine nennenswerten Unterbrechungen. Dennoch kann es während der Umschaltung zu einem kurzen Aussetzer der Netzwerkverbindung kommen.",
-      "tag": ["uponu"]
-    }
   ],
 
   "returningMaintenance": [
