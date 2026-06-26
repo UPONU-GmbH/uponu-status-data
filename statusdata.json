@@ -11,13 +11,13 @@
   ],
   "upcomingMaintenance": [
     {
-      "title": "Omnissa Horizon VDI Systeme - 24.06 20:00 Uhr",
-      "text": "Am 24.06 ab 20 Uhr wird ein Hotfix für die Verbindungsserver der virtuellen Arbeitsumgebung eingespielt, um ein aktuelles Problem zu beheben.\nIm Anschluss kann es vereinzelt zu kurzen Sitzungsunterbrechungen kommen.\nVielen Dank für Ihr Verständnis.",
+      "title": "Update Firewall-Infrastruktur - 05.07 10:00 Uhr",
+      "text": "Am 05.07 führen wir ein geplantes Update unserer Firewall-Infrastruktur durch. Durch unsere hochverfügbare Firewall-Lösung werden die Arbeiten mit minimalen Auswirkungen durchgeführt. Dennoch kann es während des Update-Zeitraums vereinzelt zu kurzen Unterbrechungen der Netzwerk- und Internetverbindungen kommen. Vielen Dank für Ihr Verständnis",
       "tag": ["uponu"]
     },
     {
-      "title": "Update Firewall-Infrastruktur - 05.07 10:00 Uhr",
-      "text": "am 05.07 führen wir ein geplantes Update unserer Firewall-Infrastruktur durch. Durch unsere hochverfügbare Firewall-Lösung werden die Arbeiten mit minimalen Auswirkungen durchgeführt. Dennoch kann es während des Update-Zeitraums vereinzelt zu kurzen Unterbrechungen der Netzwerk- und Internetverbindungen kommen. Vielen Dank für Ihr Verständnis",
+      "title": "Omnissa Horizon VDI Systeme - 26.09 10:00 - 15 Uhr",
+      "text": "Am 26.09. von 10:00 bis 15:00 Uhr werden auf den zentralen Systemen für die VDI-Verbindungen zu den Terminalserver-Arbeitsplätzen wichtige Wartungsarbeiten durchgeführt.\nWährend des gesamten Wartungsfensters kann es zu Verbindungsaussetzern sowie zur vorübergehenden Nicht-Erreichbarkeit einzelner Terminalserver kommen. Grund hierfür ist, dass die zentralen Verbindungssysteme im Rahmen der Wartung mehrfach neu gestartet werden müssen.\nSobald die Wartungsarbeiten abgeschlossen sind, wird die Statusseite entsprechend aktualisiert.\nWir bitten um Verständnis für die entstehenden Einschränkungen.",
       "tag": ["uponu"]
     }
   ],
@@ -60,6 +60,11 @@
     }
   ],
   "closedMaintenance": [
+    {
+      "title": "Omnissa Horizon VDI Systeme - 24.06 20:00 Uhr",
+      "text": "Am 24.06 ab 20 Uhr wird ein Hotfix für die Verbindungsserver der virtuellen Arbeitsumgebung eingespielt, um ein aktuelles Problem zu beheben.\nIm Anschluss kann es vereinzelt zu kurzen Sitzungsunterbrechungen kommen.\nVielen Dank für Ihr Verständnis.",
+      "tag": ["uponu"]
+    },
     {
       "title": "Wartung WAN Anbindung - 30.05 22-23 Uhr",
       "text": "Am Samstag, den 30. Mai 2026, werden in der Zeit von 22:00 Uhr bis 23:00 Uhr Wartungsarbeiten an unserer WAN-Anbindung durchgeführt.\nWährend des Wartungsfensters kann es zu kurzzeitigen Verbindungsunterbrechungen kommen. Dadurch können beispielsweise Omnissa Horizon-Verbindungen getrennt werden oder der E-Mail-Server vorübergehend nicht erreichbar sein.\nNach Abschluss der Wartungsarbeiten werden wir die Statusseite aktualisieren.\n",
