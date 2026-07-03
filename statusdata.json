@@ -65,11 +65,6 @@
     }
   ],
   "closedMaintenance": [
-      {
-      "title": "Störung Mailversand ESA - 02.07.26 11:00 Uhr - 23:00 Uhr",
-      "text": "Zwischen 11:00 Uhr und 23:00 Uhr kam es beim Versand von E-Mails über die ESA zu Verzögerungen. Betroffene E-Mails wurden mit Verspätung zugestellt. Das Problem ist inzwischen behoben, der Mailversand läuft wieder normal..",
-      "tag": ["uponu"]
-    },
     {
       "title": "Omnissa Horizon VDI Systeme - 24.06 20:00 Uhr",
       "text": "Am 24.06 ab 20 Uhr wird ein Hotfix für die Verbindungsserver der virtuellen Arbeitsumgebung eingespielt, um ein aktuelles Problem zu beheben.\nIm Anschluss kann es vereinzelt zu kurzen Sitzungsunterbrechungen kommen.\nVielen Dank für Ihr Verständnis.",
@@ -228,6 +223,11 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Störung Mailversand ESA - 02.07.26 11:00 Uhr - 23:00 Uhr",
+      "text": "Zwischen 11:00 Uhr und 23:00 Uhr kam es beim Versand von E-Mails über die ESA zu Verzögerungen. Betroffene E-Mails wurden mit Verspätung zugestellt. Das Problem ist inzwischen behoben, der Mailversand läuft wieder normal..",
+      "tag": ["uponu"]
+    },
     {
       "title": "Switch Failover Update 19.05 9:30 Uhr",
       "text": "Das Problem konnte identifiziert und behoben werden.",
