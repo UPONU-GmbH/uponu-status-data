@@ -16,8 +16,8 @@
       "tag": ["uponu"]
     },
     {
-      "title": "Wartungsarbeiten Firewall - 05.07 11:00 - 13:00 Uhr",
-      "text": "Am Sonntag, den 05.07.2026, führen wir zwischen 11:00 und 13:00 Uhr geplante Wartungsarbeiten an unserer Firewall-Infrastruktur durch. Während dieses Zeitraums kann es vereinzelt zu kurzen Unterbrechungen und einer vorübergehenden Nichterreichbarkeit unserer Systeme kommen.",
+      "title": "Wartungsarbeiten Firewall - 05.07 - Update 12:15 Uhr",
+      "text": "Die Wartungsarbeiten wurden erfolgreich abgeschlossen.",
       "tag": ["stimme"]
     },
     {
@@ -65,6 +65,11 @@
     }
   ],
   "closedMaintenance": [
+    {
+      "title": "Wartungsarbeiten Firewall - 05.07 11:00 - 13:00 Uhr",
+      "text": "Am Sonntag, den 05.07.2026, führen wir zwischen 11:00 und 13:00 Uhr geplante Wartungsarbeiten an unserer Firewall-Infrastruktur durch. Während dieses Zeitraums kann es vereinzelt zu kurzen Unterbrechungen und einer vorübergehenden Nichterreichbarkeit unserer Systeme kommen.",
+      "tag": ["stimme"]
+    },
     {
       "title": "Omnissa Horizon VDI Systeme - 24.06 20:00 Uhr",
       "text": "Am 24.06 ab 20 Uhr wird ein Hotfix für die Verbindungsserver der virtuellen Arbeitsumgebung eingespielt, um ein aktuelles Problem zu beheben.\nIm Anschluss kann es vereinzelt zu kurzen Sitzungsunterbrechungen kommen.\nVielen Dank für Ihr Verständnis.",
