@@ -3,7 +3,7 @@
     {
       "message": "Alle Systeme sind verfügbar",
       "alertColor": "success",
-      "tag": ["all"]
+      "tag": ["dinfra", "uponu", "ups"]
     },
     {
       "message": "Die Systeme sind eingeschränkt verfügbar",
