@@ -3,18 +3,13 @@
     {
       "message": "Alle Systeme sind verfügbar",
       "alertColor": "success",
-      "tag": ["dinfra", "uponu", "ups"]
-    },
-    {
-      "message": "Die Systeme sind eingeschränkt verfügbar",
-      "alertColor": "warning",
-      "tag": ["stimme"]
+      "tag": ["all"]
     }
   ],
   "incidents": [
    {
-      "title": "Störung Telefonbuchsuche – 08.07.25 - 21:00 Uhr",
-      "text": "Aufgrund einer Servermigration am 08.07.25 steht die Telefonbuchsuche derzeit leider nicht zur Verfügung. Wir arbeiten bereits mit Hochdruck an der Behebung der Störung und informieren Sie, sobald der Dienst wieder verfügbar ist.",
+      "title": "Störung Telefonbuchsuche - Update 9.7.26 - 08:50 Uhr",
+      "text": "Die Störung wurde behoben.",
       "tag": ["stimme"]
     }   
   ],
@@ -232,6 +227,11 @@
     }
   ],
   "resolvedIncidents": [
+     {
+      "title": "Störung Telefonbuchsuche – 08.07.26 - 21:00 Uhr",
+      "text": "Aufgrund einer Servermigration am 08.07.26 steht die Telefonbuchsuche derzeit leider nicht zur Verfügung. Wir arbeiten bereits mit Hochdruck an der Behebung der Störung und informieren Sie, sobald der Dienst wieder verfügbar ist.",
+      "tag": ["stimme"]
+    },  
     {
       "title": "Störung Mailversand ESA - 02.07.26 11:00 Uhr - 23:00 Uhr",
       "text": "Zwischen 11:00 Uhr und 23:00 Uhr kam es beim Versand von E-Mails über die ESA zu Verzögerungen. Betroffene E-Mails wurden mit Verspätung zugestellt. Das Problem ist inzwischen behoben, der Mailversand läuft wieder normal..",
