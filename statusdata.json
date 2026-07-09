@@ -1,13 +1,22 @@
 {
   "statusAlert": [
     {
+      "message": "Die Systeme sind eingeschränkt verfügbar",
+      "alertColor": "warning",
+      "tag": ["stimme"]
+    },
+    {
       "message": "Alle Systeme sind verfügbar",
       "alertColor": "success",
       "tag": ["all"]
     }
   ],
   "incidents": [
-      
+   {
+      "title": "Störung Telefonbuchsuche – 08.07.25 - 21:00 Uhr",
+      "text": "Aufgrund einer Servermigration am 08.07.25 steht die Telefonbuchsuche derzeit leider nicht zur Verfügung. Wir arbeiten bereits mit Hochdruck an der Behebung der Störung und informieren Sie, sobald der Dienst wieder verfügbar ist.",
+      "tag": ["stimme"]
+    }   
   ],
   "upcomingMaintenance": [
     {
