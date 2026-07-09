@@ -1,14 +1,14 @@
 {
   "statusAlert": [
     {
-      "message": "Die Systeme sind eingeschränkt verfügbar",
-      "alertColor": "warning",
-      "tag": ["stimme"]
-    },
-    {
       "message": "Alle Systeme sind verfügbar",
       "alertColor": "success",
       "tag": ["all"]
+    },
+    {
+      "message": "Die Systeme sind eingeschränkt verfügbar",
+      "alertColor": "warning",
+      "tag": ["stimme"]
     }
   ],
   "incidents": [
