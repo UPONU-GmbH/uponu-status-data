@@ -15,7 +15,7 @@
   ],
   "upcomingMaintenance": [
       {
-      "title": "Wartungsarbeiten an der Firewall-Infrastruktur – heute ab 20:00 Uhr",
+      "title": "Wartungsarbeiten an der Firewall-Infrastruktur – heute ab 19:30 Uhr",
       "text": "Heute ab 19:30 Uhr führen wir planmäßige Wartungsarbeiten an unseren Firewall-Systemen durch. Während dieses Zeitraums kann es zu kurzen Unterbrechungen der VDI-Systeme sowie der OpenStack-API kommen.",
       "tag": ["uponu"]
     },
