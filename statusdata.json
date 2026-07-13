@@ -14,6 +14,11 @@
     }   
   ],
   "upcomingMaintenance": [
+      {
+      "title": "Umstellung interner Mailfluss – 13.07.2026, 17–24 Uhr",
+      "text": "Am 13.07. wird von 17 bis 24 Uhr der Mailfluss für ausgehende E-Mails umgestellt. Während des gesamten Wartungsfensters kann es zu Verzögerungen beim Versand ausgehender E-Mails über den On-Premises-Exchange kommen. Der Empfang von E-Mails ist davon nicht betroffen.Sobald die Wartungsarbeiten abgeschlossen sind, wird diese Statusseite entsprechend aktualisiert. Wir bitten um Verständnis für die entstehenden Einschränkungen.",
+      "tag": ["uponu"]
+    },
     {
       "title": "Omnissa Horizon VDI Systeme - 26.09 10:00 - 15 Uhr",
       "text": "Am 26.09. von 10:00 bis 15:00 Uhr werden auf den zentralen Systemen für die VDI-Verbindungen zu den Terminalserver-Arbeitsplätzen wichtige Wartungsarbeiten durchgeführt.\nWährend des gesamten Wartungsfensters kann es zu Verbindungsaussetzern sowie zur vorübergehenden Nicht-Erreichbarkeit einzelner Terminalserver kommen. Grund hierfür ist, dass die zentralen Verbindungssysteme im Rahmen der Wartung mehrfach neu gestartet werden müssen.\nSobald die Wartungsarbeiten abgeschlossen sind, wird die Statusseite entsprechend aktualisiert.\nWir bitten um Verständnis für die entstehenden Einschränkungen.",
