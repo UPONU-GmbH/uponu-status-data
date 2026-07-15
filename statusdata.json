@@ -6,13 +6,7 @@
       "tag": ["all"]
     }
   ],
-  "incidents": [
-   {
-      "title": "Störung Telefonbuchsuche - Update 9.7.26 - 08:50 Uhr",
-      "text": "Die Störung wurde behoben.",
-      "tag": ["stimme"]
-    }   
-  ],
+  "incidents": [],
   "upcomingMaintenance": [
       {
       "title": "Umstellung interner Mailfluss – 13.07.2026, 17–24 Uhr",
