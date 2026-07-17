@@ -9,8 +9,8 @@
   "incidents": [],
   "upcomingMaintenance": [
       {
-      "title": "Umstellung interner Mailfluss – 13.07.2026, 17–24 Uhr",
-      "text": "Am 13.07. wird von 17 bis 24 Uhr der Mailfluss für ausgehende E-Mails umgestellt. Während des gesamten Wartungsfensters kann es zu Verzögerungen beim Versand ausgehender E-Mails über den On-Premises-Exchange kommen. Der Empfang von E-Mails ist davon nicht betroffen.Sobald die Wartungsarbeiten abgeschlossen sind, wird diese Statusseite entsprechend aktualisiert. Wir bitten um Verständnis für die entstehenden Einschränkungen.",
+      "title": "Geplante Wartungsarbeiten an der Firewall-Infrastruktur – 09.08.2026, 19:00–21:00 Uhr",
+      "text": "am 09.08.2026 finden in der Zeit von 19:00 bis 21:00 Uhr geplante Wartungsarbeiten an unserer Firewall-Infrastruktur statt. Während dieses Zeitraums kann es zu kurzen Unterbrechungen der Horizon-Verbindungen kommen. Wir bemühen uns, die Auswirkungen auf den laufenden Betrieb so gering wie möglich zu halten.",
       "tag": ["uponu"]
     },
     {
