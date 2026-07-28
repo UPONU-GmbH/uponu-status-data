@@ -9,7 +9,12 @@
   "incidents": [
   ],
   "upcomingMaintenance": [
-      {
+    {
+      "title": "Geplante Wartungsarbeiten an der Openstack Umgebung – 30.07.2026, 20:00 - 21:00 Uhr",
+      "text": "am 30.07.2026 finden in der Zeit von 20:00 - 21:00 Uhr geplante Wartungsarbeiten an unserer Openstack Umgebung statt. Während dieses Zeitraums kann es zu kurzen Unterbrechungen der Netzwerkverbindung kommen. Wir bemühen uns, die Auswirkungen auf den laufenden Betrieb so gering wie möglich zu halten.",
+      "tag": ["uponu"]
+    },
+    {
       "title": "Geplante Wartungsarbeiten an der Firewall-Infrastruktur – 09.08.2026, 19:00–21:00 Uhr",
       "text": "am 09.08.2026 finden in der Zeit von 19:00 bis 21:00 Uhr geplante Wartungsarbeiten an unserer Firewall-Infrastruktur statt. Während dieses Zeitraums kann es zu kurzen Unterbrechungen der Horizon-Verbindungen kommen. Wir bemühen uns, die Auswirkungen auf den laufenden Betrieb so gering wie möglich zu halten.",
       "tag": ["uponu"]
