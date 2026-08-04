@@ -2,7 +2,7 @@
   "statusAlert": [
     {
       "message": "Einige Systeme sind eingeschränkt",
-      "alertColor": "success",
+      "alertColor": "Yellow",
       "tag": ["all"]
     }
   ],
