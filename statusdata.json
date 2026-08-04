@@ -1,15 +1,15 @@
 {
   "statusAlert": [
     {
-      "message": "Einige Systeme sind eingeschränkt",
-      "alertColor": "Yellow",
+      "message": "Alle Systeme sind verfügbar",
+      "alertColor": "success",
       "tag": ["all"]
     }
   ],
   "incidents": [
     {
-      "title": "Störung  - 04.08.26 16:18 Uhr",
-      "text": "Seit 16:18 Uhr ist die Telefonie gestört. Zudem sind Nextcloud-Instanzen nicht erreichbar.",
+      "title": "Störung  - 04.08.26 16:18 Uhr bis 16:42 Uhr",
+      "text": "Von 16:18 Uhr bis 16:32 Uhr waren Nextcloud-Instanzen nicht erreichbar. Von 16:18 Uhr bis 16:42 Uhr war die Telefonie nicht erreichbar.",
       "tag": ["uponu"]
     },
     {
