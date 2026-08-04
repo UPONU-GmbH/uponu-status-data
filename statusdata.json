@@ -11,6 +11,11 @@
       "title": "Störung  - 04.08.26 16:18 Uhr",
       "text": "Seit 16:18 Uhr ist die Telefonie gestört. Zudem sind Nextcloud-Instanzen nicht erreichbar.",
       "tag": ["uponu"]
+    },
+    {
+      "title": "Störung Telefonie – 04.08.2026, 16:18 Uhr",
+      "text": "Seit dem 04.08.2026, 16:18 Uhr kommt es zu einer Störung der Telefonie. Wir stehen bereits in Kontakt mit dem Zulieferer des Rechenzentrums und arbeiten gemeinsam an einer schnellstmöglichen Behebung. Über weitere Entwicklungen informieren wir an dieser Stelle.",
+      "tag": ["stimme"]
     }
   ],
   "upcomingMaintenance": [
