@@ -7,7 +7,11 @@
     }
   ],
   "incidents": [
-
+    {
+      "title": "Störung  - 04.08.26 16:18 Uhr",
+      "text": "Seit 16:18 Uhr ist die Telefonie gestört. Zudem sind Nextcloud-Instanzen nicht erreichbar.",
+      "tag": ["uponu"]
+    }
   ],
   "upcomingMaintenance": [
     {
