@@ -7,11 +7,7 @@
     }
   ],
   "incidents": [
-    {
-      "title": "Störung Telefonie – 01.08.2026, 11:25 Uhr - Störung behoben",
-      "text": "Die Ursache der Störung wurde identifiziert und behoben. Seit 01.08.2026, 11:25 Uhr funktioniert die Registrierung von Endgeräten wieder ordnungsgemäß. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten.",
-      "tag": ["stimme"]
-    }
+
   ],
   "upcomingMaintenance": [
     {
@@ -237,6 +233,11 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Störung Telefonie – 01.08.2026, 11:25 Uhr - Störung behoben",
+      "text": "Die Ursache der Störung wurde identifiziert und behoben. Seit 01.08.2026, 11:25 Uhr funktioniert die Registrierung von Endgeräten wieder ordnungsgemäß. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten.",
+      "tag": ["stimme"]
+    },
     {
       "title": "Störung Telefonie – 01.08.2026, 10:05 Uhr",
       "text": "Seit dem 01.08.2026, 10:05 Uhr kommt es zu Störungen bei der Registrierung von Endgeräten. Unser Team untersucht die Ursache bereits und arbeitet an einer schnellstmöglichen Behebung. Wir informieren an dieser Stelle, sobald weitere Erkenntnisse vorliegen.",
