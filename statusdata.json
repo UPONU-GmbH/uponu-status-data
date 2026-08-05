@@ -8,11 +8,6 @@
   ],
   "incidents": [
     {
-      "title": "Störung  - 04.08.26 16:18 Uhr bis 16:42 Uhr",
-      "text": "Von 16:18 Uhr bis 16:32 Uhr waren Nextcloud-Instanzen nicht erreichbar. Von 16:18 Uhr bis 16:42 Uhr war die Telefonie nicht erreichbar.",
-      "tag": ["uponu"]
-    },
-    {
       "title": "Störung Telefonie – 04.08.2026, 16:42 Uhr - Störung behoben",
       "text": "Die Störung der Telefonie wurde behoben. Die Ursache konnte durch den Zulieferer des Rechenzentrums identifiziert und beseitigt werden. Seit 04.08.2026, 16:42 Uhr steht die Telefonie wieder uneingeschränkt zur Verfügung. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten.",
       "tag": ["stimme"]
@@ -242,6 +237,11 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Störung  - 04.08.26 16:18 Uhr bis 16:42 Uhr",
+      "text": "Von 16:18 Uhr bis 16:32 Uhr waren Nextcloud-Instanzen nicht erreichbar. Von 16:18 Uhr bis 16:42 Uhr war die Telefonie nicht erreichbar.",
+      "tag": ["uponu"]
+    },
     {
       "title": "Störung Telefonie – 04.08.2026, 16:18 Uhr",
       "text": "Seit dem 04.08.2026, 16:18 Uhr kommt es zu einer Störung der Telefonie. Wir stehen bereits in Kontakt mit dem Zulieferer des Rechenzentrums und arbeiten gemeinsam an einer schnellstmöglichen Behebung. Über weitere Entwicklungen informieren wir an dieser Stelle.",
