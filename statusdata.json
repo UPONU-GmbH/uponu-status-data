@@ -7,11 +7,6 @@
     }
   ],
   "incidents": [
-    {
-      "title": "Störung Telefonie – 04.08.2026, 16:42 Uhr - Störung behoben",
-      "text": "Die Störung der Telefonie wurde behoben. Die Ursache konnte durch den Zulieferer des Rechenzentrums identifiziert und beseitigt werden. Seit 04.08.2026, 16:42 Uhr steht die Telefonie wieder uneingeschränkt zur Verfügung. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten.",
-      "tag": ["stimme"]
-    }
   ],
   "upcomingMaintenance": [
     {
@@ -31,11 +26,6 @@
       "title": "System-Updates",
       "text": "Um die Qualität und Leistungsfähigkeit unseres Systems kontinuierlich zu optimieren, führen wir regelmäßig Wartungsarbeiten durch.\nDas Wartungsfenster findet **jeden Donnerstag von 22:00 - 24:00 Uhr** statt. Während dieser Zeit kann es in seltenen Fällen zu vorübergehenden Einschränkungen oder Unterbrechungen der Erreichbarkeit unseres Systems kommen.",
       "tag": ["ups"]
-    },
-    {
-      "title": "System-Updates",
-      "text": "Um die Qualität und Leistungsfähigkeit unseres Systems kontinuierlich zu optimieren, führen wir regelmäßig Wartungsarbeiten durch.\nDas Wartungsfenster findet **jeden zweiten Mittwoch von 19:00 - 21:00 Uhr** statt. Während dieser Zeit kann es zu vorübergehenden Einschränkungen oder Unterbrechungen der Erreichbarkeit unseres Systems kommen.",
-      "tag": ["stimme"]
     },
     {
       "title": "Microsoft Patchday",
@@ -68,16 +58,6 @@
       "title": "Geplante Wartungsarbeiten - Openstack Umgebung – 30.07.2026, 20:00 - 21:00 Uhr",
       "text": "Am Donnerstag, den 30.07.2026 finden in der Zeit von 20:00 - 21:00 Uhr geplante Wartungsarbeiten an unserer Openstack Umgebung statt. Während dieses Zeitraums kann es zu kurzen Unterbrechungen der Netzwerkverbindung kommen. Wir bemühen uns, die Auswirkungen auf den laufenden Betrieb so gering wie möglich zu halten.",
       "tag": ["uponu"]
-    },
-    {
-      "title": "Wartungsarbeiten Firewall - 05.07 - Update 12:15 Uhr",
-      "text": "Die Wartungsarbeiten wurden erfolgreich abgeschlossen.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Wartungsarbeiten Firewall - 05.07 11:00 - 13:00 Uhr",
-      "text": "Am Sonntag, den 05.07.2026, führen wir zwischen 11:00 und 13:00 Uhr geplante Wartungsarbeiten an unserer Firewall-Infrastruktur durch. Während dieses Zeitraums kann es vereinzelt zu kurzen Unterbrechungen und einer vorübergehenden Nichterreichbarkeit unserer Systeme kommen.",
-      "tag": ["stimme"]
     },
     {
       "title": "Omnissa Horizon VDI Systeme - 24.06 20:00 Uhr",
@@ -145,11 +125,6 @@
       "tag": ["uponu","dinfra"]
     },
     {
-      "title": "Firmware-Update der Endgeräte - 18.02.2026 19-21 Uhr",
-      "text": "Hiermit möchten wir Sie darüber informieren, dass am oben genannten Termin ein Firmware-Update durchgeführt wird. Das Update findet im Zeitraum von 19:00 bis 21:00 Uhr statt.\nBitte beachten Sie, dass Nutzer Ihrer Kunden, die die Funktion **Anmeldeapparat** verwenden, sich nach dem Update am Telefon neu anmelden müssen.",
-      "tag": ["stimme"]
-    },
-    {
       "title": "Wartung Firewallsysteme - 07.02.2026 9-11 Uhr",
       "text": "Am 07.02.2026 werden Wartungen an den Firewallsystemen durchgeführt. Die Datacenter und Kunden Firewalls sind betroffen. Trotz des redundanten Aufbaus kann es vereinzelt zu Verbindungsabbrüchen kommen.",
       "tag": ["uponu", "dinfra"]
@@ -190,26 +165,6 @@
       "tag": ["uponu", "dinfra"]
     },
     {
-      "title": "Änderung öffentliche IP Adresse – 03.10.2025 - Update 15:10 Uhr",
-      "text": "Die Änderungen wurden erfolgreich abgeschlossen.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Geplante Wartungsarbeiten – 03.10.2025 - Update 15:10 Uhr",
-      "text": "Die Wartungsarbeiten wurden erfolgreich abgeschlossen.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Änderung öffentliche IP Adresse - 29.09.2025",
-      "text": "Am 03.10.2025 ändert sich unsere bisherige öffentliche IP **45.132.29.130** und wird durch folgende IP **45.132.31.126** ersetzt. Bitte verwenden Sie bis zu diesem Zeitpunkt weiterhin die alte IP-Adresse. Sobald die Umstellung vollständig abgeschlossen ist und die alte IP entfernt werden kann, informieren wir Sie umgehend.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Geplante Wartungsarbeiten – 24.09.2025",
-      "text": "Am **03.10.2025** (Feiertag) führen wir Wartungsarbeiten an unserer Serverinfrastruktur durch.\nDie Arbeiten finden im Zeitraum von 10:00 bis 18:00 Uhr statt.\n\nIn diesem Zeitraum kann es vereinzelt zu kurzen Unterbrechungen in der telefonischen Erreichbarkeit kommen. Wir bemühen uns selbstverständlich, diese so gering wie möglich zu halten.\n\nNach Abschluss der Arbeiten aktualisieren wir die Seite umgehend.",
-      "tag": ["stimme"]
-    },
-    {
       "title": "Update 01.10.2025 11:59 Uhr - Geplante Wartungsarbeiten OpenStack – 30.09.2025 ab 18 Uhr",
       "text": "Am **30.09.2025 ab 18 Uhr** werden Systeme unserer OpenStack Hosting Umgebung aktualisiert. Während der aktualisierung ist es nur eingeschränkt oder nicht möglich neue Instanzen, Netzwerke usw. anzulegen. Sobald die Wartung abgeschlossen ist wird die Status Seite aktualisiert.",
       "tag": ["uponu", "dinfra"]
@@ -223,17 +178,6 @@
       "title": "Update 02.09.2025 21:13 - Wartung Firewall Systeme 02.09.2025 - ab 20 Uhr",
       "text": "Am 02.09.2025 werden ab 20 Uhr Wartungen an Firewall Systemen durchgeführt wodurch es zu kurzen Verbindungsabbrüchen kommen kann.",
       "tag": ["uponu", "dinfra"]
-    },
-    {
-      "title": "Major Release Update 15 - 20.08.2025 19-21 Uhr",
-      "text": "Wir möchten Sie darüber informieren, dass am **20.08.2025** ein **Major Release Update** auf die Version 15 durchgeführt wird. Das Update erfolgt im Rahmen unseres regulären Wartungsfensters zwischen **19:00 und 21:00 Uhr**.\n\nIm Zuge dieses Updates wird ein **neuer myApps Client** bereitgestellt, der ab sofort in unserem **Downloadbereich** zur Verfügung steht:\n[Download](https://download.stimme.cloud/)\n\nDetaillierte Informationen zu den Änderungen sowie den ggf. erforderlichen Maßnahmen haben wir für Sie im folgenden Artikel zusammengestellt:\n[V15 Update/Upgrade](https://wiki.stimme.cloud/doku.php?id=myapps:v15_update_upgrade)\n\n**Wichtiger Hinweis:**\nNutzer Ihrer Kunden, die die Funktion **„Anmeldeapparat“** verwenden, müssen sich nach dem Update am jeweiligen Telefon erneut anmelden.\n\nBitte informieren Sie auch Ihre Kunden rechtzeitig über dieses Update, um mögliche Irritationen zum genannten Zeitpunkt oder am darauffolgenden Morgen zu vermeiden.",
-      "tag": ["stimme"]
-    },
-
-    {
-      "title": "Major Release Update 14 R2 - 05.03.25",
-      "text": "Wir möchten Sie darüber informieren, dass am oben genannten Termin ein Firmware-Update durchgeführt wird. Das Update findet im Zeitraum von 19:00 bis 21:00 Uhr statt.\n\nDa es sich um ein Major Release handelt, wird zudem ein neuer myApps Client bereitgestellt. Die entsprechenden Softwarepakete stellen wir zeitnah in unserem Downloadbereich zur Verfügung.\n\nDetaillierte Informationen zu den Änderungen im Update, sowie zu den erforderlichen Maßnahmen finden Sie in folgendem Artikel:\n[V14 Update/Upgrade](https://wiki.stimme.cloud/doku.php?id=myapps:v14_update_upgrade)\n\nBitte beachten Sie, dass Nutzer Ihrer Kunden, die die Funktion „Anmeldeapparat“ verwenden, sich nach dem Update am Telefon erneut anmelden müssen.",
-      "tag": ["stimme"]
     }
   ],
   "resolvedIncidents": [
@@ -243,40 +187,10 @@
       "tag": ["uponu"]
     },
     {
-      "title": "Störung Telefonie – 04.08.2026, 16:18 Uhr",
-      "text": "Seit dem 04.08.2026, 16:18 Uhr kommt es zu einer Störung der Telefonie. Wir stehen bereits in Kontakt mit dem Zulieferer des Rechenzentrums und arbeiten gemeinsam an einer schnellstmöglichen Behebung. Über weitere Entwicklungen informieren wir an dieser Stelle.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Störung Telefonie – 01.08.2026, 11:25 Uhr - Störung behoben",
-      "text": "Die Ursache der Störung wurde identifiziert und behoben. Seit 01.08.2026, 11:25 Uhr funktioniert die Registrierung von Endgeräten wieder ordnungsgemäß. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Störung Telefonie – 01.08.2026, 10:05 Uhr",
-      "text": "Seit dem 01.08.2026, 10:05 Uhr kommt es zu Störungen bei der Registrierung von Endgeräten. Unser Team untersucht die Ursache bereits und arbeitet an einer schnellstmöglichen Behebung. Wir informieren an dieser Stelle, sobald weitere Erkenntnisse vorliegen.",
-      "tag": ["stimme"]
-    },
-    {
       "title": "Störung  - 21.07.26 15:50 Uhr - 16:00 Uhr",
       "text": "Zwischen 15:50 Uhr und 16:00 Uhr gab es eine kurze Störung. Ursache waren Arbeiten an einer Netzwerkkomponente im Rechenzentrum. Der Betrieb läuft seit 16:00 Uhr wieder vollständig und normal.",
       "tag": ["uponu"]
     },
-    {
-      "title": "Störung Telefonie – 21.07.2026, 15:50–16:00 Uhr - Update: Störung behoben",
-      "text": "Am 21.07.2026 kam es zwischen 15:50 und 16:00 Uhr zu einer kurzzeitigen Störung unserer Telefonie. Ursache waren Wartungsarbeiten an einer Netzwerkkomponente im Rechenzentrum unseres Vorlieferanten.\nSeit 16:00 Uhr steht die Telefonie wieder uneingeschränkt zur Verfügung. Wir bitten die Unannehmlichkeiten zu entschuldigen.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Störung Telefonie – 21.07.2026, 15:50",
-      "text": "Aufgrund von Problemen im Rechenzentrum unseres Vorlieferanten kommt es derzeit zu einer Störung der Telefonie. Wir stehen im Austausch mit dem Rechenzentrum und warten aktuell auf eine Rückmeldung",
-      "tag": ["stimme"]
-    },
-     {
-      "title": "Störung Telefonbuchsuche – 08.07.26 - 21:00 Uhr",
-      "text": "Aufgrund einer Servermigration am 08.07.26 steht die Telefonbuchsuche derzeit leider nicht zur Verfügung. Wir arbeiten bereits mit Hochdruck an der Behebung der Störung und informieren Sie, sobald der Dienst wieder verfügbar ist.",
-      "tag": ["stimme"]
-    },  
     {
       "title": "Störung Mailversand ESA - 02.07.26 11:00 Uhr - 23:00 Uhr",
       "text": "Zwischen 11:00 Uhr und 23:00 Uhr kam es beim Versand von E-Mails über die ESA zu Verzögerungen. Betroffene E-Mails wurden mit Verspätung zugestellt. Das Problem ist inzwischen behoben, der Mailversand läuft wieder normal..",
@@ -296,11 +210,6 @@
       "title": "Zertifikatsfehler 07.04.2026",
       "text": "Die D-Trust (Bundesdruckerei) hat im Zuge aktueller externer Vorgaben kurzfristig bereits ausgestellte Zertifikate zurückgezogen und durch neue ersetzt. Diese Maßnahme wurde zum 06.04.2026 wirksam und betrifft eine Vielzahl von Zertifikaten und liegt außerhalb unseres Einflussbereichs.\nDie daraus resultierenden Anpassungen werden derzeit in den entsprechenden Systemumgebungen umgesetzt. Den Austausch der betroffenen Zertifikate führen wir aktuell mit hoher Priorität und entsprechendem Nachdruck durch. Der Prozess ist bereits weit fortgeschritten und wird in Kürze abgeschlossen sein.\nVielen Dank für Ihr Verständnis.",
       "tag": ["uponu"]
-    },
-    {
-      "title": "Störung Telefonie - 24.02.26 Update 17:45 Uhr - Abschlussmeldung",
-      "text": "Am 24.02.2026 meldete das Monitoring um 10:20 Uhr blockierende IO-Zugriffe eines Storage-Nodes. Der Ausfall des Storage-Nodes wurde um 10:25 Uhr festgestellt. Ab diesem Zeitpunkt war die Nutzung einzelner Systeme eingeschränkt. Es waren Systeme betroffen, welche ihre Speichermedien mit diesem Storage-Node geteilt haben. Die Ursache wurde gegen 10:30 Uhr identifiziert. Ab 10:55 Uhr konnten alle betroffenen Systeme neu gestartet werden.",
-      "tag": ["stimme"]
     },
     {
       "title": "Behoben - Störung Mailversand - 27.02.26 Update 11:02 Uhr",
@@ -323,16 +232,6 @@
       "tag": ["uponu"]
     },
     {
-      "title": "Störung Telefonie - 24.02.26 Update 10:55 Uhr",
-      "text": "Wir haben die Rückmeldung erhalten, dass der Fehler gefunden wurde und die Telefonie wieder zur Verfügung steht. Sobald uns weitere Informationen vorliegen, erfolgt eine weitere Meldung.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Störung Telefonie - 24.02.26 10:30 Uhr",
-      "text": "Aufgrund von Problemen im Rechenzentrum unseres Vorlieferanten kommt es derzeit zu einer Störung der Telefonie. Wir stehen im Austausch mit dem Rechenzentrum und warten aktuell auf eine Rückmeldung.",
-      "tag": ["stimme"]
-    },
-    {
       "title": "Störung - 24.02.2026 - 10:20 bis 11:10 Uhr",
       "text": "Am 24.02.2026 um 10:20 Uhr gab es eine Störung des SaaS Dienst mail:u Secure. Ab 10:50 Uhr waren die Dienste wieder verfügbar und die bis dahin angestauten E-Mails wurden bis 11:10 Uhr bearbeitet und damit der Normalbetrieb wiederhergestellt.",
       "tag": ["ups"]
@@ -353,85 +252,9 @@
       "tag": ["uponu", "dinfra"]
     },
     {
-      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 05.11.2025",
-      "text": "Seit dem Einspielen des Patches am Montag um 09:30 Uhr tritt das beschriebene Fehlverhalten nicht mehr auf.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 03.11.2025",
-      "text": "Der Patch wurde für alle Kunden eingespielt. Das Verhalten wird weiterhin untersucht und geprüft.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 31.10.2025",
-      "text": "Der Fehler konnte weiter eingegrenzt werden. Erste Kunden wurden auf den neuen Patch umgestellt. Das Verhalten wird weiterhin untersucht und geprüft.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 28.10.2025",
-      "text": "In der Testphase ist das Fehlverhalten weiterhin aufgetreten, daher liegt der Fall wieder bei der Entwicklung von peoplefone.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 24.10.2025",
-      "text": "Wir haben die Rückmeldung von peoplefone erhalten, dass bereit ein Fix für das Problem erstellt wurde. Der Fix befindet sich bereits in der Testphase.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Aktuelle Beeinträchtigung – peoplefone SIP Trunk - 20.10.2025",
-      "text": "Wir beobachten derzeit sporadische Gesprächsabbrüche (Timeouts) bei Verbindungen über peoplefone SIP Trunks. Der Fehler wurde bereits an peoplefone gemeldet. Wir halten Sie auf dem Laufenden, sobald neue Informationen vorliegen.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Einschränkungen Faxversand - 06.10.2025 - Update 13:00 Uhr",
-      "text": "Die Störung wurde behoben.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Einschränkungen Faxversand - 06.10.2025 - Update 11:15 Uhr",
-      "text": "Der eingehende Faxversand ist wieder funktional.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Einschränkungen Faxversand - 06.10.2025 - 08:15 Uhr",
-      "text": "Aufgrund einer aktuellen Störung kann es zu Einschränkungen beim Faxversand kommen. Unser Team arbeitet bereits an der Behebung.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Einschränkungen eingehende Telefonie – 04.10.2025 - Update 13:45 Uhr",
-      "text": "Die Störung wurde behoben.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Einschränkungen eingehende Telefonie – 04.10.2025 - 10:30 Uhr",
-      "text": "Aufgrund einer aktuellen Störung kann es zu Einschränkungen in der eingehenden Telefonie kommen. Unser Team arbeitet bereits an der Behebung.",
-      "tag": ["stimme"]
-    },
-    {
       "title": "29.09.2025 – 09:38 Uhr",
       "text": "Aufgrund einer aktuellen Störung kommt es zu einzelnen Systemausfällen. Unser Team arbeitet an der Behebung.",
       "tag": ["uponu", "dinfra"]
-    },
-    {
-      "title": "29.09.2025 – 09:38 Uhr",
-      "text": "Aufgrund einer aktuellen Systemstörung kann es zu Ausfällen in der Telefonie kommen. Unser Team arbeitet an der Behebung.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Systemanpassung am 01.09. und 02.09.",
-      "text": "Im Zuge einer wichtigen Anpassung kann es an dem drauffolgendem Tag dazu kommen, dass eine erneute Anmeldung im myApps Client notwendig ist. Vielen Dank für Ihr Verständnis – und entschuldigen Sie bitte die möglichen Unannehmlichkeiten.",
-      "tag": ["stimme"]
-    },
-
-    {
-      "title": "Störung: Einschränkung bei Web-Portal und Kontaktsuche - Update 28.08.25 11:25",
-      "text": "Die Ursache wurde identifiziert und behoben. Wir arbeiten derzeit an der Behebung der daraus resultierenden Auswirkungen.",
-      "tag": ["stimme"]
-    },
-    {
-      "title": "Störung: Einschränkung bei Web-Portal und Kontaktsuche - Update 28.08.25 09:30",
-      "text": "Aktuell ist die Abfrage des Web-Portals nicht möglich. Infolgedessen steht auch die Kontaktsuche über das Telefon sowie über myApps derzeit nicht zur Verfügung. Unser Team arbeitet bereits an der Behebung der Störung.",
-      "tag": ["stimme"]
     }
   ]
 }
