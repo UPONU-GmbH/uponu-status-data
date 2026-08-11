@@ -48,8 +48,8 @@
       "tag": ["dinfra", "uponu"]
     },
     {
-      "title": "Plesk- / Webserver Patchday",
-      "text": "Jeden zweiten Dienstag im Monat werden Plesk- / Webserver aktualisiert. Durch die Aktualisierung des Betriebssystems und der Webserver Software ist ggf. ein Neustart erforderlich und die Webseiten sind kurzzeitig nicht erreichbar.",
+      "title": "Webserver Patchday",
+      "text": "Jeden zweiten Dienstag im Monat werden Webserver aktualisiert. Durch die Aktualisierung des Betriebssystems und der Webserver Software ist ggf. ein Neustart erforderlich und die Webseiten sind kurzzeitig nicht erreichbar.",
       "tag": ["dinfra", "uponu"]
     }
   ],
