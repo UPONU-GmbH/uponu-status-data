@@ -15,6 +15,11 @@
       "tag": ["uponu"]
     },
     {
+      "title": "Geplante Wartungsarbeiten - Openstack Umgebung – 16.09.2026, 20:00 - 00:00 Uhr",
+      "text": "Am Mittwoch, den 16.09.2026 finden in der Zeit von 20:00 - 00:00 Uhr geplante Wartungsarbeiten an unserer Openstack Umgebung statt.\nWährend dieses Zeitraums kann es zu kurzen Unterbrechungen der Netzwerkverbindung kommen. Wir bemühen uns, die Auswirkungen auf den laufenden Betrieb so gering wie möglich zu halten.\nIn der Zeit gibt es zudem Einschränkungen bei der OpenStack Administration, bspw. können unter Umständen keine neuen Instanzen angelegt werden.",
+      "tag": ["uponu"]
+    },
+    {
       "title": "Geplante Wartungsarbeiten - Omnissa Horizon VDI Systeme - 26.09.2026 10:00 - 15:00 Uhr",
       "text": "Am Samstag, den 26.09.2026 finden in der Zeit von 10:00 bis 15:00 Uhr geplante Wartungsarbeiten an den zentralen Systemen für die VDI-Verbindungen zu den Terminalserver-Arbeitsplätzen statt.\nWährend des gesamten Wartungsfensters kann es zu Verbindungsaussetzern sowie zur vorübergehenden Nicht-Erreichbarkeit einzelner Terminalserver kommen. Grund hierfür ist, dass die zentralen Verbindungssysteme im Rahmen der Wartung mehrfach neu gestartet werden müssen.\nSobald die Wartungsarbeiten abgeschlossen sind, wird die Statusseite entsprechend aktualisiert.\nWir bitten um Verständnis für die entstehenden Einschränkungen.",
       "tag": ["uponu"]
