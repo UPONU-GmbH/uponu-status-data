@@ -10,6 +10,11 @@
   ],
   "upcomingMaintenance": [
     {
+      "title": "Wartung Datacenter Firewalls – 14.09.2026, ab 20:00 Uhr",
+      "text": "Wir installieren kurzfristige, kritische Hotfixes auf unseren Datacenter- und Kunden-Firewalls. Diese Maßnahme ist zwingend erforderlich, um die Sicherheit der von uns kontrollierten Hardware in den deutschen Rechenzentren auf dem höchsten Stand zu halten.\nAuswirkungen: Trotz unserer redundanten Systemarchitektur bricht die Netzwerkverbindung zu den gehosteten Services (wie VDI, Webserver, Nextcloud) während des Updates für wenige Minuten ab. Wir aktualisieren diese Statusseite umgehend, sobald wir die Hotfixes erfolgreich eingespielt haben und der Normalbetrieb wiederhergestellt ist.",
+      "tag": ["uponu"]
+    },
+    {
       "title": "Geplante Wartungsarbeiten - Openstack Umgebung – 16.09.2026, 20:00 - 00:00 Uhr",
       "text": "Am Mittwoch, den 16.09.2026 finden in der Zeit von 20:00 - 00:00 Uhr geplante Wartungsarbeiten an unserer Openstack Umgebung statt.\nWährend dieses Zeitraums kann es zu kurzen Unterbrechungen der Netzwerkverbindung kommen. Wir bemühen uns, die Auswirkungen auf den laufenden Betrieb so gering wie möglich zu halten.\nIn der Zeit gibt es zudem Einschränkungen bei der OpenStack Administration, bspw. können unter Umständen keine neuen Instanzen angelegt werden.",
       "tag": ["uponu"]
