@@ -10,6 +10,11 @@
   ],
   "upcomingMaintenance": [
     {
+      "title": "Microsoft Windows Out of Band Updates – 14.09.2026, ab 18:00 Uhr",
+      "text": "Wir installieren kurzfristige, kritische Sicherheitsupdates welche durch Microsoft am 14.09 freigegeben wurden. Diese Maßnahme ist zwingend erforderlich, um die Sicherheit der zentralen Dienste auf dem höchsten Stand zu halten. Wir aktualisieren diese Statusseite umgehend, sobald wir die Hotfixes erfolgreich eingespielt haben und der Normalbetrieb wiederhergestellt ist.",
+      "tag": ["uponu"]
+    },
+    {
       "title": "Wartung Datacenter Firewalls – 14.09.2026, ab 20:00 Uhr",
       "text": "Wir installieren kurzfristige, kritische Hotfixes auf unseren Datacenter- und Kunden-Firewalls. Diese Maßnahme ist zwingend erforderlich, um die Sicherheit der von uns kontrollierten Hardware in den deutschen Rechenzentren auf dem höchsten Stand zu halten.\nAuswirkungen: Trotz unserer redundanten Systemarchitektur bricht die Netzwerkverbindung zu den gehosteten Services (wie VDI, Webserver, Nextcloud) während des Updates für wenige Minuten ab. Wir aktualisieren diese Statusseite umgehend, sobald wir die Hotfixes erfolgreich eingespielt haben und der Normalbetrieb wiederhergestellt ist.",
       "tag": ["uponu"]
