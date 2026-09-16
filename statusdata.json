@@ -10,8 +10,8 @@
   ],
   "upcomingMaintenance": [
     {
-      "title": "Geplante Wartungsarbeiten - Openstack Umgebung – 16.09.2026, 20:00 - 00:00 Uhr (Vertagt)",
-      "text": "Am Mittwoch, den 16.09.2026 finden in der Zeit von 20:00 - 00:00 Uhr geplante Wartungsarbeiten an unserer Openstack Umgebung statt.\nWährend dieses Zeitraums kann es zu kurzen Unterbrechungen der Netzwerkverbindung kommen. Wir bemühen uns, die Auswirkungen auf den laufenden Betrieb so gering wie möglich zu halten.\nIn der Zeit gibt es zudem Einschränkungen bei der OpenStack Administration, bspw. können unter Umständen keine neuen Instanzen angelegt werden.",
+      "title": "Geplante Wartungsarbeiten - Openstack Umgebung – 16.09.2026 (Vertagt)",
+      "text": "Die für Mittwoch, den 16.09.2026 (20:00 - 00:00 Uhr) angekündigten Wartungsarbeiten an unserer Openstack Umgebung wurden **vertagt**.\nEin neuer Termin wird auf dieser Statusseite bekannt gegeben.",
       "tag": ["uponu"]
     },
     {
