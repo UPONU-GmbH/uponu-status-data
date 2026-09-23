@@ -10,13 +10,8 @@
   ],
   "upcomingMaintenance": [
     {
-      "title": "Geplante Wartungsarbeiten - Openstack Umgebung – 16.09.2026 (Vertagt)",
-      "text": "Die für Mittwoch, den 16.09.2026 (20:00 - 00:00 Uhr) angekündigten Wartungsarbeiten an unserer Openstack Umgebung wurden **vertagt**.\nEin neuer Termin wird auf dieser Statusseite bekannt gegeben.",
-      "tag": ["uponu"]
-    },
-    {
-      "title": "Geplante Wartungsarbeiten - Omnissa Horizon VDI Systeme - 26.09.2026 10:00 - 15:00 Uhr",
-      "text": "Am Samstag, den 26.09.2026 finden in der Zeit von 10:00 bis 15:00 Uhr geplante Wartungsarbeiten an den zentralen Systemen für die VDI-Verbindungen zu den Terminalserver-Arbeitsplätzen statt.\nWährend des gesamten Wartungsfensters kann es zu Verbindungsaussetzern sowie zur vorübergehenden Nicht-Erreichbarkeit einzelner Terminalserver kommen. Grund hierfür ist, dass die zentralen Verbindungssysteme im Rahmen der Wartung mehrfach neu gestartet werden müssen.\nSobald die Wartungsarbeiten abgeschlossen sind, wird die Statusseite entsprechend aktualisiert.\nWir bitten um Verständnis für die entstehenden Einschränkungen.",
+      "title": "Geplante Wartungsarbeiten - Omnissa Horizon VDI Systeme - 17.10.2026 10:00 - 15:00 Uhr",
+      "text": "Am Samstag, den 17.10.2026 finden in der Zeit von 10:00 bis 15:00 Uhr geplante Wartungsarbeiten an den zentralen Systemen für die VDI-Verbindungen zu den Terminalserver-Arbeitsplätzen statt.\nWährend des gesamten Wartungsfensters kann es zu Verbindungsaussetzern sowie zur vorübergehenden Nicht-Erreichbarkeit einzelner Terminalserver kommen. Grund hierfür ist, dass die zentralen Verbindungssysteme im Rahmen der Wartung mehrfach neu gestartet werden müssen.\nSobald die Wartungsarbeiten abgeschlossen sind, wird die Statusseite entsprechend aktualisiert.\nWir bitten um Verständnis für die entstehenden Einschränkungen.",
       "tag": ["uponu"]
     }
   ],
@@ -54,6 +49,11 @@
     }
   ],
   "closedMaintenance": [
+    {
+      "title": "Geplante Wartungsarbeiten - Openstack Umgebung – 16.09.2026 (Vertagt)",
+      "text": "Die für Mittwoch, den 16.09.2026 (20:00 - 00:00 Uhr) angekündigten Wartungsarbeiten an unserer Openstack Umgebung wurden **vertagt**.\nEin neuer Termin wird auf dieser Statusseite bekannt gegeben.",
+      "tag": ["uponu"]
+    },
     {
       "title": "Microsoft Windows Out of Band Updates – 15.09.2026, ab 18:00 Uhr",
       "text": "Wir installieren kurzfristige, kritische Sicherheitsupdates welche durch Microsoft am 14.09 freigegeben wurden. Diese Maßnahme ist zwingend erforderlich, um die Sicherheit der zentralen Dienste auf dem höchsten Stand zu halten. Wir aktualisieren diese Statusseite umgehend, sobald wir die Hotfixes erfolgreich eingespielt haben und der Normalbetrieb wiederhergestellt ist.",
