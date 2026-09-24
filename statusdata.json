@@ -1,17 +1,13 @@
 {
   "statusAlert": [
     {
-      "message": "Systeme sind eingeschränkt verfügbar",
-      "alertColor": "warning",
+      "message": "Alle Systeme sind verfügbar",
+      "alertColor": "success",
       "tag": ["all"]
     }
   ],
   "incidents": [
-     {
-      "title": "Eingeschränkte Verfügbarkeit Omnissa Horizon VDI-Systeme - 24.09.2026 08:00",
-      "text": "Aktuell sind einige Omnissa Horizon VDI-Systeme nur eingeschränkt erreichbar. Betroffene Kunden können sich derzeit teilweise nicht mit ihren virtuellen Desktops verbinden oder erhalten beim Verbindungsaufbau eine Fehlermeldung. Nicht betroffene Sitzungen laufen normal weiter. Wir informieren an dieser Stelle über den weiteren Verlauf.",
-      "tag": ["uponu"]
-     }
+
   ],
   "upcomingMaintenance": [
     {
@@ -54,6 +50,11 @@
     }
   ],
   "closedMaintenance": [
+         {
+      "title": "Eingeschränkte Verfügbarkeit Omnissa Horizon VDI-Systeme - 24.09.2026 08:00 - 09:15",
+      "text": "Aktuell sind einige Omnissa Horizon VDI-Systeme nur eingeschränkt erreichbar. Betroffene Kunden können sich derzeit teilweise nicht mit ihren virtuellen Desktops verbinden oder erhalten beim Verbindungsaufbau eine Fehlermeldung. Nicht betroffene Sitzungen laufen normal weiter. Wir informieren an dieser Stelle über den weiteren Verlauf.",
+      "tag": ["uponu"]
+     },
     {
       "title": "Geplante Wartungsarbeiten - Openstack Umgebung – 16.09.2026 (Vertagt)",
       "text": "Die für Mittwoch, den 16.09.2026 (20:00 - 00:00 Uhr) angekündigten Wartungsarbeiten an unserer Openstack Umgebung wurden **vertagt**.\nEin neuer Termin wird auf dieser Statusseite bekannt gegeben.",
