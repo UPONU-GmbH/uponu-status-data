@@ -7,6 +7,11 @@
     }
   ],
   "incidents": [
+     {
+      "title": "Eingeschränkte Verfügbarkeit Omnissa Horizon VDI-Systeme - 24.09.2026 08:00",
+      "text": "Aktuell sind einige Omnissa Horizon VDI-Systeme nur eingeschränkt erreichbar. Betroffene Kunden können sich derzeit teilweise nicht mit ihren virtuellen Desktops verbinden oder erhalten beim Verbindungsaufbau eine Fehlermeldung. Nicht betroffene Sitzungen laufen normal weiter. Wir informieren an dieser Stelle über den weiteren Verlauf.",
+      "tag": ["uponu"]
+     }
   ],
   "upcomingMaintenance": [
     {
