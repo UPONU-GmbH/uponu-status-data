@@ -7,7 +7,11 @@
     }
   ],
   "incidents": [
-
+    {
+      "title": "Störung Exchange Mail - 16.10.26",
+      "text": "Seit dem Microsoft Patchday am 13.10 kommt es vereinzelt zu Problemen im Mailversand. Das Problem wurde seitens Microsoft bereits bestätigt. Wir untersuchen die Systeme und warten auf eine Lösung seitens Microsoft. Die Statusseite wird aktualisiert sobald das Problem behoben ist.",
+      "tag": ["uponu"]
+    }
   ],
   "upcomingMaintenance": [
         {
