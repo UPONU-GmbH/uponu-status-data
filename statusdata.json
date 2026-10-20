@@ -8,6 +8,11 @@
   ],
   "incidents": [
     {
+      "title": "Geplante Wartungsarbeiten - Wartung Palo Alto Firewalls – 20.10.2026, 20:00 – 02:00 Uhr",
+      "text": "Am Dienstag, den 20.10.2026, werden in der Zeit von 20:00 bis 02:00 Uhr Sicherheitsupdates auf den Palo Alto Firewalls eingespielt.\nDiese Maßnahme ist erforderlich, um die Sicherheit der Firewalls auf dem aktuellen Stand zu halten.\nAuswirkungen: Im Rahmen der Update-Installation werden die Firewalls einmalig neu gestartet. Dieser Vorgang kann einige Minuten in Anspruch nehmen und führt in dieser Zeit zu einer kurzzeitigen Unterbrechung der Firewall-Verarbeitung, bestehende Verbindungen brechen kurz ab und werden anschließend automatisch wiederhergestellt. Sobald die Updates eingespielt sind und der Normalbetrieb wiederhergestellt ist, wird diese Statusseite aktualisiert.",
+      "tag": ["uponu"]
+    },
+    {
       "title": "Störung Exchange Mail - 16.10.26",
       "text": "Seit dem Microsoft Patchday am 13.10 kommt es vereinzelt zu Problemen im Mailversand. Das Problem wurde seitens Microsoft bereits bestätigt. Wir untersuchen die Systeme und warten auf eine Lösung seitens Microsoft. Die Statusseite wird aktualisiert sobald das Problem behoben ist.",
       "tag": ["uponu"]
