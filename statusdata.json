@@ -11,6 +11,11 @@
       "title": "Störung Exchange Mail - 16.10.26",
       "text": "Seit dem Microsoft Patchday am 13.10 kommt es vereinzelt zu Problemen im Mailversand. Das Problem wurde seitens Microsoft bereits bestätigt. Wir untersuchen die Systeme und warten auf eine Lösung seitens Microsoft. Die Statusseite wird aktualisiert sobald das Problem behoben ist.",
       "tag": ["uponu"]
+    },
+     {
+      "title": "Sicherheitslücke PHP - 21.10.2026",
+      "text": "Vorsorgliche Abschaltung PHP-basierter Dienste – Status: Maßnahme aktiv, ab sofort. Aufgrund einer kritischen Sicherheitslücke in PHP (BSI-Warnmeldung WID-SEC-2026-4055) haben wir alle PHP-basierten Dienste vorsorglich abgeschaltet. Sicherheitsupdates werden eingespielt, sobald sie verfügbar sind; danach nehmen wir die Dienste nach einem Funktionstest schrittweise wieder in Betrieb. Nicht erreichbar: Nextcloud, UPONU Ticketsystem (Tanss). Voraussichtliche Dauer: bis zur Veröffentlichung und Einspielung des Software-Updates. Alle anderen Dienste laufen normal weiter, Ihre Daten bleiben erhalten. Wir aktualisieren diese Meldung, sobald die Dienste wieder verfügbar sind.",
+      "tag": ["uponu"]
     }
   ],
   "upcomingMaintenance": [
