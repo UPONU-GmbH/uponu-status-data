@@ -1,8 +1,8 @@
 {
   "statusAlert": [
     {
-      "message": "Systeme sind eingeschränkt verfügbar",
-      "alertColor": "warning",
+      "message": "Alle Systeme sind verfügbar",
+      "alertColor": "success",
       "tag": ["all"]
     }
   ],
@@ -10,11 +10,6 @@
     {
       "title": "Störung Exchange Mail - 16.10.26",
       "text": "Seit dem Microsoft Patchday am 13.10 kommt es vereinzelt zu Problemen im Mailversand. Das Problem wurde seitens Microsoft bereits bestätigt. Wir untersuchen die Systeme und warten auf eine Lösung seitens Microsoft. Die Statusseite wird aktualisiert sobald das Problem behoben ist.",
-      "tag": ["uponu"]
-    },
-     {
-      "title": "Sicherheitslücke PHP - 21.10.2026",
-      "text": "Vorsorgliche Abschaltung PHP-basierter Dienste – Status: Maßnahme aktiv seit 21.10.2026. Aufgrund einer kritischen Sicherheitslücke in PHP (BSI-Warnmeldung WID-SEC-2026-4055) haben wir alle PHP-basierten Dienste vorsorglich vom Netz genommen. Betroffene Dienste: Nextcloud und das UPONU Ticketsystem (Tanss) sind derzeit nicht erreichbar. Alle anderen Dienste laufen normal weiter, Ihre Daten bleiben vollständig erhalten. Weiteres Vorgehen: Sobald die Sicherheitsupdates veröffentlicht sind, spielen wir sie ein. Nach einem Funktionstest nehmen wir die Dienste schrittweise wieder in Betrieb. Support: Während das Ticketsystem nicht verfügbar ist, erreichen Sie uns telefonisch unter 0271/2229580. Wir aktualisieren diese Meldung, sobald die Dienste wieder verfügbar sind.",
       "tag": ["uponu"]
     }
   ],
@@ -217,6 +212,11 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Sicherheitslücke PHP - 21.10.2026",
+      "text": "Vorsorgliche Abschaltung PHP-basierter Dienste – Status: Maßnahme aktiv seit 21.10.2026. Aufgrund einer kritischen Sicherheitslücke in PHP (BSI-Warnmeldung WID-SEC-2026-4055) haben wir alle PHP-basierten Dienste vorsorglich vom Netz genommen. Betroffene Dienste: Nextcloud und das UPONU Ticketsystem (Tanss) sind derzeit nicht erreichbar. Alle anderen Dienste laufen normal weiter, Ihre Daten bleiben vollständig erhalten. Weiteres Vorgehen: Sobald die Sicherheitsupdates veröffentlicht sind, spielen wir sie ein. Nach einem Funktionstest nehmen wir die Dienste schrittweise wieder in Betrieb. Support: Während das Ticketsystem nicht verfügbar ist, erreichen Sie uns telefonisch unter 0271/2229580. Wir aktualisieren diese Meldung, sobald die Dienste wieder verfügbar sind.",
+      "tag": ["uponu"]
+    },
     {
       "title": "Störung  - 04.08.26 16:18 Uhr bis 16:42 Uhr",
       "text": "Von 16:18 Uhr bis 16:32 Uhr waren Nextcloud-Instanzen nicht erreichbar. Von 16:18 Uhr bis 16:42 Uhr war die Telefonie nicht erreichbar.",
