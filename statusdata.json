@@ -11,6 +11,11 @@
       "title": "Störung Exchange Mail - 16.10.26",
       "text": "Seit dem Microsoft Patchday am 13.10 kommt es vereinzelt zu Problemen im Mailversand. Das Problem wurde seitens Microsoft bereits bestätigt. Wir untersuchen die Systeme und warten auf eine Lösung seitens Microsoft. Die Statusseite wird aktualisiert sobald das Problem behoben ist.",
       "tag": ["uponu"]
+    },
+    {
+      "title": "Störung Mailstore - 27.10.26",
+      "text": "Aktuell gibt es Probleme beim Zugriff auf **mailstore.host-it.cloud** und **mailstore.paar-it.de**. Die E-Mail Archivierung ist nicht betroffen. Wir untersuchen das Problem mit höchster Priorität und aktualisieren die Statusseite, sobald weitere Informationen vorliegen. ",
+      "tag": ["uponu"]
     }
   ],
   "upcomingMaintenance": [
