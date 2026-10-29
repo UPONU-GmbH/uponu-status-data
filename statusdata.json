@@ -14,7 +14,11 @@
     }
   ],
   "upcomingMaintenance": [
-    
+    {
+     "title": "Geplante Wartungsarbeiten an Core-Routern  - 11.11.26",
+      "text": "am 11.11.2026 gegen 22:00 Uhr führen wir planmäßige Anpassungen an unseren Core-Routern durch.\n\nMögliche Auswirkungen:\nWährend der Arbeiten kann es zu Aussetzern bei Diensten kommen, die eine IP-Adresse aus den folgenden Subnetzen verwenden:\n\n- 45.132.28.0/24\n- 45.132.29.0/24\n\nEs sind alle Dienste betroffen, die über die genannten IPs aus dem WAN erreichbar sind. Betroffen sind unter anderem:\n\n- Horizon VDI Sitzungen\n- Exchange\n- Alle Dienste hinter unserem Shared Reverse Proxy\n\nZeitfenster: 11.11.2026, ab ca. 22:00 Uhr (voraussichtliche Dauer: ca. 2 Stunden)",
+      "tag": ["uponu"]
+    }
   ],
 
   "returningMaintenance": [
