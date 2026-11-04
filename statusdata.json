@@ -8,6 +8,11 @@
   ],
   "incidents": [
     {
+      "title": "Wartungen an den OpenStack Hypervisoren - ab sofort",
+      "text": "Aufgrund der aktuell anstehenden CVE: /nCVE-2026-99999 (9.3) -> Host Escape aus einer Virtuellen Maschine /nCVE-2026-98432 (9.8) -> IPv4-Exploit auf dem OS /n/nMüssen ab sofort stückweise alle Hyervisor-Hosts aktualisiert werden. /nDie Aktualisierung erfolgt transparent im Hintergrund und sollte keine Auswirkungen auf den Betrieb haben. /nDer Betrieb der virtuellen Maschinen auf den Hypervisor-Hosts bleibt uneingeschränkt.",
+      "tag": ["uponu"]
+    },
+    {
       "title": "Störung Exchange Mail - 16.10.26",
       "text": "Seit dem Microsoft Patchday am 13.10 kommt es vereinzelt zu Problemen im Mailversand. Das Problem wurde seitens Microsoft bereits bestätigt. Wir untersuchen die Systeme und warten auf eine Lösung seitens Microsoft. Die Statusseite wird aktualisiert sobald das Problem behoben ist.",
       "tag": ["uponu"]
