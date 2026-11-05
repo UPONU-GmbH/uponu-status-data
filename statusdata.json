@@ -1,12 +1,17 @@
 {
   "statusAlert": [
     {
-      "message": "Alle Systeme sind verfügbar",
-      "alertColor": "success",
+      "message": "Systeme sind eingeschränkt verfügbar",
+      "alertColor": "warning",
       "tag": ["all"]
     }
   ],
   "incidents": [
+    {
+      "title": "Störung: E-Mail (Exchange / OWA",
+      "text": "Aktuell kommt es beim Zugriff auf Exchange (Outlook Web App) zu Störungen. Der Versand, Empfang und Abruf von E-Mails kann eingeschränkt oder nicht möglich sein. Wir sind bereits an der Ursache dran.",
+      "tag": ["uponu"]
+    },
     {
       "title": "Wartungen an den OpenStack Hypervisoren - ab sofort",
       "text": "Aufgrund der aktuell anstehenden CVE:\nCVE-2026-99999 (9.3) -> Host Escape aus einer Virtuellen Maschine\nCVE-2026-98432 (9.8) -> IPv4-Exploit auf dem OS\n\nMüssen ab sofort stückweise alle Hyervisor-Hosts aktualisiert werden.\nDie Aktualisierung erfolgt transparent im Hintergrund und sollte keine Auswirkungen auf den Betrieb haben.\nDer Betrieb der virtuellen Maschinen auf den Hypervisor-Hosts bleibt uneingeschränkt.",
