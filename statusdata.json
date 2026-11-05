@@ -1,17 +1,12 @@
 {
   "statusAlert": [
     {
-      "message": "Systeme sind eingeschränkt verfügbar",
-      "alertColor": "warning",
+      "message": "Alle Systeme sind verfügbar",
+      "alertColor": "success",
       "tag": ["all"]
     }
   ],
   "incidents": [
-    {
-      "title": "Störung: E-Mail (Exchange / OWA",
-      "text": "Aktuell kommt es beim Zugriff auf Exchange (Outlook Web App) zu Störungen. Der Versand, Empfang und Abruf von E-Mails kann eingeschränkt oder nicht möglich sein. Wir sind bereits an der Ursache dran.",
-      "tag": ["uponu"]
-    },
     {
       "title": "Wartungen an den OpenStack Hypervisoren - ab sofort",
       "text": "Aufgrund der aktuell anstehenden CVE:\nCVE-2026-99999 (9.3) -> Host Escape aus einer Virtuellen Maschine\nCVE-2026-98432 (9.8) -> IPv4-Exploit auf dem OS\n\nMüssen ab sofort stückweise alle Hyervisor-Hosts aktualisiert werden.\nDie Aktualisierung erfolgt transparent im Hintergrund und sollte keine Auswirkungen auf den Betrieb haben.\nDer Betrieb der virtuellen Maschinen auf den Hypervisor-Hosts bleibt uneingeschränkt.",
@@ -231,6 +226,11 @@
     }
   ],
   "resolvedIncidents": [
+    {
+      "title": "Störung: E-Mail (Exchange / OWA",
+      "text": "Aktuell kommt es beim Zugriff auf Exchange (Outlook Web App) zu Störungen. Der Versand, Empfang und Abruf von E-Mails kann eingeschränkt oder nicht möglich sein.",
+      "tag": ["uponu"]
+    },
     {
       "title": "Störung Mailstore - 27.10.26",
       "text": "Aktuell gibt es Probleme beim Zugriff auf **mailstore.host-it.cloud** und **mailstore.paar-it.de**. Die E-Mail Archivierung ist nicht betroffen. Wir untersuchen das Problem mit höchster Priorität und aktualisieren die Statusseite, sobald weitere Informationen vorliegen. ",
