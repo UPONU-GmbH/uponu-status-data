@@ -1,17 +1,12 @@
 {
   "statusAlert": [
     {
-      "message": "Systeme sind eingeschränkt verfügbar",
-      "alertColor": "warning",
+      "message": "Alle Systeme sind verfügbar",
+      "alertColor": "success",
       "tag": ["all"]
     }
   ],
   "incidents": [
-    {
-      "title": "Störung Microsoft - 13.11.26",
-      "text": "Aktuell gibt es eine weltweite Störung bei Microsoft. Outlook, Teams und weitere Microsoft 365 Dienste können eingeschränkt sein. Die Ursache liegt bei Microsoft, wir beobachten die Lage und informieren auf dieser Statusseite sobald das Problem behoben ist..",
-      "tag": ["uponu", "ups"]
-    }
   
   ],
   "upcomingMaintenance": [
