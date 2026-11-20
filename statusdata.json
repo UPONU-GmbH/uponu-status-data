@@ -7,11 +7,7 @@
     }
   ],
   "incidents": [
-    {
-      "title": "Security Patch der VDI Verbindungssysteme - 20.11 von 12:00-13:30 Uhr",
-      "text": "Auf den zentralen Systemen für die VDI Verbindung zu den Terminalserver Arbeitsplätzen werden wichtige Sicherheit Updates bezüglich der Lücke java4shell (CVE-2026-114938) durchgeführt. Während der gesamten Wartung kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Terminalserver kommen da die zentralen Verbindungssysteme mehrfach neugestartet werden müssen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
-      "tag": ["uponu"]
-    }
+    
   ],
   "upcomingMaintenance": [
     {
@@ -65,7 +61,12 @@
     }
   ],
   "closedMaintenance": [
-      {
+    {
+      "title": "Security Patch der VDI Verbindungssysteme - 20.11 von 12:00-13:30 Uhr",
+      "text": "Auf den zentralen Systemen für die VDI Verbindung zu den Terminalserver Arbeitsplätzen werden wichtige Sicherheit Updates bezüglich der Lücke java4shell (CVE-2026-114938) durchgeführt. Während der gesamten Wartung kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Terminalserver kommen da die zentralen Verbindungssysteme mehrfach neugestartet werden müssen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
+      "tag": ["uponu"]
+    },
+    {
      "title": "Geplante Wartungsarbeiten an Core-Routern  - 11.11.26",
       "text": "am 11.11.2026 gegen 22:00 Uhr führen wir planmäßige Anpassungen an unseren Core-Routern durch.\n\nMögliche Auswirkungen:\nWährend der Arbeiten kann es zu Aussetzern bei Diensten kommen, die eine IP-Adresse aus den folgenden Subnetzen verwenden:\n\n- 45.132.28.0/24\n- 45.132.29.0/24\n\nEs sind alle Dienste betroffen, die über die genannten IPs aus dem WAN erreichbar sind. Betroffen sind unter anderem:\n\n- Horizon VDI Sitzungen\n- Exchange\n- Alle Dienste hinter unserem Shared Reverse Proxy\n\nZeitfenster: 11.11.2026, ab ca. 22:00 Uhr (voraussichtliche Dauer: ca. 2 Stunden)",
       "tag": ["uponu"]
