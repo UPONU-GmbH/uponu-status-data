@@ -7,8 +7,18 @@
     }
   ],
   "incidents": [
+    {
+      "title": "Security Patch der VDI Verbindungssysteme - 20.11 von 12:00-13:30 Uhr",
+      "text": "Auf den zentralen Systemen für die VDI Verbindung zu den Terminalserver Arbeitsplätzen werden wichtige Sicherheit Updates bezüglich der Lücke java4shell (CVE-2026-114938) durchgeführt. Während der gesamten Wartung kann es zu Verbindungsaussetzern und einer nicht erreichbarkeit der einzelnen Terminalserver kommen da die zentralen Verbindungssysteme mehrfach neugestartet werden müssen. Sobald die Wartung abgeschlossen ist wird die Statusseite aktualisiert.",
+      "tag": ["uponu"]
+    }
   ],
   "upcomingMaintenance": [
+    {
+      "title": "Firewall Updates - 24.11 ab 19:00 Uhr",
+      "text": "Wir installieren kurzfristige, kritische Hotfixes auf unseren Datacenter- und Kunden-Firewalls. Diese Maßnahme ist zwingend erforderlich, um die Sicherheit der von uns kontrollierten Hardware in den deutschen Rechenzentren auf dem höchsten Stand zu halten.\nAuswirkungen: Trotz unserer redundanten Systemarchitektur bricht die Netzwerkverbindung zu den gehosteten Services (wie VDI, Webserver, Nextcloud) während des Updates für wenige Minuten ab. Wir aktualisieren diese Statusseite umgehend, sobald wir die Hotfixes erfolgreich eingespielt haben und der Normalbetrieb wiederhergestellt ist.",
+      "tag": ["uponu"]
+    },
     {
       "title": "Wartung der VDI Verbindungssysteme - 02.12 ab 20:00 Uhr",
       "text": "Am 02.12.2026 ab 20 Uhr führen wir wichtige Wartungsarbeiten an den zentralen Systemen für die VDI Verbindung zu den Terminalserver Arbeitsplätzen durch. Ausfälle oder Verbindungsprobleme sind dabei nicht zu erwarten. Sobald die Wartung abgeschlossen ist, aktualisieren wir die Statusseite.",
