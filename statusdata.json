@@ -1,17 +1,12 @@
 {
   "statusAlert": [
     {
-      "message": "Systeme sind eingeschränkt verfügbar",
-      "alertColor": "warning",
+      "message": "Alle Systeme sind verfügbar",
+      "alertColor": "success",
       "tag": ["all"]
     }
   ],
   "incidents": [
-    {
-      "title": "Nextcloud: Vorübergehende Sperrung wegen PHP-Sicherheitslücke - 19.11.2026 ab 16:30 Uhr",
-      "text": "In PHP wurde eine Sicherheitslücke bekannt, die auch Nextcloud betrifft. Zum Schutz der Kundendaten haben wir die betroffenen Nextcloud-Instanzen vorsorglich gesperrt. Sie sind derzeit nicht erreichbar. Wir spielen das Sicherheitsupdate ein und geben die Instanzen danach wieder frei.",
-      "tag": ["uponu"]
-    }
   ],
   "upcomingMaintenance": [
     {
